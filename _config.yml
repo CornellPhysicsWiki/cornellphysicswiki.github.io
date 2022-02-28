@@ -22,7 +22,7 @@ title: Cornell Physics Wiki
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Student-run wiki for students interested in physics at Cornell University
-baseurl: "/Cornell-SPS.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "/Cornell-SPS.github.io" # the subpath of your site, e.g. /blog
 url: "https://Cornell-SPS.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
