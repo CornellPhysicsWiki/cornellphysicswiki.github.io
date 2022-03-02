@@ -3,9 +3,6 @@ title: Home
 layout: default
 ---
 <link rel="stylesheet" href="main.css">
-<head>
-<meta name="google-site-verification" content="9CqyKwKR5hXHn7eQUichFRGDb_kLqd2a_kk0FbisgJ4" />
-</head>
 
 ## Welcome to the Unofficial Cornell Physics Wiki
 
