@@ -15,6 +15,8 @@ This is not limited to only coursework. Contribute any resources or additional p
 
 - [Freshman Brochure](https://cornell.app.box.com/s/z6c279yo0r3kp8hzskgmvqyqhli8wemf) — Major requirements on page 8, sample schedules on page 11
 - [Contributing Guide](/contributing_guide.html)
+- [Prospective Freshmen Panel](https://drive.google.com/file/d/1H8pdaKa5sEt5G8hvo-V2zcQc2HdVRFnf/view?usp=sharing)
+- [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
 
 ## Physics Community Pages
 
@@ -69,6 +71,13 @@ Please check the course roster for official, up-to-date information. The Wiki is
 - [MATH 1920](/classes/MATH1920.html) - Multivariable Calculus for Engineers
 - [MATH 2930](/classes/MATH2930.html) - Differential Equations for Engineers
 - [MATH 2940](/classes/MATH2940.html) - Linear Algebra for Engineers
+
+## Research Programs
+
+- SURF
+- REU
+- Los Alamos National Laboratory Computational Physics Workshop
+- Perimeter Institute Undergraduate Program
 
 ## Clubs and Project Teams
 

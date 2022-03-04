@@ -32,6 +32,6 @@ layout: post
 ## Past Offerings
 
 {:.past-offerings}
-| Semester | Professor | Median Grade | Course Page |
+| Semester | Professor | Median Grade | Syllabus |
 | --- | --- | --- | --- |
 |  |  |  |  |
