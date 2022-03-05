@@ -72,16 +72,52 @@ Please check the course roster for official, up-to-date information. The Wiki is
 - [MATH 2930](/classes/MATH2930.html) - Differential Equations for Engineers
 - [MATH 2940](/classes/MATH2940.html) - Linear Algebra for Engineers
 
-## Research Programs
+## Research Programs and Opportunities
 
-- SURF
-- REU
-- Los Alamos National Laboratory Computational Physics Workshop
-- Perimeter Institute Undergraduate Program
+### External Research Programs and Internships
+- [SURF at CalTech](https://sfp.caltech.edu/undergraduate-research/programs/surf)
+- [REU Programs](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=69)
+- [Los Alamos National Laboratory Computational Physics Workshop](https://www.lanl.gov/org/padwp/adx/computational-physics/summer-workshop/index.php)
+- [Perimeter Institute START Program](https://perimeterinstitute.ca/psi-start-program)
+- [Sandia Labs Internship](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/)
+- [Air Force Research Lab Internship](https://www.griffissinstitute.org/who-we-work-with/afrl/summer-internship)
+- [Lee Teng Internship in Accelerator Physics at Fermilab](https://internships.fnal.gov/lee-teng-undergraduate-internship/)
+- [Harvard SEAS REU](https://www.seas.harvard.edu/office-education-outreach-community-programs/research-experience-undergraduates-reu)
+- [Science Undergraduate Laboratory Internships (SULI)](https://science.osti.gov/wdts/suli)
+- [RISE Germany](https://www.daad.de/rise/en/rise-germany/)
+- [NASA JPL Internship](https://www.jpl.nasa.gov/edu/intern/)
+- [MIT Lincoln Labs Summer Research Program](https://www.ll.mit.edu/careers/student-opportunities/summer-research-program)
+- [Johns Hopkins Applied Physics Lab College Summer Intern Program](https://www.jhuapl.edu/careers/internships)
+- [Lockheed Martin Student Internship](https://www.lockheedmartinjobs.com/college-students)
+- [NASA Academy](https://www.academyapp.com)
+- [Kupcinet-Getz International Summer School](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
+- [Santa Fe Institute Undergraduate Complexity Research](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
 
-## Clubs and Project Teams
+### Cornell-Sponsored Events, Scholarships and Opportunities
+- [Rawlings Cornell Presidential Research Scholars](https://scl.cornell.edu/get-involved/cornell-commitment/rawlings-cornell-presidential-research-scholars)
+- [W.E Cornell](https://crea.cornell.edu/project/w-e-cornell/)
+- [Cornell Mathematical Contest in Modelling](https://e.math.cornell.edu/sites/mcm/)
 
-- 
+### Awards
+- Stirling A. Colgate Award - Physics (Cornell)
+- Albert Silverman Memorial Award (Cornell)
+- Douglas Fitchen Memorial Award (Cornell)
+- [NCWIT Collegiate Award](https://www.aspirations.org/award-programs/aic-collegiate-award)
+
+### External Scholarships
+- [Goldwater Scholarship](https://goldwaterscholarship.gov)
+- [Adobe Research Women in Tech Scholarship](https://research.adobe.com/scholarship/)
+- [Palantir Women in Tech scholarship](https://www.palantir.com/careers/students/scholarship/wit-north-america/)
+- [Palantir Global Impact Scholarship](https://www.palantir.com/careers/students/scholarship/global-impact/)
+- [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/)
+- [Lockheed Martin STEM Scholarship](https://www.lockheedmartin.com/en-us/who-we-are/communities/stem-education/lm-scholarship-program.html)
+
+### Related Fellowships
+- [Brooke Owens Fellowship](http://www.brookeowensfellowship.org)
+- [Civic Digital Fellowship](https://www.codingitforward.com/summer-fellowships)
+- [D.E Shaw Fellowships](https://fellowships.deshaw.com)
+- [Science and Technology Policy Fellowship at the Institute for Defense Analyses](https://www.ida.org/en/careers/students-and-recent-graduates/summer-associate-internships-and-fellowships/science-policy-fellowship)
+- [HackNY Fellowship](https://hackny.org/fellows-program)
 
 ## Hackathons
 
