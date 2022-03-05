@@ -64,7 +64,7 @@ Now you will need to switch to your new branch on your local computer, so that a
 
 ### Make your changes
 
-Now that you are pretty much all set up, you can start making your changes! The website pages are written using Markdown. Markdown is a simple tool for adding formatting to plain text documents. A quick guide to the syntax can be found [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). It is intended to be simple to use and easy to read.
+Now that you are pretty much all set up, you can start making your changes! You can use any code editor you like, such as Visual Studio Code. The website pages are written using Markdown. Markdown is a simple tool for adding formatting to plain text documents. A quick guide to the syntax can be found [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). It is intended to be simple to use and easy to read.
 
 There’s also some Markdown formatting specific to the software we’re using for this wiki, [Jekyll](https://jekyllrb.com). In particular, you might notice a section like this at the top of every page:
 
@@ -86,10 +86,42 @@ After you make your changes, you may want to run the website locally to see if e
 
 ### Submit a pull request
 
-You've created some amazing new pages and changes, and now you want to add them to the public wiki website! First, you will need to commit/save your changes to your branch. In your terminal:
+You've created some amazing new pages and changes, and now you want to add them to the public wiki website! The way GitHub does this is through pull requests, where you merge all the changes on your new branch into `master`. First, you will need to commit your changes to your branch. In your terminal:
 
 - Go to the folder where all the website files are store using `cd` commands
+- Check that all the files you edited have been saved
 - Enter `git add -A`
 - Enter `git commit -m [summary of your changes in a few words]`
 - Enter `git push`
 
+Go to the [pull requests section](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io/pulls) of the code repository and click "New Pull Request"
+
+<img src="/imgs/pull_request_1.png">
+
+There should be a gray box that says "Compare: [your branch]". If it doesn't say your branch name, then make sure to change it before making your pull request.
+
+<img src="/imgs/pull_request_2.png">
+
+Click "Create pull request". You should be redirected to a new page similar to the one below.
+
+<img src="/imgs/pull_request_3.png">
+
+Enter some comments about your changes so that the website 
+administrators/reviewer knows what changes you made. On the right, you will need to add at least one reviewer. This reviewer must be a website administrator and can be any of the people below:
+
+- Fatima Yousuf (fatimayousuf)
+- Colin Murphy (colincmurphy)
+- Ved Sriraman (sriramanved)
+- Ariel Marxena (arixena24)
+- Stella Dang (stelladang)
+- Devisree Tallapaneni (devisreet)
+
+Click "Create Pull Request". You're reviewer might suggest some edits to your changes. Once your changes are approved, the website will be updated. Most of the time, as soon as we get around to reviewing your changes, we’ll just accept them.
+
+Congratulations, you’re a contributor! If you’ve never done this before, then even better—you’ve just made your first contribution to open source.
+
+If you want to add yourself to the contributors list, feel free to edit the file `contributors.md` and add your name.
+
+## Joining the Team
+
+As you’ve no doubt noticed, this is a student-run wiki. We do have some reviewing and moderation—this is just to keep out spam, and so that we can introduce people to open source/Git as well. If you’re interested in working with us, drop us an email!
