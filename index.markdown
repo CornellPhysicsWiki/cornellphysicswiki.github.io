@@ -14,7 +14,7 @@ This is not limited to only coursework. Contribute any resources or additional p
 ## Handy Links
 
 - [Freshman Brochure](https://cornell.app.box.com/s/z6c279yo0r3kp8hzskgmvqyqhli8wemf) — Major requirements on page 8, sample schedules on page 11
-- [Contributing Guide](/contributing_guide.html)
+- [Contributing Guide](/contributing_guide.html) and [Contributors](/contributors.html)
 - [Prospective Freshmen Panel](https://drive.google.com/file/d/1H8pdaKa5sEt5G8hvo-V2zcQc2HdVRFnf/view?usp=sharing)
 - [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
 
