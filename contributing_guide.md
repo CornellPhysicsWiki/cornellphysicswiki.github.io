@@ -62,7 +62,7 @@ Now you will need to switch to your new branch on your local computer, so that a
 `git pull`<br/>
 `git checkout [your branch]`
 
-### Make your changes
+### 4. Make your changes
 
 Now that you are pretty much all set up, you can start making your changes! You can use any code editor you like, such as Visual Studio Code. The website pages are written using Markdown. Markdown is a simple tool for adding formatting to plain text documents. A quick guide to the syntax can be found [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). It is intended to be simple to use and easy to read.
 
@@ -84,7 +84,7 @@ After you make your changes, you may want to run the website locally to see if e
 - If jekyll is installed correctly, when you run `jekyll serve` or `bundle exec jekyll serve`, you should see a serving running message. 
 - Navigate to the server address in your browser (normally “127.0.0.1:4000”). You should see the page rendered.
 
-### Submit a pull request
+### 5. Submit a pull request
 
 You've created some amazing new pages and changes, and now you want to add them to the public wiki website! The way GitHub does this is through pull requests, where you merge all the changes on your new branch into `master`. First, you will need to commit your changes to your branch. In your terminal:
 

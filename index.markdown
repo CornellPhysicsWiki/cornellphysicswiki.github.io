@@ -17,6 +17,9 @@ This is not limited to only coursework. Contribute any resources or additional p
 - [Contributing Guide](/contributing_guide.html) and [Contributors](/contributors.html)
 - [Prospective Freshmen Panel](https://drive.google.com/file/d/1H8pdaKa5sEt5G8hvo-V2zcQc2HdVRFnf/view?usp=sharing)
 - [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
+- [Engineering vs. Honors Physics Sequence](/engineering_vs_honors.html)
+- [What Class Should I Take Next?]()
+- [The Path to Graduate School]()
 
 ## Physics Community Pages
 
