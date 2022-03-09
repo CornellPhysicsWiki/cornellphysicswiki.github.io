@@ -40,6 +40,7 @@ Here are some sample 4-year schedules for the physics major based on your level 
 <span class="concentration">Green text</span>: Classes for concentration
 
 Some additional notes:
+- We definitely recommend that you take introductory CS classes such as CS 1110 and/or CS 2110 in addition to your physics classes. If you want to get involved in research, knowing how to code will definitely come in handy. Upper-level physics labs may also require some basic coding skills. 
 - It is also common for people with high school calculus and physics preparation to take PHYS 3316 and PHYS 3318 in the same semester.
 - Students without a background in physics or calculus are usually advised to choose the outside concentration in order to more easily complete the major requirements within 8 semesters. This is definitely not a hard requirement - you can also do an inside concentration if you wish.
 - This sample schedule is only a recommendation. You are free to switch up the order of classes so long as you still fulfill the required prerequisites.
