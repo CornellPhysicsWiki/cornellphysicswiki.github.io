@@ -2,7 +2,7 @@
 title: Which Classes Should I Take?
 layout: post
 ---
-<link rel="stylesheet" href="/main.css">
+<link rel="stylesheet" href="main.css">
 
 * TOC
 {:toc}

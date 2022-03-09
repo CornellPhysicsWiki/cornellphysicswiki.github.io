@@ -18,13 +18,13 @@ span.ml-1\/2 {
 
 /* For sample schedules in which_class.md*/
 span.math{
-    color:blue;
+    color:blue !important;
 }
 
 span.concentration{
-    color:green;
+    color:green !important;
 }
 
 span.inside-concentration{
-    color:red;
+    color:red !important;
 }
