@@ -15,3 +15,16 @@ span.ml-1\/2 {
 .site-nav{
     display:none
 }
+
+/* For sample schedules in which_class.md*/
+.math{
+    color:blue;
+}
+
+.concentration{
+    color:green;
+}
+
+.inside-concentration{
+    color:red;
+}
