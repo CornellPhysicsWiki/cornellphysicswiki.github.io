@@ -19,8 +19,8 @@ This is not limited to only coursework. Contribute any resources or additional p
 - [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
 - [Engineering vs. Honors Physics Sequence](/engineering_vs_honors.html)
 - [Which Classes Should I Take?](/which_class.html)
-- [The Path to Graduate School]()
-- [Potential Career Paths]()
+- [Potential Career Paths](/career_paths.html)
+- [The Path to Graduate School](/grad_school.html)
 
 ## Physics Community Pages
 
@@ -116,18 +116,38 @@ Please check the course roster for official, up-to-date information. The Wiki is
 - [Generation Google Scholarship](https://buildyourfuture.withgoogle.com/scholarships/generation-google-scholarship/)
 - [Lockheed Martin STEM Scholarship](https://www.lockheedmartin.com/en-us/who-we-are/communities/stem-education/lm-scholarship-program.html)
 
-### Related Fellowships
+### Related Undergraduate Fellowships
 - [Brooke Owens Fellowship](http://www.brookeowensfellowship.org)
 - [Civic Digital Fellowship](https://www.codingitforward.com/summer-fellowships)
 - [D.E Shaw Fellowships](https://fellowships.deshaw.com)
 - [Science and Technology Policy Fellowship at the Institute for Defense Analyses](https://www.ida.org/en/careers/students-and-recent-graduates/summer-associate-internships-and-fellowships/science-policy-fellowship)
 - [HackNY Fellowship](https://hackny.org/fellows-program)
 
+### Graduate Fellowships
+- [National Science Foundation Graduate Research Fellowship Program (NSF-GRFP)](https://www.nsfgrfp.org)
+- [National Defense Science and Engineering Graduate Fellowship (NSDEG)](https://ndseg.sysplus.com)
+- [Department of Energy – Computational Science Graduate Fellowship (CSGF)](https://www.krellinst.org/csgf/)
+- [Department of Energy – Stewardship Science Graduate Fellowship (DOE-SSGF)](https://www.krellinst.org/ssgf/about-doe-nnsa-ssgf)
+- [NASA Fellowships](https://science.nasa.gov/learners/learner-opportunities#grad)
+- [Hertz Fellowship](https://www.hertzfoundation.org)
+- [Ford Foundation Fellowships](https://sites.nationalacademies.org/PGA/FordFellowships/index.htm)
+- [GEM Fellowships](https://www.gemfellowship.org/gem-fellowship-program/)
+- [Soros Fellowships for New Americans](https://www.pdsoros.org)
+- [American Association of University Women Fellowships](https://www.aauw.org/resources/programs/fellowships-grants/)
+
+### Graduate Fellowships for Study Abroad
+- [Churchill Scholarship](https://scl.cornell.edu/get-involved/career-services/graduate-and-professional-study/fellowships/prestigious-fellowships/fellowship-competitions/churchill-scholarship) - Master’s degrees in STEM fields at the University of Cambridge. One-year award covers all tuition and fees, plus living, travel, and research allowances.
+- [Gates Cambridge Scholarship](https://scl.cornell.edu/get-involved/career-services/graduate-and-professional-study/fellowships/prestigious-fellowships/fellowship-competitions/gates-cambridge-scholarship) - For study at the University of Cambridge. 1-4 years of graduate study, including tuition and fees, twelve-month allowance, and round-trip airfare.
+- [Fulbright](https://scl.cornell.edu/get-involved/career-services/graduate-and-professional-study/fellowships/prestigious-fellowships/fellowship-competitions/fulbright-scholarship) - Study, research, or teaching of English abroad. One-year award, typically covering round-trip transportation, language or orientation courses, tuition, book and research allowances, and living expenses.
+- [Marshall scholarship](https://scl.cornell.edu/get-involved/career-services/graduate-and-professional-study/fellowships/prestigious-fellowships/fellowship-competitions/marshall-scholarship) - For study at any British university. Full tuition, fees, living allowance, and various expenses for 2-3 years.
+- [Rhodes Scholarship](https://scl.cornell.edu/get-involved/career-services/graduate-and-professional-study/fellowships/prestigious-fellowships/fellowship-competitions/rhodes-scholarship) - For study at Oxford University. 2-3 years of full tuition, fees, living allowance, and travel expenses.
+
 ## Hackathons
 
 - [iQuHACK](https://www.iquise.mit.edu/iQuHACK/2022-01-28)
 
-## Outreach Opportunities
+## Outreach and Service Opportunities
 
 - [EYES](https://sites.google.com/site/cornelleyes/)
 - [Splash!](https://cornell.learningu.org)
+- [Cornell Physics UTA Program](https://physics.cornell.edu/undergraduate-teaching-assistant-program)
