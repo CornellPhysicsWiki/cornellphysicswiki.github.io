@@ -13,7 +13,7 @@ This site was started by students just like you, and we need your help in keepin
 this website, you can either: 
 - Edit the code directly, either on GitHub Desktop or with git
 - Submit an issue ticket
-- Fill out this [information form]() and a website admin will update the website content.
+- Fill out this [information form](https://docs.google.com/forms/d/e/1FAIpQLSdVJW974eg64R3mRVyuIaXaxqwjfqlDbGz9ZBlcsLmT27sKBw/viewform?usp=sf_link) and a website admin will update the website content.
 
 ## Create an Issue Ticket
 
