@@ -11,7 +11,7 @@ layout: post
 
 This site was started by students just like you, and we need your help in keeping it up-to-date and adding new content. If you want to update 
 this website, you can either: 
-- Edit the code directly
+- Edit the code directly, either on GitHub Desktop or with git
 - Submit an issue ticket
 - Fill out this [information form]() and a website admin will update the website content.
 
@@ -19,7 +19,77 @@ this website, you can either:
 
 We always welcome new ideas, suggestions, and comments. You can add an issue ticket [here](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io/issues). You will need to create a GitHub account to make an issue ticket.
 
-## Edit the Website Code
+## Edit the Website Code with Github Desktop
+
+You can edit the website directly following these steps:
+
+- Create a GitHub account
+- Edit the website content directly on GitHub Desktop
+- Submit a pull request
+
+### 1. Create a GitHub account
+
+Go to [GitHub](https://github.com) and sign up. You’ll need to confirm your email address before you can do anything else.
+
+### 2. Edit the website content directly on GitHub Desktop
+
+Git can be a bit intimidating to learn for complete beginners. We do explain [how to edit the website with git](https://cornellphysicswiki.github.io/contributing_guide.html#edit-the-website-code-with-git) below. An advantage of this is that you can render your changes locally before submitting a pull request. However, it is also very easy to edit the website source code using GitHub Desktop. Just [visit our repository](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io) and find the page you want to edit. Then hit the edit button! As an example, we will edit the PHYS 1116 class page. Towards the top of the picture below, `cornellphysicswiki.github.io/classes/PHYS1116.md` shows the directory of the file we are editing. We click the pencil icon (in the red box) to edit the page.
+
+<img src="/imgs/edit_page.png">
+
+After you click the pencil icon, you should see the the Markdown source code for the website. Markdown is a simple tool for adding formatting to plain text documents. A quick guide to the syntax can be found [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). It is intended to be simple to use and easy to read.
+
+There’s also some Markdown formatting specific to the software we’re using for this wiki, [Jekyll](https://jekyllrb.com). In particular, you might notice a section like this at the top of every page:
+
+```
+---
+title: PHYS 1116 - Mechanics and Special Relativity
+layout: post
+---
+```
+
+This is just metadata that tells Jekyll what page template to use and what the page title is. You may also see:
+
+```
+<link rel="stylesheet" href="../main.css">
+```
+
+This links a CSS file that helps format the website. You should not edit or delete either of these parts above. Feel free to add/edit any content below these.
+
+If you want to add a new file, such as a class syllabus, navigate to the relevant folder. Towards the top right of the page, there is a box that says `Add file` with a dropdown menu. Click on `Upload files`.
+
+<img src="/imgs/upload_file.png">
+
+You should then be redirected to a new page where you can upload your file. Please be sure to look for and read the README.md files for further instructions on how to name files. Follow the instructions below for committing your uploaded files and edits to the website source code.
+
+### 3. Submit a pull request
+
+Now let's suppose I have added add some general information to the PHYS 1116 page and I want to submit these changes. The way to do this is to create a pull request. Scroll to the bottom of the page you have edited. There should be a box that says `Commit Changes`. Below that, select the option `Create a new branch for this commit and start a pull request`. A new text box should appear that allows you to name your new branch. Don't worry too much about how branches and version control in GitHub work for now. Write a short name for your branch that relates to the changes you have made. 
+
+<img src="/imgs/make_pr.png">
+
+Click `Propose Changes`. After that, you should be redirected to a new page like the one below:
+
+<img src="/imgs/pull_request_3.png">
+
+Enter some comments about your changes so that the website 
+administrators/reviewer knows what changes you made. On the right, you will need to add at least one reviewer. This reviewer must be a website administrator and can be any of the people below:
+
+- Fatima Yousuf (fatimayousuf)
+- Colin Murphy (colincmurphy)
+- Ved Sriraman (sriramanved)
+- Ariel Marxena (arixena24)
+- Stella Dang (stelladang)
+- Devisree Tallapaneni (devisreet)
+
+Click "Create Pull Request". You're reviewer might suggest some edits to your changes. Once your changes are approved, the website will be updated. Most of the time, as soon as we get around to reviewing your changes, we’ll just accept them.
+
+Congratulations, you’re a contributor! If you’ve never done this before, then even better—you’ve just made your first contribution to open source.
+
+If you want to add yourself to the contributors list, feel free to edit the file `contributors.md` and add your name.
+
+
+## Edit the Website Code with Git
 
 You can edit the website directly following these steps:
 

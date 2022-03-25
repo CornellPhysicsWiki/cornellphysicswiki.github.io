@@ -108,7 +108,7 @@ An award in science, engineering, or mathematics is probably most beneficial to 
 
 Apply for national graduate fellowships and special fellowships at each university you apply to. Graduate schools ask you on their applications to list the fellowships you are applying for. It hurts your application if you don’t apply for any — physics professors want to take as little money out of their grants to fund you as possible; they’d rather pay for fancy lab equipment instead. Furthermore, it makes you look really good if you can write down on an application that you’ve already received an interview offer for a relevant fellowship (regardless of whether you end up getting it).
 
-However, be aware that none of these awards guarantees admission to a physics graduate school. They only add sparkle to an application and help confirm the skills exhibited by other sections of curriculum vitae.
+However, be aware that none of these awards guarantees admission to a physics graduate school. They only add sparkle to an application and help confirm the skills exhibited by other sections of your curriculum vitae.
 
 ## Leadership, service, and teaching activities
 
