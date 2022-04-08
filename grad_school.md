@@ -8,6 +8,8 @@ This page is a selection of suggestions you could do to beef up your resume for 
 
 Physics is not for everyone, and it’s not always an easy path. It is hard to get a full-time job in academia, and it's much harder if you [do not have a degree from a top institution](https://www.insidehighered.com/news/2015/02/13/study-suggests-insular-faculty-hiring-practices-elite-departments) (but even then, only a minuscule percent of students at the top institutions become professors). The top graduate schools have acceptance rates slightly under 10%. To add to the difficulty, you will be competing with applicants that already did their undergraduate studies at this very selection of top US physics schools, in addition to the top schools worldwide.
 
+The department website also has more information on this topic [here](https://physics.cornell.edu/applying-grad-school).
+
 Areas we discuss:
 - Research and connections
 - Grades and test scores

@@ -21,11 +21,15 @@ This is not limited to only coursework. Contribute any resources or additional p
 - [Which Classes Should I Take?](/which_class.html)
 - [Potential Career Paths](/career_paths.html)
 - [The Path to Graduate School](/grad_school.html)
+- [PhysTech - Physics Teacher Education Coalition](http://phystec.physics.cornell.edu)
+- [Department Resources](https://physics.cornell.edu/general-resources)
+- [APS Resources for Undergraduates](https://www.aps.org/programs/education/undergrad/students/)
 
 ## Physics Community Pages
 
-- [Cornell SPS](https://www.spscornell.org) — Society of Physics Students
-- [Cornell WiP+](https://physics.cornell.edu/women-in-physics) — Women in Physics
+- [SPS](https://www.spscornell.org) — Society of Physics Students
+- [WiP+](https://physics.cornell.edu/women-in-physics) — Women in Physics
+- [GWIS](https://gwiscornell.wordpress.com) — Graduate Women in Science
 
 ## Physics Classes
 
@@ -151,3 +155,4 @@ Please check the course roster for official, up-to-date information. The Wiki is
 - [EYES](https://sites.google.com/site/cornelleyes/)
 - [Splash!](https://cornell.learningu.org)
 - [Cornell Physics UTA Program](https://physics.cornell.edu/undergraduate-teaching-assistant-program)
+- [Cornell Learning Strategies Center (LSC) Tutoring](https://lsc.cornell.edu)
