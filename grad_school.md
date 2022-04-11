@@ -116,7 +116,7 @@ Involvement in teaching and outreach activities shows that you’re interested i
 
 Furthermore, most major national fellowships will flat-out reject your application if you did not participate in any leadership, teaching, or service activities during college. For example, most government-funded fellowships evaluate you on two criteria: intellectual merit and broader impacts. The broader impacts part of your evaluation does in some sense evaluate whether the research you want to do has any application. However, the NSF committee usually construes the broader impacts section of your fellowships essay to also include your influence on the scientific community. Generally, you need teaching or outreach opportunities to satisfy that requirement.
 
-References + More Helpful Links
+## References + More Helpful Links
 - [https://physics.cornell.edu/applying-grad-school](https://physics.cornell.edu/applying-grad-school)
 - [http://sps.wustl.edu/advice/applications/best-schools/](http://sps.wustl.edu/advice/applications/best-schools/)
 - [https://physics.duke.edu/advice-applying-graduate-school](https://physics.duke.edu/advice-applying-graduate-school)
