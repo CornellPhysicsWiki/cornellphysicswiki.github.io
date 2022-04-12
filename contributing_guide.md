@@ -56,11 +56,40 @@ This is just metadata that tells Jekyll what page template to use and what the p
 
 This links a CSS file that helps format the website. You should not edit or delete either of these parts above. Feel free to add/edit any content below these.
 
+**Uploading Files**
+
 If you want to add a new file, such as a class syllabus, navigate to the relevant folder. Towards the top right of the page, there is a box that says `Add file` with a dropdown menu. Click on `Upload files`.
 
 <img src="/imgs/upload_file.png">
 
 You should then be redirected to a new page where you can upload your file. Please be sure to look for and read the README.md files for further instructions on how to name files. Follow the instructions below for committing your uploaded files and edits to the website source code.
+
+**Adding New Course Pages**
+
+If you notice that a physics or physics-related class is missing from this wiki, we would appreciate you adding a new course page and adding some information! To do this, first go to the code for this [default class page](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io/blob/master/default_class_page.md) and click "Copy raw contents".
+
+<img src="/imgs/copy_default_class.png">
+
+Navigate to the [classes folder](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io/tree/master/classes) on the GitHub repository. In the top right, click "Add file" and "Create new file". You should be redirected to a new page, where you can paste the raw contents of the default class page. Set the name of the file to be: `[Four letters of course name][Four numbers of course name].md`, for example, `PHYS2218.md`. Edit the content of the page and add information. Don't forget to change the "Class Name" in:
+
+```
+---
+title: Class Name
+layout: post
+---
+```
+
+<img src="/imgs/create_new_class.png">
+
+Follow the instructions below for creating a pull request to add this class file to the website.
+
+Once you have made the pull request, go back to the [home page of the wiki](https://github.com/CornellPhysicsWiki/cornellphysicswiki.github.io/blob/master/index.markdown). Edit the homepage and add a link to the class page you just created in the appropriate section by typing:
+
+```
+- [COURSE NAME](/classes/[name of the course page file you just made].html)
+```
+
+Create another pull request for this edit to the homepage.
 
 ### 3. Submit a pull request
 

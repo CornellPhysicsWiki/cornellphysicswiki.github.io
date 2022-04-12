@@ -45,11 +45,15 @@ Please check the course roster for official, up-to-date information. The Wiki is
 
 ### 1000
 
+- [PHYS 1110](/classes/PHYS1110.html)
 - [PHYS 1112](/classes/PHYS1112.html) <span class="tag">Intro</span>
 - [PHYS 1116](/classes/PHYS1116.html) <span class="tag">Intro+</span>
 
 ### 2000
 
+- [PHYS 2207](/classes/PHYS2207.html)
+- [PHYS 2208](/classes/PHYS2207.html)
+- [PHYS 2210](/classes/PHYS2210.html)
 - [PHYS 2213](/classes/PHYS2213.html) <span class="tag">Intro</span>
 - [PHYS 2214](/classes/PHYS2214.html) <span class="tag">Intro</span>
 - [PHYS 2216](/classes/PHYS2216.html) <span class="tag">Intro</span>
