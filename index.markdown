@@ -52,7 +52,7 @@ Please check the course roster for official, up-to-date information. The Wiki is
 ### 2000
 
 - [PHYS 2207](/classes/PHYS2207.html)
-- [PHYS 2208](/classes/PHYS2207.html)
+- [PHYS 2208](/classes/PHYS2208.html)
 - [PHYS 2210](/classes/PHYS2210.html)
 - [PHYS 2213](/classes/PHYS2213.html) <span class="tag">Intro</span>
 - [PHYS 2214](/classes/PHYS2214.html) <span class="tag">Intro</span>
