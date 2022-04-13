@@ -4,7 +4,8 @@ layout: default
 ---
 <link rel="stylesheet" href="main.css">
 
-## Welcome to the Unofficial Cornell Physics Wiki!
+# Welcome to the Unofficial Cornell Physics Wiki!
+{:.no_toc}
 
 This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful! If a page does not exist for a class you have taken, please do us all a favor and make one!
 
