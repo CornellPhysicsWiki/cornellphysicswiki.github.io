@@ -25,6 +25,7 @@ This is not limited to only coursework. Contribute any resources or additional p
 - [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
 - [Engineering vs. Honors Physics Sequence](/engineering_vs_honors.html)
 - [Which Classes Should I Take?](/which_class.html)
+- [Senior Thesis Guidelines](/Senior_Thesis.pdf)
 - [Potential Career Paths](/career_paths.html)
 - [The Path to Graduate School](/grad_school.html)
 - [PhysTech - Physics Teacher Education Coalition](http://phystec.physics.cornell.edu)
