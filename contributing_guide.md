@@ -4,8 +4,14 @@ layout: post
 ---
 <link rel="stylesheet" href="main.css">
 
+----
+
 * TOC
 {:toc}
+
+---
+
+<br/>
 
 ## How to Contribute
 
@@ -93,7 +99,7 @@ Create another pull request for this edit to the homepage.
 
 ### 3. Submit a pull request
 
-Now let's suppose I have added add some general information to the PHYS 1116 page and I want to submit these changes. The way to do this is to create a pull request. Scroll to the bottom of the page you have edited. There should be a box that says `Commit Changes`. Below that, select the option `Create a new branch for this commit and start a pull request`. A new text box should appear that allows you to name your new branch. Don't worry too much about how branches and version control in GitHub work for now. Write a short name for your branch that relates to the changes you have made. 
+Now let's suppose I have added some general information to the PHYS 1116 page and I want to submit these changes. The way to do this is to create a pull request. Scroll to the bottom of the page you have edited. There should be a box that says `Commit Changes`. Below that, select the option `Create a new branch for this commit and start a pull request`. A new text box should appear that allows you to name your new branch. Don't worry too much about how branches and version control in GitHub work for now. Write a short name for your branch that relates to the changes you have made. 
 
 <img src="/imgs/make_pr.png">
 

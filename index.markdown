@@ -8,8 +8,14 @@ layout: default
 
 This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful! If a page does not exist for a class you have taken, please do us all a favor and make one!
 
+----
+
 * TOC
 {:toc}
+
+----
+
+<br/>
 
 ## Handy Links
 
@@ -104,6 +110,7 @@ Please check the course roster for official, up-to-date information. The Wiki is
 - [NASA Academy](https://www.academyapp.com)
 - [Kupcinet-Getz International Summer School](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
 - [Santa Fe Institute Undergraduate Complexity Research](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
+- [NSA Director's Summer Program](https://www.intelligencecareers.gov/nsa/nsastudents.html)
 
 ### Cornell-Sponsored Events, Scholarships and Opportunities
 - [Rawlings Cornell Presidential Research Scholars](https://scl.cornell.edu/get-involved/cornell-commitment/rawlings-cornell-presidential-research-scholars)
