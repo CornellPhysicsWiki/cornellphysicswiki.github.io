@@ -22,7 +22,7 @@ This website is entirely student-run and managed by the e-board of the Society o
 
 ## Handy Links
 
-- [Freshman Brochure](https://cornell.app.box.com/s/z6c279yo0r3kp8hzskgmvqyqhli8wemf)
+- [Freshman Brochure](https://cornell.app.box.com/s/aylnzufiev2x9vn2g22vs276lokm9sqi)
 - [Contributing Guide](/contributing_guide.html) and [Contributors](/contributors.html)
 - [Prospective Freshmen Panel](https://drive.google.com/file/d/1H8pdaKa5sEt5G8hvo-V2zcQc2HdVRFnf/view?usp=sharing)
 - [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
