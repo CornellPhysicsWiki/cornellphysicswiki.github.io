@@ -10,3 +10,4 @@ layout: post
 - Colin Firth
 - Justine Singleton
 - Colin Murphy
+- Haonan Gong
