@@ -11,13 +11,12 @@ span.ml-1\/2 {
     margin-left: 0.5rem;
 }
 
-<!--/*Get rid of navigation bar (part of default theme)*/
-.site-nav{
-    display:none
-}-->
-
 .navigation {
-    display:inline-block;
+    display:flex;
+    width:100%;
+    flex-direction:row;
+    align-content:center;
+    justify-content: space-between;
     background-color: black;
 }
 
