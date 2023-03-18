@@ -3,7 +3,6 @@ title: Home
 layout: default
 ---
 <link rel="stylesheet" href="main.css">
-{% include navigation.html %}
 
 # Welcome to the Unofficial Cornell Physics Wiki!
 {:.no_toc}
