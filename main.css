@@ -13,7 +13,11 @@ span.ml-1\/2 {
 
 /*Get rid of navigation bar (part of default theme)*/
 .site-nav{
-    /* display:none */
+  display:inline-block;
+  padding:10px;
+  box-sizing:border-box;
+  text-align:center;
+  font-size:15px;
 }
 
 /* For sample schedules in which_class.md*/
