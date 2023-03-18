@@ -17,25 +17,26 @@ span.ml-1\/2 {
 }-->
 
 .navigation {
+    display:inline-block;
     background-color: black;
 }
 
 .navigation a {
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 15px 15px;
-  font-size: 15px;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 15px 15px;
+    font-size: 15px;
 }
 
 .navigation a:hover {
-  background-color: #ddd;
-  color: black;
+    background-color: #ddd;
+    color: black;
 }
 
 .navigation a.active {
-  background-color: #ddd;
-  color: black;
+    background-color: #ddd;
+    color: black;
 }
 
 /* For sample schedules in which_class.md*/
