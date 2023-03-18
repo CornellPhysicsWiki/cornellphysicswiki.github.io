@@ -1,9 +1,9 @@
 ---
 title: Home
-layout: default
----
 <link rel="stylesheet" href="main.css">
 {% include navigation.html %}
+layout: default
+---
 
 # Welcome to the Unofficial Cornell Physics Wiki!
 {:.no_toc}
