@@ -16,11 +16,11 @@ span.ml-1\/2 {
     display:none
 }-->
 
-.nav {
+.navigation {
     background-color: black;
 }
 
-.nav a {
+.navigation a {
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -28,12 +28,12 @@ span.ml-1\/2 {
   font-size: 15px;
 }
 
-.nav a:hover {
+.navigation a:hover {
   background-color: #ddd;
   color: black;
 }
 
-.nav a.active {
+.navigation a.active {
   background-color: #ddd;
   color: black;
 }
