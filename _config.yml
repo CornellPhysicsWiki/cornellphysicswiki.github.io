@@ -12,11 +12,11 @@ plugins:
   - jekyll-seo-tag
 
 minima:
-header_pages:
-  - index.html
-  - courses.html
-  - research.html
-  - grad_school.html
-  - involvement.html
-  - resources.html
-  - feedback.html
+  header_pages:
+    - index.html
+    - courses.html
+    - research.html
+    - grad_school.html
+    - involvement.html
+    - resources.html
+    - feedback.html
