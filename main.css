@@ -13,7 +13,7 @@ span.ml-1\/2 {
 
 /*Get rid of navigation bar (part of default theme)*/
 .site-nav{
-  display:none
+    display:none
 }
 
 /* For sample schedules in which_class.md*/
