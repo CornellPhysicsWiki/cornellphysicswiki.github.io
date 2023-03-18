@@ -10,3 +10,12 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+header_pages:
+  - index.html
+  - courses.html
+  - research.html
+  - grad_school.html
+  - involvement.html
+  - resources.html
+  - feedback.html
