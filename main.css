@@ -11,10 +11,10 @@ span.ml-1\/2 {
     margin-left: 0.5rem;
 }
 
-/*Get rid of navigation bar (part of default theme)*/
+<!--/*Get rid of navigation bar (part of default theme)*/
 .site-nav{
     display:none
-}
+}-->
 
 .nav {
     background-color: black;
