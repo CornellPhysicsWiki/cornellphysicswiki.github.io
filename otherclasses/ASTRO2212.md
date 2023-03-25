@@ -7,8 +7,7 @@ layout: post
 
 ## General Information
 
-First course in the honors introductory physics sequence. Either this or PHYS 1112 is required for all physics majors. 
-PHYS 1110 is a required corequisite.
+Second course in the introductory astro sequence intended for astronomy majors, minors, or a concentration.
 
 ## Prerequisites
 
