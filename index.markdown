@@ -53,9 +53,8 @@ This website is entirely student-run and managed by the e-board of the Society o
 
  All the information in the below course pages is provided from students. Please check the course roster for official, up-to-date information. The Wiki is meant to supplement official sources with student insights, not replace them.
  
-### [Physics Classes] (/classes/physicsclass.html)
+ [Physics Classes](/classes/physicsclass.html)
  
-
 ### 1000
 
 - [PHYS 1110](/classes/PHYS1110.html)
