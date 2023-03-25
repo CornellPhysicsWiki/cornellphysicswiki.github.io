@@ -58,6 +58,7 @@ This website is entirely student-run and managed by the e-board of the Society o
 - [PHYS 1110](/classes/PHYS1110.html)
 - [PHYS 1112](/classes/PHYS1112.html) <span class="tag">Intro</span>
 - [PHYS 1116](/classes/PHYS1116.html) <span class="tag">Intro+</span>
+- [test](/classes/test.html)
 
 ### 2000
 
