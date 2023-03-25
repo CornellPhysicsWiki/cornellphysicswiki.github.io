@@ -1,9 +1,21 @@
 ---
-title: Common Courses that Physics Students Take
+title: Courses!
 layout: post
 ---
 <link rel="stylesheet" href="main.css">
 
+## Common Courses that Physics Students Take
+
+
+| Tag                            | Description                               |
+| ------------------------------ | ----------------------------------------- |
+| <span class="tag ml-1/2">Intro</span>  | Introductory Classes |
+| <span class="tag ml-1/2">Intro+</span> | Honors or Alternative Introductory Classes |
+| <span class="tag ml-1/2">Core</span> | Quantum mechanics sequence, intermediate mechanics, and electricity and magnetism. Required for all physics majors. |
+| <span class="tag ml-1/2">Lab</span> | Laboratory Classes |
+| <span class="tag ml-1/2">Conc</span> | Inner Concentration required classes |
+
+ All the information in the below course pages is provided from students. Please check the course roster for official, up-to-date information. The Wiki is meant to supplement official sources with student insights, not replace them.
 
 ### 1000
 
