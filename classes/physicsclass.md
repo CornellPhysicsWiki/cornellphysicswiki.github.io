@@ -1,3 +1,10 @@
+---
+title: Common Courses that Physics Students Take
+layout: post
+---
+<link rel="stylesheet" href="main.css">
+
+
 ### 1000
 
 - [PHYS 1110](/classes/PHYS1110.html)
