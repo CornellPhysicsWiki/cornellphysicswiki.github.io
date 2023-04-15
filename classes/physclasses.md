@@ -1,5 +1,5 @@
 ---
-title: Courses!
+title: Physics Classes
 layout: default
 ---
 <link rel="stylesheet" href=".../main.css">
