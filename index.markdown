@@ -18,8 +18,6 @@ This website is entirely student-run and managed by the e-board of the Society o
 
 ----
 
-<br/>
-
 ## Handy Links
 
 - [Freshman Brochure](https://cornell.app.box.com/s/aylnzufiev2x9vn2g22vs276lokm9sqi)
@@ -51,7 +49,7 @@ This website is entirely student-run and managed by the e-board of the Society o
 | <span class="tag ml-1/2">Lab</span> | Laboratory Classes |
 | <span class="tag ml-1/2">Conc</span> | Inner Concentration required classes |
 
- All the information in the below course pages is provided from students. Please check the course roster for official, up-to-date information. The Wiki is meant to supplement official sources with student insights, not replace them.
+All the information in the below course pages is provided from students. Please check the course roster for official, up-to-date information. The Wiki is meant to supplement official sources with student insights, not replace them.
  
 ### 1000
 
