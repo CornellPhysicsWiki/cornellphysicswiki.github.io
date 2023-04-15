@@ -2,7 +2,7 @@
 title: Physics Classes
 layout: default
 ---
-<link rel="stylesheet" href=".../main.css">
+<link rel="stylesheet" href="main.css">
 
 ## Physics Classes
 
