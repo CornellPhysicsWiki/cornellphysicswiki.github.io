@@ -2,16 +2,9 @@
 title: Courses!
 layout: default
 ---
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href=".../main.css">
 
-## Common Courses that Physics Students Take
-
-----
-
-* TOC
-{:toc}
-
-----
+## Physics Classes
 
 | Tag                            | Description                               |
 | ------------------------------ | ----------------------------------------- |
@@ -21,7 +14,7 @@ layout: default
 | <span class="tag ml-1/2">Lab</span> | Laboratory Classes |
 | <span class="tag ml-1/2">Conc</span> | Inner Concentration required classes |
 
- All the information in the below course pages is provided from students. Please check the course roster for official, up-to-date information. The Wiki is meant to supplement official sources with student insights, not replace them.
+All the information in the below course pages is provided from students. Please check the course roster for official, up-to-date information. The Wiki is meant to supplement official sources with student insights, not replace them.
 
 ### 1000
 
