@@ -28,7 +28,7 @@ This website is entirely student-run and managed by the e-board of the Society o
 - [Which Classes Should I Take?](/which_class.html)
 - [Senior Thesis Guidelines](/Senior_Thesis.pdf)
 - [Potential Career Paths](/gradcareer/career_paths.html)
-- [The Path to Graduate School](gradcareer/grad_school.html)
+- [The Path to Graduate School](gradcareer/path_to_grad_school.html)
 - [PhysTech - Physics Teacher Education Coalition](http://phystec.physics.cornell.edu)
 - [Department Resources](https://physics.cornell.edu/general-resources)
 - [APS Resources for Undergraduates](https://www.aps.org/programs/education/undergrad/students/)
