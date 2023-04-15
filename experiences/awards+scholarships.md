@@ -6,6 +6,8 @@ layout: default
 
 # Awards and Scholarships
 
+links - eli, nexus, etc
+
 ## Awards
 - Stirling A. Colgate Award - Physics (Cornell)
 - Albert Silverman Memorial Award (Cornell)
@@ -13,6 +15,7 @@ layout: default
 - [NCWIT Collegiate Award](https://www.aspirations.org/award-programs/aic-collegiate-award)
 
 ## External Scholarships
+- [Rawlings Cornell Presidential Research Scholars](https://scl.cornell.edu/get-involved/cornell-commitment/rawlings-cornell-presidential-research-scholars)
 - [Goldwater Scholarship](https://goldwaterscholarship.gov)
 - [Adobe Research Women in Tech Scholarship](https://research.adobe.com/scholarship/)
 - [Palantir Women in Tech scholarship](https://www.palantir.com/careers/students/scholarship/wit-north-america/)
