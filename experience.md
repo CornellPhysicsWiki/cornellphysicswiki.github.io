@@ -17,7 +17,7 @@ links to departments to look into
 
 benefits of participating in programs off campus. bolded programs are open to international/non-us citizens
 
-## Domestic
+### Domestic
 - [REU Programs](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=69)
 - [Science Undergraduate Laboratory Internships (SULI)](https://science.osti.gov/wdts/suli)
 - [SURF at CalTech](https://sfp.caltech.edu/undergraduate-research/programs/surf)
@@ -34,7 +34,7 @@ benefits of participating in programs off campus. bolded programs are open to in
 - [Santa Fe Institute Undergraduate Complexity Research](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
 - [NSA Director's Summer Program](https://www.intelligencecareers.gov/nsa/nsastudents.html)
 
-## Outside the US
+### Outside the US
 
 - [Perimeter Institute START Program](https://perimeterinstitute.ca/psi-start-program)
 - [RISE Germany](https://www.daad.de/rise/en/rise-germany/)
