@@ -46,6 +46,7 @@ benefits of participating in programs off campus. bolded programs are open to in
 ### Cornell
 
 links - eli, nexus, etc
+- [Rawlings Cornell Presidential Research Scholars](https://scl.cornell.edu/get-involved/cornell-commitment/rawlings-cornell-presidential-research-scholars)
 
 ### External
 
