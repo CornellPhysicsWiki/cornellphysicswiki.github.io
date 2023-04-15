@@ -18,7 +18,7 @@ All the information in the below course pages is provided from students. Please 
 
 ### 1000
 
-- [PHYS 1110](/classes/PHYS1110.html)
+- [PHYS 1110](/classes/phys/PHYS1110.html)
 - [PHYS 1112](/classes/PHYS1112.html) <span class="tag">Intro</span>
 - [PHYS 1116](/classes/PHYS1116.html) <span class="tag">Intro+</span>
 
