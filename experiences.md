@@ -10,7 +10,8 @@ benefits of doing research and having industry experiences, summer programs, etc
 
 ## On-Campus Opportunities
 
-advice for contacting profs
+advice for contacting profs, etc: [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
+[Senior Thesis Guidelines](/Senior_Thesis.pdf)
 links to departments to look into
 
 ## Off-Campus Opportunities
