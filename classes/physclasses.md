@@ -6,6 +6,12 @@ layout: default
 
 ## Common Courses that Physics Students Take
 
+----
+
+* TOC
+{:toc}
+
+----
 
 | Tag                            | Description                               |
 | ------------------------------ | ----------------------------------------- |
