@@ -24,11 +24,11 @@ This website is entirely student-run and managed by the e-board of the Society o
 - [Contributing Guide](/contributing_guide.html) and [Contributors](/contributors.html)
 - [Prospective Freshmen Panel](https://drive.google.com/file/d/1H8pdaKa5sEt5G8hvo-V2zcQc2HdVRFnf/view?usp=sharing)
 - [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
-- [Engineering vs. Honors Physics Sequence](/engineering_vs_honors.html)
-- [Which Classes Should I Take?](/which_class.html)
-- [Senior Thesis Guidelines](/Senior_Thesis.pdf)
-- [Potential Career Paths](/gradcareer/career_paths.html)
-- [The Path to Graduate School](gradcareer/path_to_grad_school.html)
+- [Engineering vs. Honors Physics Sequence](/resources/engineering_vs_honors.html)
+- [Which Classes Should I Take?](/resources/which_class.html)
+- [Senior Thesis Guidelines](/resources/Senior_Thesis.pdf)
+- [Potential Career Paths](/grad_career/career_paths.html)
+- [The Path to Graduate School](/grad_career/path_to_grad_school.html)
 - [PhysTech - Physics Teacher Education Coalition](http://phystec.physics.cornell.edu)
 - [Department Resources](https://physics.cornell.edu/general-resources)
 - [APS Resources for Undergraduates](https://www.aps.org/programs/education/undergrad/students/)
@@ -53,44 +53,44 @@ All the information in the below course pages is provided from students. Please 
  
 ### 1000
 
-- [PHYS 1110](/classes/PHYS1110.html)
-- [PHYS 1112](/classes/PHYS1112.html) <span class="tag">Intro</span>
-- [PHYS 1116](/classes/PHYS1116.html) <span class="tag">Intro+</span>
+- [PHYS 1110](/classes/phys/PHYS1110.html)
+- [PHYS 1112](/classes/phys/PHYS1112.html) <span class="tag">Intro</span>
+- [PHYS 1116](/classes/phys/PHYS1116.html) <span class="tag">Intro+</span>
 
 ### 2000
 
-- [PHYS 2207](/classes/PHYS2207.html)
-- [PHYS 2208](/classes/PHYS2208.html)
-- [PHYS 2210](/classes/PHYS2210.html)
-- [PHYS 2213](/classes/PHYS2213.html) <span class="tag">Intro</span>
-- [PHYS 2214](/classes/PHYS2214.html) <span class="tag">Intro</span>
-- [PHYS 2216](/classes/PHYS2216.html) <span class="tag">Intro</span>
-- [PHYS 2217](/classes/PHYS2217.html) <span class="tag">Intro+</span>
-- [PHYS 2218](/classes/PHYS2218.html) <span class="tag">Intro+</span>
+- [PHYS 2207](/classes/phys/PHYS2207.html)
+- [PHYS 2208](/classes/phys/PHYS2208.html)
+- [PHYS 2210](/classes/phys/PHYS2210.html)
+- [PHYS 2213](/classes/phys/PHYS2213.html) <span class="tag">Intro</span>
+- [PHYS 2214](/classes/phys/PHYS2214.html) <span class="tag">Intro</span>
+- [PHYS 2216](/classes/phys/PHYS2216.html) <span class="tag">Intro</span>
+- [PHYS 2217](/classes/phys/PHYS2217.html) <span class="tag">Intro+</span>
+- [PHYS 2218](/classes/phys/PHYS2218.html) <span class="tag">Intro+</span>
 
 ### 3000
 
-- [PHYS 3310](/classes/PHYS3310.html) <span class="tag">Lab</span>
-- [PHYS 3316](/classes/PHYS3316.html) <span class="tag">Core</span>
-- [PHYS 3317](/classes/PHYS3317.html) <span class="tag">Core</span>
-- [PHYS 3318](/classes/PHYS3318.html) <span class="tag">Core</span>
-- [PHYS 3327](/classes/PHYS3327.html) <span class="tag">Core</span>
-- [PHYS 3330](/classes/PHYS3330.html) <span class="tag">Lab</span>
-- [PHYS 3360](/classes/PHYS3360.html) <span class="tag">Lab</span>
+- [PHYS 3310](/classes/phys/PHYS3310.html) <span class="tag">Lab</span>
+- [PHYS 3316](/classes/phys/PHYS3316.html) <span class="tag">Core</span>
+- [PHYS 3317](/classes/phys/PHYS3317.html) <span class="tag">Core</span>
+- [PHYS 3318](/classes/phys/PHYS3318.html) <span class="tag">Core</span>
+- [PHYS 3327](/classes/phys/PHYS3327.html) <span class="tag">Core</span>
+- [PHYS 3330](/classes/phys/PHYS3330.html) <span class="tag">Lab</span>
+- [PHYS 3360](/classes/phys/PHYS3360.html) <span class="tag">Lab</span>
 
 ### 4000
-- [PHYS 4230](/classes/PHYS4230.html) <span class="tag">Conc</span>
-- [PHYS 4410](/classes/PHYS4410.html) <span class="tag">Conc</span><span class="tag">Lab</span>
-- [PHYS 4443](/classes/PHYS4443.html)
-- [PHYS 4445](/classes/PHYS4445.html)  
-- [PHYS 4454](/classes/PHYS4454.html)
+- [PHYS 4230](/classes/phys/PHYS4230.html) <span class="tag">Conc</span>
+- [PHYS 4410](/classes/phys/PHYS4410.html) <span class="tag">Conc</span><span class="tag">Lab</span>
+- [PHYS 4443](/classes/phys/PHYS4443.html)
+- [PHYS 4445](/classes/phys/PHYS4445.html)  
+- [PHYS 4454](/classes/phys/PHYS4454.html)
 
 ### Math
 
-- [MATH 1910](/classes/MATH1910.html) - Calculus for Engineers
-- [MATH 1920](/classes/MATH1920.html) - Multivariable Calculus for Engineers
-- [MATH 2930](/classes/MATH2930.html) - Differential Equations for Engineers
-- [MATH 2940](/classes/MATH2940.html) - Linear Algebra for Engineers
+- [MATH 1910](/classes/math/MATH1910.html) - Calculus for Engineers
+- [MATH 1920](/classes/math/MATH1920.html) - Multivariable Calculus for Engineers
+- [MATH 2930](/classes/math/MATH2930.html) - Differential Equations for Engineers
+- [MATH 2940](/classes/math/MATH2940.html) - Linear Algebra for Engineers
 
 ## Research Programs and Opportunities
 
