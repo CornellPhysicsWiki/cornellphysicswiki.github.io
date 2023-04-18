@@ -81,9 +81,12 @@ All the information in the below course pages is provided from students. Please 
 ### 4000
 - [PHYS 4230](/classes/phys/PHYS4230.html) <span class="tag">Conc</span>
 - [PHYS 4410](/classes/phys/PHYS4410.html) <span class="tag">Conc</span><span class="tag">Lab</span>
+- [PHYS 4433](/classes/phys/PHYS4433.html)
 - [PHYS 4443](/classes/phys/PHYS4443.html)
-- [PHYS 4445](/classes/phys/PHYS4445.html)  
+- [PHYS 4444](/classes/phys/PHYS4444.html)
+- [PHYS 4445](/classes/phys/PHYS4445.html)
 - [PHYS 4454](/classes/phys/PHYS4454.html)
+- [PHYS 4488](/classes/phys/PHYS4488.html)
 
 ### Math
 
@@ -91,6 +94,24 @@ All the information in the below course pages is provided from students. Please 
 - [MATH 1920](/classes/math/MATH1920.html) - Multivariable Calculus for Engineers
 - [MATH 2930](/classes/math/MATH2930.html) - Differential Equations for Engineers
 - [MATH 2940](/classes/math/MATH2940.html) - Linear Algebra for Engineers
+
+### AEP
+
+- [AEP 3200](/classes/aep/AEP3200.html)
+- [AEP 4200](/classes/aep/AEP4200.html)
+
+### Astro
+
+- [ASTRO 2201](/classes/astro/ASTRO2201.html)
+- [ASTRO 2211](/classes/astro/ASTRO2211.html)
+- [ASTRO 2212](/classes/astro/ASTRO2212.html)
+
+### CS
+
+- [CS 1110](/classes/cs/CS1110.html)
+- [CS 2110](/classes/cs/CS2110.html)
+- [CS 2800](/classes/cs/CS2800.html)
+- [CS 3110](/classes/cs/CS3110.html)
 
 ## Research Programs and Opportunities
 
