@@ -1,7 +1,6 @@
 - <link rel="stylesheet" href="main.css">
 
 # Common Classes that Physicists at Cornell take
-{:.no_toc}
 
 Physics students at Cornell don't strictly take physics courses, other common STEM courses that students take can be found below. Course descriptions can be found at their corresponding links.
 
