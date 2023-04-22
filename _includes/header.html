@@ -1,15 +1,11 @@
 <header class="site-header">
-
-  <div class="wrapper">
-    {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-    
-    <nav class="navbar">
+  
+  <nav class="navbar">
       <div class="container-fluid">
         <div class="navbar-header">
           <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
         </div>
-        <ul class="nav navbar-nav">
+        <ul>
           <li class="dropdown">
             <a class="dropdown-toggle" data-toggle="dropdown" href="../classes.html">Classes
             <span class="caret"></span></a>
@@ -45,6 +41,10 @@
         </ul>
       </div>
     </nav>
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
 
   </div>
 </header>
