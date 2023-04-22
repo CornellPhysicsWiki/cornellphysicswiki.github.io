@@ -1,37 +1,37 @@
 - title: Classes
-  url: /classes.md
+  url: /classes.html
   sublinks:
     - title: PHYS
-      url: /classes/physclasses.md
+      url: /classes/physclasses.html
     - title: AEP
-      url: /classes/aepclasses.md
+      url: /classes/aepclasses.html
     - title: ASTRO
-      url: /classes/astroclasses.md
+      url: /classes/astroclasses.html
     - title: CS
-      url: /classes/csclasses.md
+      url: /classes/csclasses.html
     - title: MATH
-      url: /classes/mathclasses.md
+      url: /classes/mathclasses.html
 - title: Experiences
-  url: /experiences.md
+  url: /experiences.html
   sublinks:
     - title: Research and Industry
-      url: /experiences/research_industry.md
+      url: /experiences/research_industry.html
     - title: Community Involvement
-      url: /experiences/community_involvement.md
+      url: /experiences/community_involvement.html
     - title: Other Experiences
-      url: /experiences/other_experiences.md
+      url: /experiences/other_experiences.html
     - title: Awards and Scholarships
-      url: /experiences/awards_scholarships.md
+      url: /experiences/awards_scholarships.html
 - title: Graduate School and Career
-  url: /grad_career.md
+  url: /grad_career.html
   sublinks:
     - title: The Path to Graduate School
-      url: /grad_career/path_to_grad_school.md
+      url: /grad_career/path_to_grad_school.html
     - title: Graduate Fellowships
-      url: /grad_career/grad_fellowships.md
+      url: /grad_career/grad_fellowships.html
     - title: Where Cornellians Are Going
-      url: /grad_career/career_paths.md
+      url: /grad_career/career_paths.html
 - title: Resources and FAQ
-  url: /resources_faq.md
+  url: /resources_faq.html
 - title: Feedback and Contributing Guide
-  url: /feedback.md
+  url: /feedback.html
