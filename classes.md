@@ -1,5 +1,5 @@
 ---
-title: Applied and Engineering Physics Classes
+title: Classes
 layout: default
 ---
 <link rel="stylesheet" href="/main.css">
