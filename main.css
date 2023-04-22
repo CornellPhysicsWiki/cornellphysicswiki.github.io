@@ -79,14 +79,11 @@ span.inside-concentration{
 }
 
 /* Links inside the dropdown */
-.dropdown-content a {
+.dropdown:hover a {
     color: black;
     text-decoration: none;
     display: block;
 }
-
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #f1f1f1}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
@@ -95,5 +92,7 @@ span.inside-concentration{
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropdown-btn {
-    
 }
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
