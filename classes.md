@@ -1,0 +1,5 @@
+- [Physics Classes](/classes/physclasses.md)
+- [Math Classes](/classes/mathclasses.md)
+- [Astronomy Classes](/classes/astroclasses.md)
+- [CS Classes](/classes/csclasses.md)
+- [AEP Classes](/classes/aepclasses.md)
