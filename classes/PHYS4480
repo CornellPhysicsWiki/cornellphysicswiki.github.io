@@ -1,0 +1,35 @@
+---
+title: PHYS 4480 - Computational Physics
+layout: post
+---
+
+<link rel="stylesheet" href="../main.css">
+
+## General Information
+
+The course covers three engaging subjects at once: (1) the standard suite of powerful numerical methods, and the mathematics behind them; (2) Julia, a modern, new computer language ideally suited for scientific computing with far greater efficiency and flexibility than matlab or python; (3) as a example application of the preceding powerful tools, students will construct for themselves, through a series of structured assignments, ab initio electronic-structure software to solve the many-body Schrodinger equation for atoms, molecules, and solids. As the assignments proceed, students will be introduced to more and more aspects of Julia until a working knowledge of the language is built up organically. The assignments will also guide students through best practices for scientific software organization and debugging. The course also includes a module on how to optimize computer code to approach the absolute limits of computational performance through awareness of the computation cost of basic operations, inner loop optimization, proper memory management, cache optimization, and the use of profiling tools.
+## Prerequisites
+
+Comments: Assumes familiarity with standard mathematical methods for physical sciences and engineering (basic calculus, differential equations, and linear algebra) and with some form of computer programming (e.g., Python, Matlab, etc.). No physics background beyond electricity and magnetism will be assumed, although familiarity with quantum mechanics at the level of an introductory course will be useful.
+
+## Topics Covered
+
+
+## Workload
+
+
+
+## General Advice
+
+  - 
+
+## Testimonials
+
+
+
+## Past Offerings
+
+{:.past-offerings}
+| Semester | Professor | Median Grade | Course Page |
+| --- | --- | --- | --- |
+|  |  |  |  |
