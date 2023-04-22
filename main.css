@@ -73,6 +73,7 @@ span.inside-concentration{
 
 /* Dropdown Content */
 .dropdown-content {
+    position: absolute;
     display: none;
 }
 
@@ -85,8 +86,8 @@ span.inside-concentration{
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
-    display: block;
     position: absolute;
+    display: block;
     margin-left: 0px;
 }
 
