@@ -2,7 +2,7 @@
 title: Research and Industry Experiences
 layout: default
 ---
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="/main.css">
 
 # Research and Industry Experiences
 
