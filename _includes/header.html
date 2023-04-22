@@ -2,7 +2,6 @@
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
-    <!--{%- assign page_paths = site.header_pages | default: default_paths -%}-->
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
@@ -29,8 +28,7 @@
     {%- endif -%}
     -->
     
-    <!--
-    {% for entry in site.data.navigation %}
+    <!--{% for entry in site.data.navigation %}
     {% capture fullurl %}{{ site.baseurl }}{{ entry.url }}{% endcapture %}
         {% if fullurl == page.url %}
             {% assign current_page = fullurl %}
@@ -49,12 +47,11 @@
                 <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
                 {% assign current = null %}
             {% endif %}
-            {% assign sublinks = entry.sublinks %}
-            {% if sublinks %}
+            {% if entry.sublinks %}
             <li{{ current }}>
                 <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
                 <ul>
-                    {% for sublink in sublinks %}
+                    {% for sublink in entry.sublinks %}
                     <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
                     {% endfor %}
                 </ul>
@@ -64,8 +61,7 @@
             {% endif %}
         {% endfor %}
         </ul>
-    </nav>
-    -->
+    </nav>-->
 
     <!--dropdown nav bar-->
     <nav id="navbar" class="collapse navbar-collapse">
@@ -78,14 +74,11 @@
                 {% endif %}
                 {% if link.sublinks %}
                     <li class="dropdown {{ class }}">
-                        <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+                        <a href="{{ site.baseurl }}{{ site.url }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             {% for sublink in link.sublinks %}
-                                {% if sublink.title == 'separator' %}
-                                    <li role="separator" class="divider"></li>
-                                {% else %}
                                     <li>
-                                        <a href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+                                        <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
                                     </li>
                                 {% endif %}
                             {% endfor %}
@@ -93,7 +86,7 @@
                     </li>
                 {% else %}
                     <li class="{{ class }}">
-                        <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                        <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
                     </li>
                 {% endif %}
             {% endfor %}
