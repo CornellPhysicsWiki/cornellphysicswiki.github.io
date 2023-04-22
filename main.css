@@ -31,7 +31,7 @@ span.inside-concentration{
 
 /* navigation bar */
 .navbar {
-    background-color: #111111;
+    background-color: #fdfdfd;
 }
 .navbar ul {
     list-style-type: none;
@@ -44,9 +44,19 @@ span.inside-concentration{
 .navbar a {
     display: block;
     padding: 8px;
-    color: #878787;
+    color: #111111;
     text-decoration: none;
+}
+.navbar li.active {
+    color: #111111;
 }
 .navbar li.active a {
     color: #fdfdfd;
+}
+
+.dropdown-content {
+  display: none;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
 }
