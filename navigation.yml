@@ -1,0 +1,37 @@
+- title: Classes
+  url: /classes.md
+  sublinks:
+    - title: PHYS
+      url: /classes/physclasses.md
+    - title: AEP
+      url: /classes/aepclasses.md
+    - title: ASTRO
+      url: /classes/astroclasses.md
+    - title: CS
+      url: /classes/csclasses.md
+    - title: MATH
+      url: /classes/mathclasses.md
+- title: Experiences
+  url: /experiences.md
+  sublinks:
+    - title: Research and Industry
+      url: /experiences/research_industry.md
+    - title: Community Involvement
+      url: /experiences/community_involvement.md
+    - title: Other Experiences
+      url: /experiences/other_experiences.md
+    - title: Awards and Scholarships
+      url: /experiences/awards_scholarships.md
+- title: Graduate School and Career
+  url: /grad_career.md
+  sublinks:
+    - title: The Path to Graduate School
+      url: /grad_career/path_to_grad_school.md
+    - title: Graduate Fellowships
+      url: /grad_fellowships.md
+    - title: Where Cornellians Are Going
+      url: /career_paths.md
+- title: Resources and FAQ
+  url: /resources_faq.md
+- title: Feedback and Contributing Guide
+  url: /feedback.md
