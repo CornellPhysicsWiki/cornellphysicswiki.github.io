@@ -1,4 +1,4 @@
-- <link rel="stylesheet" href="main.css">
+
 
 # Common Classes that Physicists at Cornell take
 
