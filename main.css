@@ -36,6 +36,7 @@ span.inside-concentration{
 .navbar ul {
     list-style-type: none;
     display: inline-block;
+    margin-bottom: 0px;
 }
 .navbar li {
     line-height: 30px;
@@ -60,6 +61,7 @@ span.inside-concentration{
 .dropdown-content {
   display: none;
   position: absolute;
+  margin-left: 0px;
 }
 .dropdown:hover .dropdown-content {
   display: block;
