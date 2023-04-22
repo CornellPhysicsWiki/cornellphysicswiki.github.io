@@ -29,25 +29,30 @@ span.inside-concentration{
     color:red !important;
 }
 
-/* navigation bar */
+<!--
 nav ul {
     list-style-type: none;
+    display: inline;
 }
 nav li {
     line-height: 30px;
 }
 nav a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
     text-decoration: none;
 }
 nav li.active a {
     color: #ffffff;
 }
+-->
 
-#navigation {
+nav {
     min-height: 70px !important;
     padding-top: 10px;
 }
-#navigation .navbar-brand {
+nav.navbar-brand {
     padding-right: 28px;
     width: 280px;
     border-right: 3px solid rgba(255, 255, 255, 0.1);
@@ -56,13 +61,13 @@ nav li.active a {
     font-size: 26px !important;
     color: #5fcf80 !important;
 }
-#navigation .navbar-brand .site-logo {
+nav.navbar-brand .site-logo {
     float: left;
     margin-top: -10px;
     margin-right: 1rem;
     width: 250px;
 }
-#navigation #navbar {
+.navbar {
     float: right !important;
     margin-right: -15px;
     font-family: 'Helvetica Rounded', Arial, sans-serif;
@@ -72,24 +77,23 @@ nav li.active a {
     text-shadow: 0 1px 3px rgba(0, 0, 0, .5) !important;
 }
 @media (max-width: 768px) {
-    #navigation #navbar {
+    .navbar {
         float: none !important;
         margin-right: 0;
     }
 }
-#navigation #navbar .navbar-nav li a {
+.navbar.navbar-nav li a {
     color: #b2bbbd !important;
 }
-#navigation #navbar .navbar-nav li a:hover,
-#navigation #navbar .navbar-nav li a:focus {
+.navbar.navbar-nav li a:hover {
     color: #ffffff !important;
     border-bottom: 2px solid #ffffff !important;
 }
-#navigation #navbar .navbar-nav .active a {
+.navbar.navbar-nav .active a {
     color: #ffffff !important;
     border-bottom: 2px solid #ffffff !important;
 }
-#navigation #navbar .navbar-nav .dropdown-menu li a {
+.navbar.navbar-nav .dropdown-menu li a {
     color: #515151 !important;
     text-shadow: none !important;
 }
