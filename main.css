@@ -29,7 +29,7 @@ span.inside-concentration{
     color:red !important;
 }
 
-/*
+/* navigation bar */
 .nav ul {
     list-style-type: none;
     display: inline;
@@ -40,14 +40,15 @@ span.inside-concentration{
 .nav a {
     display: block;
     padding: 8px;
-    background-color: #dddddd;
+    color: #000000;
+    background-color: none;
     text-decoration: none;
 }
 .nav li.active a {
-    color: #ffffff;
+    color: #000333;
 }
-*/
 
+/*
 .nav {
     min-height: 70px !important;
     padding-top: 10px;
@@ -56,12 +57,10 @@ span.inside-concentration{
     padding-right: 28px;
     width: 280px;
     border-right: 3px solid rgba(255, 255, 255, 0.1);
-    font-family: "hobo-std", sans-serif;
-    font-style: italic;
     font-size: 26px !important;
     color: #5fcf80 !important;
 }
-.navbar-brand.site-logo {
+.navbar-brand .site-logo {
     float: left;
     margin-top: -10px;
     margin-right: 1rem;
@@ -89,11 +88,12 @@ span.inside-concentration{
     color: #ffffff !important;
     border-bottom: 2px solid #ffffff !important;
 }
-.navbar-nav.active a {
+.navbar-nav .active a {
     color: #ffffff !important;
     border-bottom: 2px solid #ffffff !important;
 }
-.navbar-nav.dropdown-menu li a {
+.navbar-nav .dropdown-menu li a {
     color: #515151 !important;
     text-shadow: none !important;
 }
+*/
