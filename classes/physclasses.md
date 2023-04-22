@@ -50,3 +50,7 @@ All the information in the below course pages is provided from students. Please 
 - [PHYS 4443](/classes/phys/PHYS4443.html)
 - [PHYS 4445](/classes/phys/PHYS4445.html)  
 - [PHYS 4454](/classes/phys/PHYS4454.html)
+- [PHYS 4480](/classes/phys/PHYS4480.html)
+- [PHYS 4488](/classes/phys/PHYS4488.html)
+
+
