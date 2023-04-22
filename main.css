@@ -11,31 +11,9 @@ span.ml-1\/2 {
     margin-left: 0.5rem;
 }
 
-.navigation {
-    display:flex;
-    width:100%;
-    flex-direction:row;
-    align-content:center;
-    justify-content: space-between;
-    background-color: black;
-}
-
-.navigation a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 15px 15px;
-    font-size: 15px;
-}
-
-.navigation a:hover {
-    background-color: #ddd;
-    color: black;
-}
-
-.navigation a.active {
-    background-color: #ddd;
-    color: black;
+/*Get rid of navigation bar (part of default theme)*/
+.site-nav{
+    display:none
 }
 
 /* For sample schedules in which_class.md*/
