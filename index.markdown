@@ -18,7 +18,7 @@ This website is entirely student-run and managed by the e-board of the Society o
 
 ----
 
-## Handy Links
+## General Links
 
 - [Department Resources](https://physics.cornell.edu/general-resources)
 - [APS Resources for Undergraduates](https://www.aps.org/programs/education/undergrad/students/)
