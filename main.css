@@ -29,8 +29,7 @@ span.inside-concentration{
     color:red !important;
 }
 
-<!--
-nav ul {
+<!--nav ul {
     list-style-type: none;
     display: inline;
 }
@@ -45,8 +44,7 @@ nav a {
 }
 nav li.active a {
     color: #ffffff;
-}
--->
+}-->
 
 nav {
     min-height: 70px !important;
