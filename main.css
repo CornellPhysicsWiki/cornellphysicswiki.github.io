@@ -61,7 +61,7 @@ nav.navbar-brand {
     font-size: 26px !important;
     color: #5fcf80 !important;
 }
-nav.navbar-brand .site-logo {
+nav.navbar-brand.site-logo {
     float: left;
     margin-top: -10px;
     margin-right: 1rem;
@@ -89,11 +89,11 @@ nav.navbar-brand .site-logo {
     color: #ffffff !important;
     border-bottom: 2px solid #ffffff !important;
 }
-.navbar.navbar-nav .active a {
+.navbar.navbar-nav.active a {
     color: #ffffff !important;
     border-bottom: 2px solid #ffffff !important;
 }
-.navbar.navbar-nav .dropdown-menu li a {
+.navbar.navbar-nav.dropdown-menu li a {
     color: #515151 !important;
     text-shadow: none !important;
 }
