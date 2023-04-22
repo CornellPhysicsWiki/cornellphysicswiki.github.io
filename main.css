@@ -74,7 +74,7 @@ span.inside-concentration{
 /* Dropdown Content */
 .dropdown-content {
     position: absolute;
-    display: none;
+    display: none !important;
 }
 
 /* Links inside the dropdown
