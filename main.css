@@ -39,6 +39,7 @@ span.inside-concentration{
 }
 .navbar li {
     line-height: 30px;
+    float: left;
 }
 .navbar a {
     display: block;
