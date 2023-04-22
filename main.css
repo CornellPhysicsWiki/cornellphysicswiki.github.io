@@ -73,8 +73,8 @@ span.inside-concentration{
 
 /* Dropdown Content */
 .dropdown-content {
-    position: absolute;
-    visibility: hidden;
+/*    position: absolute;
+    visibility: hidden;*/
     display: none;
 }
 
