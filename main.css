@@ -89,6 +89,7 @@ span.inside-concentration{
     position: absolute;
     display: block;
     margin-left: 0px;
+    background-color: #fdfdfd;
 }
 
 /* Change color of dropdown links on hover */
