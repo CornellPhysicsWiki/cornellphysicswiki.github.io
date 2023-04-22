@@ -71,27 +71,23 @@ span.inside-concentration{
     display: inline-block;
 }
 
-/* Dropdown Content (Hidden by Default) */
+/* Dropdown Content */
 .dropdown-content {
     display: none;
-    position: absolute;
-    margin-left: 0px;
 }
 
-/* Links inside the dropdown */
+/* Links inside the dropdown
 .dropdown:hover a {
     color: black;
     text-decoration: none;
     display: block;
-}
+}*/
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
     display: block;
-}
-
-/* Change the background color of the dropdown button when the dropdown content is shown */
-.dropdown:hover .dropdown-btn {
+    position: absolute;
+    margin-left: 0px;
 }
 
 /* Change color of dropdown links on hover */
