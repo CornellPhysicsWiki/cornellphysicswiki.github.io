@@ -3,7 +3,7 @@ title: Class Name
 layout: post
 ---
 
-<link rel="stylesheet" href="../main.css">
+<link rel="stylesheet" href="/main.css">
 
 ## General Information
 

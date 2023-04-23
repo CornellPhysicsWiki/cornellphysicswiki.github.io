@@ -3,7 +3,7 @@ title: ASTRO 2212 - The Solar System: Planets, Small Bodies and New Worlds
 layout: post
 ---
 
-<link rel="stylesheet" href="../main.css">
+<link rel="stylesheet" href="/main.css">
 
 ## General Information
 

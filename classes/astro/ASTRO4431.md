@@ -3,7 +3,7 @@ title: ASTRO 4431 - Physics of Stars, Neutron Stars and Black Holes
 layout: post
 ---
 
-<link rel="stylesheet" href="../main.css">
+<link rel="stylesheet" href="/main.css">
 
 ## General Information
 

@@ -3,7 +3,7 @@ title: ASTRO 2211 - Astronomy: Stars, Galaxies, and Cosmology
 layout: post
 ---
 
-<link rel="stylesheet" href="../main.css">
+<link rel="stylesheet" href="/main.css">
 
 ## General Information
 

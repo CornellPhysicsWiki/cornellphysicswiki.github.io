@@ -57,7 +57,7 @@ layout: post
 This is just metadata that tells Jekyll what page template to use and what the page title is. You may also see:
 
 ```
-<link rel="stylesheet" href="../main.css">
+<link rel="stylesheet" href="/main.css">
 ```
 
 This links a CSS file that helps format the website. You should not edit or delete either of these parts above. Feel free to add/edit any content below these.

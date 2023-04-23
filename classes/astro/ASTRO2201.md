@@ -3,7 +3,7 @@ title: ASTRO 2201 - The History of the Universe
 layout: post
 ---
 
-<link rel="stylesheet" href="../main.css">
+<link rel="stylesheet" href="/main.css">
 
 ## General Information
 
