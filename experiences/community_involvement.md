@@ -2,7 +2,7 @@
 title: Service, Outreach, and Community
 layout: default
 ---
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="/main.css">
 
 # Service, Outreach, and Community
 

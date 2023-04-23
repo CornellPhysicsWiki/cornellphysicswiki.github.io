@@ -2,7 +2,7 @@
 title: Contributing Guide
 layout: post
 ---
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="/main.css">
 
 ----
 

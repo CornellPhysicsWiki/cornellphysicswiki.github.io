@@ -2,7 +2,7 @@
 title: Awards and Scholarships
 layout: default
 ---
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="/main.css">
 
 # Awards and Scholarships
 

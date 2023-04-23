@@ -2,7 +2,7 @@
 title: List of Contributors
 layout: post
 ---
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="/main.css">
 
 ## Spring 2023 
 

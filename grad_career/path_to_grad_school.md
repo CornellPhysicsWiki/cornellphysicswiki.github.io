@@ -2,7 +2,7 @@
 title: The Path to Graduate School
 layout: post
 ---
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="/main.css">
 
 This page is a selection of suggestions you could do to beef up your resume for admission to a top physics graduate program. It is not a recipe for guaranteed admission.
 

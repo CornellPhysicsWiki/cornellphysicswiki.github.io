@@ -2,7 +2,7 @@
 title: Other Experiences
 layout: default
 ---
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="/main.css">
 
 # Other Experiences
 

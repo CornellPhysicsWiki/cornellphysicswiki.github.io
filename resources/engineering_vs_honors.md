@@ -2,7 +2,7 @@
 title: Engineering vs Honors Physics Introductory Sequence
 layout: post
 ---
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="/main.css">
 
 For your first few semesters as a physics major, you will be taking an introductory sequence of courses that broadly covers: mechanics, special relativity, electricity, magnetism, waves, optics, and thermodynamics. There are generally two options that physics majors choose between:
 

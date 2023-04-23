@@ -2,7 +2,7 @@
 title: Career Paths in Physics
 layout: post
 ---
-<link rel="stylesheet" href="main.css">
+<link rel="stylesheet" href="/main.css">
 
 ## Where are Cornellians Going?
 
