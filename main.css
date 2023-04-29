@@ -53,6 +53,18 @@ span.inside-concentration{
 .navbar li.active a {
     color: #fdfdfd;
 }
+.navbar a:hover {
+    background-color: #f1f1f1
+}
+
+.navbar-container {
+    display: flex;
+    align-items: center;
+}
+.navbar-contents {
+    position: absolute;
+    right: 0;
+}
 
 .dropdown {
     position: relative;
@@ -69,9 +81,6 @@ span.inside-concentration{
 }
 .dropdown:hover .dropdown-content li {
     width: 100%
-}
-.dropdown-content a:hover {
-    background-color: #f1f1f1
 }
 /*.dropdown-btn:active {
     background-color: #4CAF50;
