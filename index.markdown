@@ -11,13 +11,6 @@ This is not limited to only coursework. Contribute any resources or additional p
 
 This website is entirely student-run and managed by the e-board of the Society of Physics Students. While the wiki does include links to official department forms, such as the freshman brochure, senior thesis guidelines, and department website pages, the Physics Department does not have any official involvement in this wiki; we simply aim to share potentially helpful resources from a variety of sources, ranging from student testimonials to department guidelines.
 
-----
-
-* TOC
-{:toc}
-
-----
-
 ## General Links
 
 - [Department Resources](https://physics.cornell.edu/general-resources)
