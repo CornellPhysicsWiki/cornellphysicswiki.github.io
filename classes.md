@@ -4,6 +4,8 @@ layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
+# Classes
+
 Physics students at Cornell don't strictly take physics courses. Other common STEM courses that students take can be found below. Course descriptions can be found at their corresponding links.
 
 - [Physics Classes](/classes/physclasses.html)
