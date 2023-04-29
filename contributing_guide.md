@@ -1,6 +1,6 @@
 ---
 title: Contributing Guide
-layout: post
+layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
