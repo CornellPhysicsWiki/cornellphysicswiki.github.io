@@ -6,6 +6,6 @@ layout: default
 
 # AEP Classes
 
-- [AEP 3200](/classes/aep/AEP3200.html) - Introductory Mathamatical Physics
-- [AEP 4200](/classes/aep/AEP4200.html) - Intermediete Mathamatical Physics
+- [AEP 3200](/classes/aep/AEP3200.html) - Introductory Mathematical Physics
+- [AEP 4200](/classes/aep/AEP4200.html) - Intermediate Mathematical Physics
 - [AEP 3630](/classes/phys/PHYS3360.html) - Electronic Circuits
