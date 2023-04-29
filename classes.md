@@ -1,6 +1,6 @@
 ---
 title: Classes
-layout: post
+layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
