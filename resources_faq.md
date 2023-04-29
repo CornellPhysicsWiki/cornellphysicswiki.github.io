@@ -12,7 +12,7 @@ layout: post
 - [Contributing Guide](/contributing_guide.html) and [Contributors](/contributors.html)
 - [PhysTech - Physics Teacher Education Coalition](http://phystec.physics.cornell.edu)
 
-## Freshmen Links
+## Freshman Links
 
 - [Freshman Brochure](https://cornell.app.box.com/s/aylnzufiev2x9vn2g22vs276lokm9sqi)
 - [Prospective Freshmen Panel](https://drive.google.com/file/d/1H8pdaKa5sEt5G8hvo-V2zcQc2HdVRFnf/view?usp=sharing)
