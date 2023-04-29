@@ -4,7 +4,7 @@ layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
-## Physics Classes
+# Physics Classes
 
 | Tag                            | Description                               |
 | ------------------------------ | ----------------------------------------- |
