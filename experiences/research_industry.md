@@ -14,6 +14,8 @@ advice for contacting profs, etc: [Getting Involved in Research](https://docs.go
 [Senior Thesis Guidelines](/Senior_Thesis.pdf)
 links to departments to look into
 
+Cornell Undergraduate Research Board(CURB) - [Peer Mentorship Program](https://www.cornellcurb.com/pmp)
+
 ## Off-Campus Opportunities
 
 benefits of participating in programs off campus. bolded programs are open to international/non-us citizens
