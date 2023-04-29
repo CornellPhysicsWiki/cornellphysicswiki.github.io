@@ -1,9 +1,10 @@
 <header class="site-header">
   <nav class="navbar">
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-        </div>
+    <div class="navbar-container">
+      <div>
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      </div>
+      <div class="navbar-contents">
         <ul>
           <li class="dropdown">
             <a class="dropdown-btn" href="/classes.html">Classes
@@ -39,5 +40,6 @@
           <li><a href="/contributing_guide.html">Feedback and Contributing Guide</a></li>
         </ul>
       </div>
-    </nav>
+    </div>
+  </nav>
 </header>
