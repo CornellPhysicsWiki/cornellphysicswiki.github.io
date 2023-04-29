@@ -4,7 +4,7 @@ layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
-## 
+# Graduate School and Career
 
 - [The Path to Graduate School](/grad_career/path_to_grad_school.html)
 - [Graduate Fellowships](/grad_career/grad_fellowships.html)
