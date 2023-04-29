@@ -35,7 +35,8 @@ span.inside-concentration{
 }
 .navbar ul {
     list-style-type: none;
-    margin-bottom: 0px;
+    margin-bottom: 0;
+    margin-left: 0;
 }
 .navbar li {
     line-height: 30px;
