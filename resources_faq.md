@@ -4,6 +4,7 @@ layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
+# Resources and FAQ
 
 ## General Links
 
