@@ -1,4 +1,9 @@
-# Resources and FAQ
+---
+title: Resources and FAQ
+layout: post
+---
+<link rel="stylesheet" href="/main.css">
+
 
 ## General Links
 
