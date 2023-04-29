@@ -6,8 +6,6 @@ layout: default
 
 # Awards and Scholarships
 
-links - eli, nexus, etc
-
 ## Awards
 - Stirling A. Colgate Award - Physics (Cornell)
 - Albert Silverman Memorial Award (Cornell)
