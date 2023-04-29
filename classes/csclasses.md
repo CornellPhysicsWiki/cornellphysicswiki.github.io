@@ -4,7 +4,7 @@ layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
-### CS Classes
+# CS Classes
 
 - [CS 1110](/classes/cs/CS1110.html) - Introduction to Computing Using Python
 - [CS 2110](/classes/cs/CS2110.html) - Object-Oriented Programming and Data Structures
