@@ -4,6 +4,8 @@ layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
+# Contributing Guide
+
 ----
 
 * TOC
