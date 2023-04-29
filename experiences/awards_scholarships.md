@@ -13,7 +13,7 @@ links - eli, nexus, etc
 - Albert Silverman Memorial Award (Cornell)
 - Douglas Fitchen Memorial Award (Cornell)
 - [NCWIT Collegiate Award](https://www.aspirations.org/award-programs/aic-collegiate-award)
-- Summer Funding
+- Summer Research Funding
   - [Nexus](https://as.cornell.edu/research/nexus-scholars)(Arts and Sciences Only)
   - [Engineering Learning Initiatives](https://www.engineering.cornell.edu/ugresearch/student-grant-program) (Engineering Only, also allows funding for semester research)
 
