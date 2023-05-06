@@ -6,11 +6,12 @@ layout: default
 
 # Other Experiences
 
-physics and math competitions, more links
+Physics and Math competitions are a good challenge and can also stem new interests!
+
 - [Cornell Mathematical Contest in Modelling](https://e.math.cornell.edu/sites/mcm/)
 - [iQuHACK](https://www.iquise.mit.edu/iQuHACK/2022-01-28)
 
-BU: Geneva Physics Program
+BU: Geneva Physics Program: A study abroad program for physics and AEP students.
 - Partnered with Boston University
 - Study at Geneva and work with a mentor at CERN
 - [Link to Cornell WebPage](https://experience.cornell.edu/opportunities/bu-geneva-physics-program)
