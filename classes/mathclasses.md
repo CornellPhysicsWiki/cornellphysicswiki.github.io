@@ -6,6 +6,8 @@ layout: default
 
 # Math Classes
 
+The below math sequence is required for Physics majors. Usually, many physics students have high school credit for MATH 1910, and these students begin their first semester with MATH 1920. It is extremely important to start this sequence in the first semester, because all of the intro physics courses have one or more of these courses as a prerequisite. 
+
 - [MATH 1910](/classes/math/MATH1910.html) - Calculus for Engineers
 - [MATH 1920](/classes/math/MATH1920.html) - Multivariable Calculus for Engineers
 - [MATH 2930](/classes/math/MATH2930.html) - Differential Equations for Engineers
