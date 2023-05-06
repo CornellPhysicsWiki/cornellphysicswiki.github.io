@@ -14,4 +14,4 @@ In addition to the main requirements, Cornell students take courses in a wide va
 - [Math Classes](/classes/mathclasses.html)
 - [Astronomy Classes](/classes/astroclasses.html)
 - [CS Classes](/classes/csclasses.html)
-- [AEP Classes](/classes/aepclasses.html)
+- [Applied and Engineering Physics Classes](/classes/aepclasses.html)
