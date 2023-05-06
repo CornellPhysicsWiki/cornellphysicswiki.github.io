@@ -10,7 +10,7 @@ For those who plan to continue Physics research into graduate school, research a
 
 ## Cornell Opportunities
 
-Here is a presentation providing a general overview of getting into research: [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
+Here is a presentation providing a general overview of getting into research, including a template for emailing professors: [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
 
 The Cornell Undergraduate Research Board (CURB) provides help to those looking for research opportunities: [Peer Mentorship Program](https://www.cornellcurb.com/pmp)
 
