@@ -6,7 +6,7 @@ layout: default
 
 # Research and Industry Experiences
 
-benefits of doing research and having industry experiences, summer programs, etc
+For those who plan to continue Physics research into graduate school, research as an undergrad is essential, as colleges are looking that you already have experience in the field. There are many ways to get into research, we have many links below to programs that provide opportunities, and another popular way of getting research is to just email professors whose research you find interesting. Having industry experience and summer programs are also very helpful. 
 
 ## Cornell Opportunities
 
