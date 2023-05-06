@@ -16,27 +16,31 @@ The Cornell Undergraduate Research Board (CURB) provides help to those looking f
 
 ## Off-Campus Opportunities
 
-benefits of participating in programs off campus. bolded programs are open to international/non-us citizens
+An off-capmus opportunity could be useful if you want to try out an area of physics that is not offered at Cornell. These opportunities are also usually more competitive and can positively contribute to your research experience. Most people participate in reasearch REUs as sophomores and juniors, as they are pretty hard to get accepted to as a freshman.
+
+## For International Students
+
+NSF grants and DoE grants are only for American citizens/permanent residents. However, there are various opportunities still available for international students. The website reufinder.com is a good resources to start looking for REUs that international students are eligible for. Programs that international students are eligible for are tagged with an asterisk
 
 ### Domestic
 - [REU Programs](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=69)
 - [Science Undergraduate Laboratory Internships (SULI)](https://science.osti.gov/wdts/suli)
-- [SURF at CalTech](https://sfp.caltech.edu/undergraduate-research/programs/surf)
+- [SURF at CalTech *](https://sfp.caltech.edu/undergraduate-research/programs/surf)
 - [Los Alamos National Laboratory Computational Physics Workshop](https://www.lanl.gov/org/padwp/adx/computational-physics/summer-workshop/index.php)
-- [Sandia Labs Internship](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/)
+- [Sandia Labs Internship *](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/)
 - [Air Force Research Lab Internship](https://www.griffissinstitute.org/who-we-work-with/afrl/summer-internship)
-- [Lee Teng Internship in Accelerator Physics at Fermilab](https://internships.fnal.gov/lee-teng-undergraduate-internship/)
+- [Lee Teng Internship in Accelerator Physics at Fermilab *](https://internships.fnal.gov/lee-teng-undergraduate-internship/)
 - [Harvard SEAS REU](https://www.seas.harvard.edu/office-education-outreach-community-programs/research-experience-undergraduates-reu)
 - [NASA JPL Internship](https://www.jpl.nasa.gov/edu/intern/)
-- [MIT Lincoln Labs Summer Research Program](https://www.ll.mit.edu/careers/student-opportunities/summer-research-program)
+- [MIT Lincoln Labs Summer Research Program *](https://www.ll.mit.edu/careers/student-opportunities/summer-research-program)
 - [Johns Hopkins Applied Physics Lab College Summer Intern Program](https://www.jhuapl.edu/careers/internships)
 - [Lockheed Martin Student Internship](https://www.lockheedmartinjobs.com/college-students)
 - [NASA Academy](https://www.academyapp.com)
-- [Santa Fe Institute Undergraduate Complexity Research](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
+- [Santa Fe Institute Undergraduate Complexity Research *](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
 - [NSA Director's Summer Program](https://www.intelligencecareers.gov/nsa/nsastudents.html)
 
 ### Outside the US
 
-- [Perimeter Institute START Program](https://perimeterinstitute.ca/psi-start-program)
-- [RISE Germany](https://www.daad.de/rise/en/rise-germany/)
-- [Kupcinet-Getz International Summer School](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
+- [Perimeter Institute START Program *](https://perimeterinstitute.ca/psi-start-program)
+- [RISE Germany *](https://www.daad.de/rise/en/rise-germany/)
+- [Kupcinet-Getz International Summer School *](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
