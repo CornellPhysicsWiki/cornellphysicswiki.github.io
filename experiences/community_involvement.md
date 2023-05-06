@@ -20,5 +20,6 @@ The benefits of physics outreach are unbound. Outreach enriches the physics comm
 ## Physics Community Pages
 
 - [SPS](https://www.spscornell.org) — Society of Physics Students
+  - Wonderful student run organization with an extremely charismatic president. 
 - [WiP+](https://physics.cornell.edu/women-in-physics) — Women in Physics
 - [GWIS](https://gwiscornell.wordpress.com) — Graduate Women in Science
