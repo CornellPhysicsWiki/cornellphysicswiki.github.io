@@ -6,6 +6,8 @@ layout: default
 
 # Graduate School and Career
 
+For those looking further ahead, below is resources to learn more about graduate school and applying to graduate school.
+
 - [The Path to Graduate School](/grad_career/path_to_grad_school.html)
 - [Graduate Fellowships](/grad_career/grad_fellowships.html)
 - [Career Paths](/grad_career/career_paths.html)
