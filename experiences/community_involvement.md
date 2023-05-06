@@ -6,13 +6,12 @@ layout: default
 
 # Service, Outreach, and Community
 
-benefits, links
-
+The benefits of physics outreach are unbound. Outreach enriches the physics community here at Cornell and in the Ithaca area, and improves your science communication skills.
 ## Outreach and Service Opportunities
 
 - [EYES](https://sites.google.com/site/cornelleyes/)
 - [Splash!](https://cornell.learningu.org)
-- [Cornell Physics UTA Program](https://physics.cornell.edu/undergraduate-teaching-assistant-program)
+- [Cornell Physics UTA Program](https://physics.cornell.edu/undergraduate-teaching-assistant-program)   
 - [Cornell Learning Strategies Center (LSC) Tutoring](https://lsc.cornell.edu)
 - [PhysTech - Physics Teacher Education Coalition](http://phystec.physics.cornell.edu)
 
