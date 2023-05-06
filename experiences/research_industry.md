@@ -20,7 +20,7 @@ An off-capmus opportunity could be useful if you want to try out an area of phys
 
 ## For International Students
 
-NSF grants and DoE grants are only for American citizens/permanent residents. However, there are various opportunities still available for international students. The website reufinder.com is a good resources to start looking for REUs that international students are eligible for. Programs that international students are eligible for are tagged with an asterisk
+NSF grants and DoE grants are only for American citizens/permanent residents. However, there are various opportunities still available for international students. The website reufinder.com is a good resources to start looking for REUs that international students are eligible for. Programs that international students are eligible for are tagged with an asterisk (*).
 
 ### Domestic
 - [REU Programs](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=69)
