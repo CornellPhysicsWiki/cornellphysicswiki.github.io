@@ -14,7 +14,7 @@ The benefits of physics outreach are unbound. Outreach enriches the physics comm
 - [Cornell Physics UTA Program](https://physics.cornell.edu/undergraduate-teaching-assistant-program)   
   - Great program and introduction to teaching. Highly reccomend if you want to solidfy your understanding of physics or if you're interested in TAing in the future.
 - [Cornell Learning Strategies Center (LSC) Tutoring](https://lsc.cornell.edu)
-  - Free tutoring for the intro sequence!
+  - Free tutoring for the introduction physics sequence!
 - [PhysTech - Physics Teacher Education Coalition](http://phystec.physics.cornell.edu)
 
 ## Physics Community Pages
