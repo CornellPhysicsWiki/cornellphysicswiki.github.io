@@ -14,6 +14,7 @@ layout: post
 ## Spring 2022
 
 - Fatima Yousuf
+- Ariel Marxena-Baksh
 - Colin Firth
 - Justine Singleton
 - Colin Murphy
