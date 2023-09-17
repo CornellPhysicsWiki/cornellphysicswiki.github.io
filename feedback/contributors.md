@@ -9,7 +9,7 @@ layout: post
 - Daria Kuzovkova
 - Haonan Gong
 - Harry Akins
-- Livia Kong- 
+- Livia Kong
 - Abigail Bohl
 - Abra Geiger
 
