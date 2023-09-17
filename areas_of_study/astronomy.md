@@ -11,10 +11,11 @@ Astronomy is the study of _____.
 Below, you will find opportunities in departments such as Physics, Astronomy, and Earth and Atmospheric Sciences.
 
 ## Research
-- https://physics.cornell.edu/research/astrophysics-general-relativity-and-cosmology (Physics)
-- https://research.astro.cornell.edu/ (Astro)
-- https://carlsaganinstitute.cornell.edu/ (Astro)
-- https://www.eas.cornell.edu/eas/research/research-areas (EAS)
+- Physics: [Astrophysics, General Relativity and Cosmology](https://physics.cornell.edu/research/astrophysics-general-relativity-and-cosmology)
+- Astro: [Cornell Center for Astrophysics and Planetary Science](https://research.astro.cornell.edu/)
+- Astro: [Carl Sagan Institute](https://carlsaganinstitute.cornell.edu/)
+- EAS: [EAS Research Areas](https://www.eas.cornell.edu/eas/research/research-areas)
+  - Topics worth looking into include Geophysics and Seismology, Atmospheric Science and Climate, Space and Planetary Sciences, and Geophysical Fluid Dynamics
 
 ## Courses
 - [ASTRO courses](/classes/astroclasses.html)
