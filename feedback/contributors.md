@@ -4,16 +4,17 @@ layout: post
 ---
 <link rel="stylesheet" href="/main.css">
 
-## Spring 2023 
+## Spring 2023 - Fall 2023
 
+- Daria Kuzovkova
 - Haonan Gong
+- Harry Akins
+- Livia Kong- 
 - Abigail Bohl
 - Abra Geiger
-- Livia Kong
 
 ## Spring 2022
 
 - Fatima Yousuf
-- Colin Firth
 - Justine Singleton
 - Colin Murphy
