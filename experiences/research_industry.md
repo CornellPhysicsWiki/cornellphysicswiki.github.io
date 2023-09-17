@@ -6,9 +6,11 @@ layout: default
 
 # Research and Industry Experiences
 
-For those who plan to continue Physics research into graduate school, research as an undergrad is essential, as colleges are looking that you already have experience in the field. There are many ways to get into research, we have many links below to programs that provide opportunities, and another popular way of getting research is to just email professors whose research you find interesting. Having industry experience and summer programs are also very helpful. 
+For those who plan to continue Physics research into graduate school, research as an undergrad is essential, as colleges are looking that you already have experience in the field. There are many ways to get into research. We have many links below to programs that provide opportunities for research. Another way of getting research is to directly email professors whose research you find interesting. Having experiences from industry and summer programs is also very helpful.
 
 ## Cornell Opportunities
+
+Areas of research at Cornell that are of interest to physics students are listed by category in the [Areas of Study](/areas_of_study.html) page.
 
 Here is a presentation providing a general overview of getting into research, including a template for emailing professors: [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
 
@@ -16,31 +18,38 @@ The Cornell Undergraduate Research Board (CURB) provides help to those looking f
 
 ## Off-Campus Opportunities
 
-An off-capmus opportunity could be useful if you want to try out an area of physics that is not offered at Cornell. These opportunities are also usually more competitive and can positively contribute to your research experience. Most people participate in reasearch REUs as sophomores and juniors, as they are pretty hard to get accepted to as a freshman.
+An off-campus opportunity could be useful if you want to try out an area of physics that is not offered at Cornell. These opportunities are also usually more competitive and can positively contribute to your research experience. Most people participate in reasearch REUs as sophomores and juniors, as they are pretty hard to get accepted to as a freshman.
 
-## For International Students
+**Note for international students:** NSF grants and DoE grants are only for American citizens/permanent residents. However, there are various opportunities still available for international students. The website reufinder.com is a good resources to start looking for REUs that international students are eligible for. Programs that international students are eligible for are tagged with an asterisk (*).
 
-NSF grants and DoE grants are only for American citizens/permanent residents. However, there are various opportunities still available for international students. The website reufinder.com is a good resources to start looking for REUs that international students are eligible for. Programs that international students are eligible for are tagged with an asterisk (*).
-
-### Domestic
-- [NDF Research Experience for Undergradates Programs (REUs)](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=69)
-- [Science Undergraduate Laboratory Internships (SULI)](https://science.osti.gov/wdts/suli)
-- [SURF at CalTech *](https://sfp.caltech.edu/undergraduate-research/programs/surf)
-- [Los Alamos National Laboratory Computational Physics Workshop](https://www.lanl.gov/org/padwp/adx/computational-physics/summer-workshop/index.php)
-- [Sandia Labs Internship *](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/)
-- [Air Force Research Lab Internship](https://www.griffissinstitute.org/who-we-work-with/afrl/summer-internship)
-- [Lee Teng Internship in Accelerator Physics at Fermilab *](https://internships.fnal.gov/lee-teng-undergraduate-internship/)
+### Domestic Programs
+#### Universities
+- [NSF Research Experience for Undergradates Programs (REUs)](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=69)
+- [Undergraduate Research Programs at Caltech](https://sfp.caltech.edu/undergraduate-research/programs)
+  - Includes programs such as SURF, WAVE, and programs with LIGO and NASA/JPL
 - [Harvard SEAS REU](https://www.seas.harvard.edu/office-education-outreach-community-programs/research-experience-undergraduates-reu)
-- [NASA JPL Internship](https://www.jpl.nasa.gov/edu/intern/)
-- [MIT Lincoln Labs Summer Research Program *](https://www.ll.mit.edu/careers/student-opportunities/summer-research-program)
 - [Johns Hopkins Applied Physics Lab College Summer Intern Program](https://www.jhuapl.edu/careers/internships)
-- [Lockheed Martin Student Internship](https://www.lockheedmartinjobs.com/college-students)
+
+#### National Labs
+- [Science Undergraduate Laboratory Internships (SULI)](https://science.osti.gov/wdts/suli)
+  - Internships at all 17 of the US Department of Energy national laboratories
+- [Undergraduate Summer Programs at Fermilab *](https://internships.fnal.gov/undergraduate-programs/)
+  - Includes programs such as SULI, SIST, the Lee Teng Internship in Accelerator Physics, and the Superconducting Quantum Materials and Systems Internship
+- [Los Alamos Undergraduate Student Internship Program](https://www.lanl.gov/careers/career-options/student-internships/undergraduate/index.php)
+- [Los Alamos National Laboratory Computational Physics Workshop](https://www.lanl.gov/org/padwp/adx/computational-physics/summer-workshop/index.php)
+- [Sandia Labs Internships *](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/)
+
+#### Government and Industry Labs
+- [NASA Programs for Undergraduates](https://science.nasa.gov/learners/learner-opportunities#undergrad)
+  - Includes JPL internships
 - [NASA Academy](https://www.academyapp.com)
+- [Air Force Research Lab Internship](https://www.griffissinstitute.org/who-we-work-with/afrl/summer-internship)
+- [Lockheed Martin Student Internship](https://www.lockheedmartinjobs.com/college-students)
+- [MIT Lincoln Labs Summer Research Program *](https://www.ll.mit.edu/careers/student-opportunities/summer-research-program)
 - [Santa Fe Institute Undergraduate Complexity Research *](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
 - [NSA Director's Summer Program](https://www.intelligencecareers.gov/nsa/nsastudents.html)
 
-### Outside the US
-
+### Programs Outside the US
 - [Perimeter Institute START Program *](https://perimeterinstitute.ca/psi-start-program)
 - [RISE Germany *](https://www.daad.de/rise/en/rise-germany/)
 - [Kupcinet-Getz International Summer School *](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
