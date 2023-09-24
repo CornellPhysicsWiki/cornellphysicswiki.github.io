@@ -56,8 +56,25 @@ All the information in the below course pages is provided from students. Please 
 - [PHYS 4488](/classes/phys/PHYS4488.html)
 
 ### 6000
+- [PHYS 6533](/classes/phys/PHYS6553.html)
+- [PHYS 6534](/classes/phys/PHYS6554.html)
 - [PHYS 6561](/classes/phys/PHYS6561.html)
+- [PHYS 6562](/classes/phys/PHYS6562.html)
 - [PHYS 6572](/classes/phys/PHYS6572.html)
+- [PHYS 6574](/classes/phys/PHYS6574.html)
+
+### 7000
+- [PHYS 7601](/classes/phys/PHYS7601.html)
+- [PHYS 7635](/classes/phys/PHYS7635.html)
+- [PHYS 7651](/classes/phys/PHYS7651.html)
+- [PHYS 7652](/classes/phys/PHYS7652.html)
+- [PHYS 7673](/classes/phys/PHYS7673.html)
+
+
+
+
+
+
 
 
 
