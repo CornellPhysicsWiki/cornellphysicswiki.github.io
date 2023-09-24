@@ -48,6 +48,7 @@ All the information in the below course pages is provided from students. Please 
 - [PHYS 4410](/classes/phys/PHYS4410.html) <span class="tag">Conc</span><span class="tag">Lab</span>
 - [PHYS 4433](/classes/phys/PHYS4433.html)
 - [PHYS 4443](/classes/phys/PHYS4443.html)
+- [PHYS 4444](/classes/phys/PHYS4444.html)
 - [PHYS 4445](/classes/phys/PHYS4445.html)  
 - [PHYS 4454](/classes/phys/PHYS4454.html)
 - [PHYS 4480](/classes/phys/PHYS4480.html)
