@@ -10,7 +10,7 @@ There are many areas of study that physics students may find interesting. Of cou
 We have summarized the major areas of interest below. Each page includes research opportunities in different departments at Cornell, suggestions for relevant courses beyond the core sequence, and other opportunities for engaging with these areas of study.
 
 - [Astronomy, cosmology, planetary/earth sciences](/areas_of_study/astronomy.html)
-- [Biophysics, Nanotechnology](/areas_of_study/biophysics.html)
+- [Biophysics, nanotechnology](/areas_of_study/biophysics.html)
 - [Condensed matter, materials science, nanoscience](/areas_of_study/condensed_matter_nanoscience.html)
 - [Particle physics, accelerator physics](/areas_of_study/particle_physics.html)
 - [Plasma, fusion physics](/areas_of_study/plasma.html)
