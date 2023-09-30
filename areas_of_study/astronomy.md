@@ -19,7 +19,6 @@ Below, you will find opportunities in departments such as Physics, Astronomy, an
   - Topics worth looking into include Geophysics and Seismology, Atmospheric Science and Climate, Space and Planetary Sciences, and Geophysical Fluid Dynamics
 
 ## Courses
-- [ASTRO courses](/classes/astroclasses.html)
 - Astronomy: Stars, Galaxies, and Cosmology [ASTRO 2211](https://classes.cornell.edu/browse/roster/FA23/class/ASTRO/2211)
 - Symbolic and Numerical Computing [ASTRO 3340](https://classes.cornell.edu/browse/roster/FA23/class/ASTRO/3340)
 - Multiwavelength Astronomical Techniques [ASTRO 4410](https://classes.cornell.edu/browse/roster/FA23/class/ASTRO/4410)
