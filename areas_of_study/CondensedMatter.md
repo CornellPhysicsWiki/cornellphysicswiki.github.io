@@ -1,5 +1,5 @@
 ---
-title: Condesned Matter, Material Science, and Nanoscience
+title: Condensed Matter, Material Science, and Nanoscience
 layout: default
 ---
 <link rel="stylesheet" href="/main.css">
