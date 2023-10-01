@@ -11,7 +11,7 @@ We have summarized the major areas of interest below. Each page includes researc
 
 - [Astronomy, cosmology, planetary/earth sciences](/areas_of_study/astronomy.html)
 - [Biophysics, nanotechnology](/areas_of_study/biophysics.html)
-- [Condensed matter, materials science, nanoscience](/areas_of_study/condensed_matter_nanoscience.html)
+- [Condensed matter, materials science, nanoscience](/areas_of_study/CondensedMatter.html)
 - [Particle physics, accelerator physics](/areas_of_study/ParticlePhysics.html)
 - [Plasma, fusion physics](/areas_of_study/PlasmaPhysics.html)
 - [Quantum information science, quantum materials, optics, lasers](/areas_of_study/quantum_science.html)
