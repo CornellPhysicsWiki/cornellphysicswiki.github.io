@@ -28,5 +28,5 @@ Below, you will find opportunities in the Physics Department
 
 
 ## Course
-- [Introduction to Particle Physics: Phys 4444](https://classes.cornell.edu/browse/roster/SP23/class/PHYS/4444)
+- Introduction to Particle Physics: [Phys 4444](https://classes.cornell.edu/browse/roster/SP23/class/PHYS/4444)
 ## Other opportunities
