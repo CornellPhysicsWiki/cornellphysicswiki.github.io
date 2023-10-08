@@ -84,8 +84,12 @@ span.inside-concentration{
 @media screen and (max-width: 600px) {
     .navbar-container {
         flex-direction: column;
+        flex-wrap: wrap;
     }
     .navbar-contents {
         position: relative;
+    }
+    .navbar a {
+        width: 100%;
     }
 }
