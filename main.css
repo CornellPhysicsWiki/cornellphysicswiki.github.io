@@ -11,24 +11,21 @@ span.ml-1\/2 {
     margin-left: 0.5rem;
 }
 
-/*Get rid of navigation bar (part of default theme)*/
-.site-nav{
-    display:none
-}
-
 /* For sample schedules in which_class.md*/
 span.math{
     color:blue !important;
 }
-
 span.concentration{
     color:green !important;
 }
-
 span.inside-concentration{
     color:red !important;
 }
 
+/* Get rid of default navigation bar */
+.site-nav{
+    display:none
+}
 /* navigation bar */
 .navbar {
     background-color: #fdfdfd;
@@ -86,8 +83,8 @@ span.inside-concentration{
 
 @media screen and (max-width: 600px) {
     .navbar a {
-        float: none;
-        display: block;
-        text-align: left;
+        /* float: none; */
+        display: grid;
+        color: #ff0000;
     }
 }
