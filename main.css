@@ -68,7 +68,6 @@ span.inside-concentration{
 .dropdown {
     position: relative;
     display: inline-block;
-    z-index: 1;
 }
 .dropdown-content {
     display: none;
@@ -76,6 +75,7 @@ span.inside-concentration{
 .dropdown:hover .dropdown-content {
     position: absolute;
     display: block;
+    z-index: 1;
     margin-left: 0px;
     background-color: #fdfdfd;
 }
