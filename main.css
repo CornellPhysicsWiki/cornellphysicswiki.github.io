@@ -82,9 +82,7 @@ span.inside-concentration{
 }
 
 @media screen and (max-width: 600px) {
-    .navbar a {
-        /* float: none; */
-        display: grid;
-        color: #ff0000;
+    .navbar-container {
+        flex-direction: column;
     }
 }
