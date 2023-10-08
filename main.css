@@ -83,3 +83,11 @@ span.inside-concentration{
 .dropdown:hover .dropdown-content li {
     width: 100%
 }
+
+@media screen and (max-width: 600px) {
+    .navbar a {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+}
