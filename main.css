@@ -85,4 +85,7 @@ span.inside-concentration{
     .navbar-container {
         flex-direction: column;
     }
+    .navbar-contents {
+        position: relative;
+    }
 }
