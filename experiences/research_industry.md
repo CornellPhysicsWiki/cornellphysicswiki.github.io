@@ -10,7 +10,7 @@ For those who plan to continue Physics research into graduate school, research a
 
 ## Cornell Opportunities
 
-Areas of research at Cornell that are of interest to physics students are listed by category in the [Areas of Study](/areas_of_study.html) page.
+Areas of research at Cornell that are of interest to physics students are listed by category in the **[Areas of Study](/areas_of_study.html) page**.
 
 Here is a presentation providing a general overview of getting into research, including a template for emailing professors: [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
 
