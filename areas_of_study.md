@@ -15,5 +15,5 @@ We have summarized the major areas of interest below. Each page includes researc
 - [Particle physics, accelerator physics](/areas_of_study/ParticlePhysics.md)
 - [Plasma, fusion physics](/areas_of_study/PlasmaPhysics.md)
 - [Quantum information science, quantum materials, optics, lasers](/areas_of_study/quantum_science.html)
-- [Physics education](/areas_of_study/physics_education.html)
+- [Physics education](/areas_of_study/PhysicsEducation.md)
 - [Other departments (MechE/Aerospace, ECE, Chemistry/ChemE, etc.)](/areas_of_study/other_departments.html)
