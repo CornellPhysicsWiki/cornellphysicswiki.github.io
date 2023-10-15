@@ -6,19 +6,21 @@ layout: default
 
 # Quantum information science, quantum materials, optics, lasers
 
-Biological physics is a multidisciplinary study of nature that uses the tools and techniques of physics to living organisms on scales ranging from the molecular to the macroscopic.
-While it is a broad field of study, students who are interested might benefit from taking classes that include topics in nanoscale science and fluid mechanics.
+
 
 Below, you will find opportunities in departments such as Physics and Applied & Engineering Physics.
 
 ## Research
-- Physics: [Biological Physics](https://physics.cornell.edu/research/biological-physics)
+- Physics:
+  - [High Energy Physics] (https://quantum.cornell.edu/research/high-energy-physics/)
 - AEP:
-  - 
+  - [Quantum Materials (Experimental)] (https://quantum.cornell.edu/research/quantum-materials-experiments/)
+  - [Quantum Optics] (https://quantum.cornell.edu/research/quantum-optics/)
+  - [Quantum Sensing] (https://quantum.cornell.edu/research/quantum-sensing/)
 
 ## Courses
-- 
-
+- Quantum Information Processing: [AEP/PHYS/CS 4812] (https://classes.cornell.edu/browse/roster/FA23/class/AEP/4812)
+- Quantum Physics and Engineering: [ECE 4060] (https://classes.cornell.edu/browse/roster/FA23/class/ECE/4060)
 
 ## Other opportunities
 - 
