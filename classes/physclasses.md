@@ -18,7 +18,7 @@ All the information in the below course pages is provided from students. Please 
 
 ### 1000
 
-- [PHYS 1110](/classes/phys/PHYS1110.html) <span class="tag">Intro</span> <span class="tag">Lab</span>
+- [PHYS 1110-Introduction to Experimental Physics](/classes/phys/PHYS1110.html) <span class="tag">Intro</span> <span class="tag">Lab</span>
 - [PHYS 1112-Mechanics and Heat](/classes/phys/PHYS1112.html) <span class="tag">Intro</span>
 - [PHYS 1116-Mechanics and Special Relativity](/classes/phys/PHYS1116.html) <span class="tag">Intro+</span>
 
