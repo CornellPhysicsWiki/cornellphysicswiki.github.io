@@ -52,6 +52,7 @@ All the information in the below course pages is provided from students. Please 
 - [PHYS 4445](/classes/phys/PHYS4445.html) - Introduction to General Relativity
 - [PHYS 4454](/classes/phys/PHYS4454.html) - Introductory Solid State Physics
 - [PHYS 4480](/classes/phys/PHYS4480.html) - Computational Physics
+- [PHYS 4481/AEP 4812/CS 4812](/classes/phys/PHYS4481.html) - Quantum Information Processing
 - [PHYS 4484](/classes/phys/PHYS4484.html) - Teaching and Learning Physics
 - [PHYS 4488](/classes/phys/PHYS4488.html) - Statistical Mechanics
 
