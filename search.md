@@ -1,3 +1,9 @@
+---
+title: Search
+layout: default
+---
+<link rel="stylesheet" href="/main.css">
+
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
@@ -17,5 +23,3 @@ SimpleJekyllSearch({
 </script>
 
 noResultsText ("No result found!")
-
-<!-- (https://blog.webjeda.com/instant-jekyll-search/) -->
