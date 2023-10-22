@@ -6,7 +6,9 @@ layout: default
 
 # Condensed matter, materials science, nanoscience
 
-Condensed matter physics investigates the properties of densely packed solids and liquids, unraveling phenomena like superconductivity and magnetism with implications spanning technology and quantum computing. Materials science focuses on designing, characterizing, and optimizing materials, driving innovations in aerospace, medicine, and renewable energy solutions. Nanoscience explores the unique behaviors of nanoscale structures, enabling breakthroughs in electronics, medicine, and materials science through the manipulation of nanomaterials. Together, these fields push the boundaries of our understanding of matter, shaping advancements across a wide array of industries and offering transformative solutions for the future. Below, you will find opportunities in departments such as Physics and Applied & Engineering Physics.
+Condensed matter physics investigates the properties of densely packed solids and liquids, unraveling phenomena like superconductivity and magnetism with implications spanning technology and quantum computing. Materials science focuses on designing, characterizing, and optimizing materials, driving innovations in aerospace, medicine, and renewable energy solutions. Nanoscience explores the unique behaviors of nanoscale structures, enabling breakthroughs in electronics, medicine, and materials science through the manipulation of nanomaterials. Together, these fields push the boundaries of our understanding of matter, shaping advancements across a wide array of industries and offering transformative solutions for the future.
+
+Below, you will find opportunities in departments such as Physics and Applied & Engineering Physics.
 
 ## Research
 - Physics:
