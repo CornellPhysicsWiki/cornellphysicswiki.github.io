@@ -1,5 +1,5 @@
 ---
-title: "ASTRO 2212: The Solar System: Planets, Small Bodies and New Worlds"
+title: "ASTRO 2212 - The Solar System: Planets, Small Bodies and New Worlds"
 layout: post
 ---
 
