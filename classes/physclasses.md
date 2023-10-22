@@ -56,7 +56,7 @@ All the information in the below course pages is provided from students. Please 
 - [PHYS 4488-Statistical Mechanics](/classes/phys/PHYS4488.html)
 
 ### 6000
-- [PHYS 6533-General Relativity I](/classes/phys/PHYS6553.html)
+- [PHYS 6553-General Relativity I](/classes/phys/PHYS6553.html)
 - [PHYS 6554-General Relativity II](/classes/phys/PHYS6554.html)
 - [PHYS 6561-Classical Electrodynamics](/classes/phys/PHYS6561.html)
 - [PHYS 6562-Statistical Physics I](/classes/phys/PHYS6562.html)
