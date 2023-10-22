@@ -1,6 +1,6 @@
 ---
 title: Other Departments
-layout: default other_departments.md
+layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
