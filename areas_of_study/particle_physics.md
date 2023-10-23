@@ -25,6 +25,7 @@ Below, you will find opportunities in the Physics Department.
 - [PHYS 7651](https://classes.cornell.edu/browse/roster/FA23/class/PHYS/7651) - Relativistic Quantum Field Theory I
 - [PHYS 7652](https://classes.cornell.edu/browse/roster/SP23/class/PHYS/7652) - Relativistic Quantum Field Theory II
 - [MATH 4500](https://classes.cornell.edu/browse/roster/SP23/class/MATH/4500) - Matrix Groups
+- [MATH 4530](https://classes.cornell.edu/browse/roster/FA23/class/MATH/4530) - Introduction to Topology
 
 ## Other opportunities
 - [CLASSE and LEPP Events and Seminars](https://www.classe.cornell.edu/NewsAndEvents/)
