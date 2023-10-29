@@ -11,3 +11,6 @@ AEP is a major offered in the College of Engineering, which is separate from the
 - [AEP 3200](/classes/aep/AEP3200.html) - Introductory Mathematical Physics
 - [AEP 4200](/classes/aep/AEP4200.html) - Intermediate Mathematical Physics
 - [AEP 3630](/classes/phys/PHYS3360.html) - Electronic Circuits
+- [AEP 3300](/classes/phys/PHYS3330) - Modern Experimental Optics
+
+
