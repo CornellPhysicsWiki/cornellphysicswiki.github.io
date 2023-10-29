@@ -14,19 +14,19 @@ Mathematics above 2000 level, physics above 3000 level. Recommended prerequisite
 
 ## Topics Covered
 
-• Observational overview for ordinary stars; the fundamental question of stellar astronomy
-• Hydrostatic balance; simple solutions
-• Energy transport in stars: radiative diffusion; convection
-• Energy production in stars: H-burning and the main sequence; He burning
-• Probes of interiors of stars
-• Outcomes of stellar evolution: which stars become white dwarfs, neutron stars or black holes?
-• White dwarfs: properties, structure, mass and radius scale
-• The white-dwarf/brown dwarf/planet connection
-• Neutron stars: properties, structure, mass and radius scale. The nature of dense matter.
-• Detection: accretion, radio pulsars, X-ray pulsars, cooling
-• Black holes: Physics in extremely strong gravitational fields, discovery via accretion, detection via gravitational
+- Observational overview for ordinary stars; the fundamental question of stellar astronomy
+- Hydrostatic balance; simple solutions
+- Energy transport in stars: radiative diffusion; convection
+- Energy production in stars: H-burning and the main sequence; He burning
+- Probes of interiors of stars
+- Outcomes of stellar evolution: which stars become white dwarfs, neutron stars or black holes?
+- White dwarfs: properties, structure, mass and radius scale
+- The white-dwarf/brown dwarf/planet connection
+- Neutron stars: properties, structure, mass and radius scale. The nature of dense matter.
+- Detection: accretion, radio pulsars, X-ray pulsars, cooling
+- Black holes: Physics in extremely strong gravitational fields, discovery via accretion, detection via gravitational
 radiation
-• Probes: Electromagnetic and gravitational radiation
+- Probes: Electromagnetic and gravitational radiation
 
 ## Workload
 
