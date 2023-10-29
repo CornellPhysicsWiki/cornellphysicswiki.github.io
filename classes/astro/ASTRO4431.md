@@ -26,3 +26,7 @@ Mathematics above 2000 level, physics above 3000 level. Recommended prerequisite
 
 
 ## Past Offerings
+{:.past-offerings}
+| Semester | Professor | Median Grade | Course Page |
+| --- | --- | --- | --- |
+| Fall 2022 | Ira Wasserman |  | <a href="/syllabi/ASTRO4431_Fa22.pdf">ASTRO4431_FA22.pdf</a> |
