@@ -13,12 +13,11 @@ AEP is a major offered in the College of Engineering, which is separate from the
 - [AEP 1200](/classes/aep/AEP1200.html) -  Introduction to Nanoscience and Nanoengineering
 
 ### 2000
--  [AEP 2170](/classes/aep/AEP2170.html) - Physics II: Electricity and Magnetism
--  [AEP 2520](/classes/aep/AEP2520.html) - The Physics of Life
--  [AEP 2550](/classes/aep/AEP2550.html) - Engineering Quantum Information Hardware
+- [AEP 2170](/classes/aep/PHYS2217.html) - Physics II: Electricity and Magnetism
+- [AEP 2520](/classes/aep/AEP2520.html) - The Physics of Life
+- [AEP 2550](/classes/aep/AEP2550.html) - Engineering Quantum Information Hardware
 
 ### 3000
-
 - [AEP 3100](/classes/aep/AEP3100.html) - Introductory Quantum Computing
 - [AEP 3200](/classes/aep/AEP3200.html) - Introductory Mathematical Physics
 - [AEP 3550](/classes/phys/AEP3550.html) - Intermediate Electromagnetism
@@ -26,6 +25,7 @@ AEP is a major offered in the College of Engineering, which is separate from the
 - [AEP 3560](/classes/phys/AEP3560.html) - Intermediate Electrodynamics
 - [AEP 3610](/classes/phys/AEP3610.html) - Introductory Quantum Mechanics
 - [AEP 3620](/classes/phys/AEP3620.html) - Intermediate Quantum Mechanics
+- [AEP 3630](/classes/phys/PHYS3360.html) - Electronic Circuits
 - [AEP 3640](/classes/phys/AEP3640.html) - Modern Applied Physics Experimental Design
 
 ### 4000
@@ -48,13 +48,3 @@ AEP is a major offered in the College of Engineering, which is separate from the
 - [AEP 6060](/classes/aep/AEP6060.html) - Introduction to Plasma Physics
 - [AEP 6610](/classes/aep/AEP6610.html) - Nanocharacterization
 - [AEP 6620](/classes/aep/AEP6620.html) - Micro and Nano-Fabrication and Processing
-
-
-  
-
-
-
-
-  
-
-  
