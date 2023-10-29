@@ -39,9 +39,9 @@ AEP is a major offered in the College of Engineering, which is separate from the
 - [AEP 4380](/classes/aep/AEP4380.html) - Computational Engineering Physics
 - [AEP 4400](/classes/aep/AEP4400.html) - Nonlinear and Quantum Optics
 - [AEP 4450](/classes/aep/AEP4450.html) - Electromagnetic and Optical Metamaterials
-- [AEP 4450](/classes/phys/PHYS4454.html) - Introductory Solid State Physics
+- [AEP 4500](/classes/phys/PHYS4454.html) - Introductory Solid State Physics
 - [AEP 4700](/classes/aep/AEP4700.html) - Biophysical Methods
-- [AEP 4812](/classes/phys/PHYS4812.html) - Quantum Information Processing
+- [AEP 4812](/classes/phys/PHYS4481.html) - Quantum Information Processing
 - [AEP 4840](/classes/aep/AEP4840.html) - Introduction to Controlled Fusion: Principles and Technology
 
 ### 5000
