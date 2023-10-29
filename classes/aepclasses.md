@@ -13,13 +13,15 @@ AEP is a major offered in the College of Engineering, which is separate from the
 - [AEP 1200](/classes/aep/AEP1200.html) -  Introduction to Nanoscience and Nanoengineering
 
 ### 2000
-- [AEP 2170](/classes/aep/PHYS2217.html) - Physics II: Electricity and Magnetism
+- [AEP 2170](/classes/phys/PHYS2217.html) - Physics II: Electricity and Magnetism
 - [AEP 2520](/classes/aep/AEP2520.html) - The Physics of Life
 - [AEP 2550](/classes/aep/AEP2550.html) - Engineering Quantum Information Hardware
 
 ### 3000
 - [AEP 3100](/classes/aep/AEP3100.html) - Introductory Quantum Computing
 - [AEP 3200](/classes/aep/AEP3200.html) - Introductory Mathematical Physics
+- [AEP 3300](/classes/phys/PHYS3330.html) - Modern Experimental Optics
+- [AEP 3330](/classes/aep/AEP3330.html) - Mechanics of Particles and Solid Bodies
 - [AEP 3550](/classes/phys/AEP3550.html) - Intermediate Electromagnetism
 - [AEP 3555](/classes/phys/AEP3555.html) - Gaining Intuition Through Symmetry and Computation
 - [AEP 3560](/classes/phys/AEP3560.html) - Intermediate Electrodynamics
@@ -31,12 +33,15 @@ AEP is a major offered in the College of Engineering, which is separate from the
 ### 4000
 - [AEP 4130](/classes/aep/AEP4130.html) - Introduction to Nuclear Science and Engineering
 - [AEP 4200](/classes/aep/AEP4200.html) - Intermediate Mathematical Physics
+- [AEP 4230](/classes/phys/PHYS4230.html) - Statistical Thermodynamics
 - [AEP 4300](/classes/aep/AEP4300.html) - Advanced Mathematical Physics
 - [AEP 4340](/classes/aep/AEP4340.html) - Fluid and Continuum Mechanics
 - [AEP 4380](/classes/aep/AEP4380.html) - Computational Engineering Physics
 - [AEP 4400](/classes/aep/AEP4400.html) - Nonlinear and Quantum Optics
 - [AEP 4450](/classes/aep/AEP4450.html) - Electromagnetic and Optical Metamaterials
+- [AEP 4450](/classes/phys/PHYS4454.html) - Introductory Solid State Physics
 - [AEP 4700](/classes/aep/AEP4700.html) - Biophysical Methods
+- [AEP 4812](/classes/phys/PHYS4812.html) - Quantum Information Processing
 - [AEP 4840](/classes/aep/AEP4840.html) - Introduction to Controlled Fusion: Principles and Technology
 
 ### 5000
