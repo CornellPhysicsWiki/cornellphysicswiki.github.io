@@ -22,13 +22,13 @@ AEP is a major offered in the College of Engineering, which is separate from the
 - [AEP 3200](/classes/aep/AEP3200.html) - Introductory Mathematical Physics
 - [AEP 3300](/classes/phys/PHYS3330.html) - Modern Experimental Optics
 - [AEP 3330](/classes/aep/AEP3330.html) - Mechanics of Particles and Solid Bodies
-- [AEP 3550](/classes/phys/AEP3550.html) - Intermediate Electromagnetism
-- [AEP 3555](/classes/phys/AEP3555.html) - Gaining Intuition Through Symmetry and Computation
-- [AEP 3560](/classes/phys/AEP3560.html) - Intermediate Electrodynamics
-- [AEP 3610](/classes/phys/AEP3610.html) - Introductory Quantum Mechanics
-- [AEP 3620](/classes/phys/AEP3620.html) - Intermediate Quantum Mechanics
+- [AEP 3550](/classes/aep/AEP3550.html) - Intermediate Electromagnetism
+- [AEP 3555](/classes/aep/AEP3555.html) - Gaining Intuition Through Symmetry and Computation
+- [AEP 3560](/classes/aep/AEP3560.html) - Intermediate Electrodynamics
+- [AEP 3610](/classes/aep/AEP3610.html) - Introductory Quantum Mechanics
+- [AEP 3620](/classes/aep/AEP3620.html) - Intermediate Quantum Mechanics
 - [AEP 3630](/classes/phys/PHYS3360.html) - Electronic Circuits
-- [AEP 3640](/classes/phys/AEP3640.html) - Modern Applied Physics Experimental Design
+- [AEP 3640](/classes/aep/AEP3640.html) - Modern Applied Physics Experimental Design
 
 ### 4000
 - [AEP 4130](/classes/aep/AEP4130.html) - Introduction to Nuclear Science and Engineering
