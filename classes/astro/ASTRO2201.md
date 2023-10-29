@@ -31,3 +31,8 @@ No scientific background is assumed
 
 
 ## Past Offerings
+
+{:.past-offerings}
+| Semester | Professor | Median Grade | Course Page |
+| --- | --- | --- | --- |
+| Spring 2022 | Martha Haynes |  |  |
