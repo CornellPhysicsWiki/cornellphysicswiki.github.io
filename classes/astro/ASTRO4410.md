@@ -1,5 +1,5 @@
 ---
-title: ASTRO 4410 - Multiwavelength Astronomy Techniques
+title: ASTRO 4410/6525 - Multiwavelength Astronomy Techniques
 layout: post
 ---
 
