@@ -29,9 +29,9 @@ AEP is a major offered in the College of Engineering, which is separate from the
 - [AEP 3200](/classes/aep/AEP3200.html) - Introductory Mathematical Physics <span class="tag">Core</span> 
 - [AEP 3300](/classes/phys/PHYS3330.html) - Modern Experimental Optics
 - [AEP 3330](/classes/aep/AEP3330.html) - Mechanics of Particles and Solid Bodies <span class="tag">Core</span><span class="tag">ENGRD</span> 
-- [AEP 3550](/classes/aep/AEP3550.html) - Intermediate Electromagnetism
+- [AEP 3550](/classes/aep/AEP3550.html) - Intermediate Electromagnetism <span class="tag">Core</span>
 - [AEP 3555](/classes/aep/AEP3555.html) - Gaining Intuition Through Symmetry and Computation
-- [AEP 3560](/classes/aep/AEP3560.html) - Intermediate Electrodynamics <span class="tag">Core</span>
+- [AEP 3560](/classes/aep/AEP3560.html) - Intermediate Electrodynamics
 - [AEP 3610](/classes/aep/AEP3610.html) - Introductory Quantum Mechanics <span class="tag">Core</span> 
 - [AEP 3620](/classes/aep/AEP3620.html) - Intermediate Quantum Mechanics <span class="tag">Core</span>
 - [AEP 3630](/classes/phys/PHYS3360.html) - Electronic Circuits <span class="tag">Core</span> <span class="tag">Lab</span>
