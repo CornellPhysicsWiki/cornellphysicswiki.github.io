@@ -1,5 +1,5 @@
 ---
-title: ASTRO 3340 - Symbolic and Numerical Computing
+title: ASTRO 3340/7340 - Symbolic and Numerical Computing
 layout: post
 ---
 
