@@ -8,7 +8,7 @@ layout: post
 ## General Information
 
 Introduces Mathematica and modern symbolic manipulator programs to students in quantitative disciplines. 
-The course will cover language concepts, programming tools and techniques and draw examples from a wide variety of fields including mathematics, 
+The course will cover language concepts, programming tools, and techniques and draw examples from a wide variety of fields including mathematics, 
 astronomy, physics, engineering, biology, statistics, finance, and the general topic of big data.
 
 ## Prerequisites
