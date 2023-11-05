@@ -35,4 +35,4 @@ sequence to their final end-states as white dwarfs, neutron stars or black holes
 {:.past-offerings}
 | Semester | Professor | Median Grade | Course Page |
 | --- | --- | --- | --- |
-
+|  |  |  |  |
