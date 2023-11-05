@@ -1,5 +1,5 @@
 ---
-title: ASTRO 3302 - The Life of Stars: From Birth to Death
+title: "ASTRO 3302 - The Life of Stars: From Birth to Death
 layout: post
 ---
 
