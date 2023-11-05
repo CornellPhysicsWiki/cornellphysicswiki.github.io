@@ -19,7 +19,7 @@ Recommended: ASTRO 3310 or ASTRO 3334
   - Techniques: charge-coupled device (CCD) imaging, optical photometry, optical spectroscopy, radiometry and radio spectroscopy
   - Fundamentals of astronomical instrumentation and data analysis applied to a wide range of celestial phenomena:
     asteroids, main-sequence stars, supernova remnants, globular clusters, planetary nebulae, the interstellar medium, OH masers, and galaxies
-  - Methods: statistical data analysis, artifact and interference excision, Fourier transforms, heterodyned receivers, and software-defined radio
+  - Methods: statistical data analysis, artifact, and interference excision, Fourier transforms, heterodyned receivers, and software-defined radio
   
 ## Workload
 
