@@ -14,3 +14,6 @@ Computer Science is an essential skill for any Physics research. Many of the und
 - [CS 2110](/classes/cs/CS2110.html) - Object-Oriented Programming and Data Structures
 - [CS 2800](/classes/cs/CS2800.html) - Discrete Structures
 - [CS 3110](/classes/cs/CS3110.html) - Data Structures and Functional Programming
+- [CS 4210](/classes/cs/MATH4250.html) - Numerical Analysis and Differential Equations
+- [CS 4780](/classes/cs/CS4780.html) - Introduction to Machine Learning
+- [CS 4820](/classes/cs/CS4820.html) - Introduction to Analysis of Algorithms
