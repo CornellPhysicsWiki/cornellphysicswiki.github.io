@@ -13,7 +13,7 @@ Physics Education Research (PER) is the study of how people learn physics and ho
 
 
 ## Courses
-- [PHYS 4484](https://physics.cornell.edu/research/physics-education-research) - Teaching and Learning Physics
+- [PHYS 4484](classes/phys/PHYS4484.html) - Teaching and Learning Physics
 
 ## Other 
 - [Outreach opportunities](/experiences/community_involvement.html)
