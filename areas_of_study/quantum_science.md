@@ -19,7 +19,7 @@ Below, you will find opportunities in departments such as Physics and Applied & 
   - [Quantum Sensing](https://quantum.cornell.edu/research/quantum-sensing/)
 
 ## Courses
-- [AEP 4812/PHYS 4481/CS 4812](https://classes.cornell.edu/browse/roster/FA23/class/PHYS/4481) - Quantum Information Processing
+- [AEP 4812/PHYS 4481/CS 4812](https://cornellphysicswiki.github.io/classes/phys/PHYS4481.html) - Quantum Information Processing
 - [ECE 4060](https://classes.cornell.edu/browse/roster/FA23/class/ECE/4060) - Quantum Physics and Engineering
 
 ## Other opportunities
