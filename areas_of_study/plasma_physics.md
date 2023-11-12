@@ -19,9 +19,9 @@ Below, you will find opportunities in departments such as Physics and Applied & 
 
 
 ## Courses
-- [AEP 4130](https://classes.cornell.edu/browse/roster/FA21/class/AEP/4130) - Introduction to Nuclear Science and Engineering
-- [AEP 4840](https://classes.cornell.edu/browse/roster/SP23/class/AEP/4840) - Introduction to Controlled Fusion: Principles and Technology
-- [AEP 6060](https://classes.cornell.edu/browse/roster/FA23/class/AEP/6060) - Introduction to Plasma Physics
+- [AEP 4130](https://cornellphysicswiki.github.io/classes/aep/AEP4130.html) - Introduction to Nuclear Science and Engineering
+- [AEP 4840](https://cornellphysicswiki.github.io/classes/aep/AEP4840.html) - Introduction to Controlled Fusion: Principles and Technology
+- [AEP 6060](https://cornellphysicswiki.github.io/classes/aep/AEP6060.html) - Introduction to Plasma Physics
 
 ## Other opportunities
 - [Plasma Physics colloquia](https://www.lps.cornell.edu/colloquia-on-plasma-science-applications/)
