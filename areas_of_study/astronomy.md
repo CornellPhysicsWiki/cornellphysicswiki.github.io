@@ -22,16 +22,16 @@ Below, you will find opportunities in departments such as Physics, Astronomy, an
     - Topics worth looking into include Geophysics and Seismology, Atmospheric Science and Climate, Space and Planetary Sciences, and Geophysical Fluid Dynamics
 
 ## Courses
-- [ASTRO 2211](/classes/astro/ASTRO2211.html) - Astronomy: Stars, Galaxies, and Cosmology
-- [ASTRO 3340](/classes/astro/ASTRO3340.html) - Symbolic and Numerical Computing
-- [ASTRO 4410](/classes/astro/ASTRO4410.html) - Multiwavelength Astronomical Techniques
-- [ASTRO 4431](/classes/astro/ASTRO4431.html) - Physics of Stars, Neutron Stars and Black Holes
-- [ASTRO 4433](/classes/phys/PHYS4433.html) - Introduction to Cosmology
-- [ASTRO 4445](/classes/phys/PHYS4445.html) - Introduction to General Relativity
+- [ASTRO 2211](https://cornellphysicswiki.github.io/classes/astro/ASTRO2211.html) - Astronomy: Stars, Galaxies, and Cosmology
+- [ASTRO 3340](https://cornellphysicswiki.github.io/classes/astro/ASTRO3340.html) - Symbolic and Numerical Computing
+- [ASTRO 4410](https://cornellphysicswiki.github.io/classes/astro/ASTRO4410.html) - Multiwavelength Astronomical Techniques
+- [ASTRO 4431](https://cornellphysicswiki.github.io/classes/astro/ASTRO4431.html) - Physics of Stars, Neutron Stars and Black Holes
+- [ASTRO 4433](https://cornellphysicswiki.github.io/classes/phys/PHYS4433.html) - Introduction to Cosmology
+- [ASTRO 4445](https://cornellphysicswiki.github.io/classes/phys/PHYS4445.html) - Introduction to General Relativity
 - [PHYS 6553](https://classes.cornell.edu/browse/roster/FA22/class/PHYS/6553) - General Relativity I
 - [PHYS 6554](https://classes.cornell.edu/browse/roster/SP23/class/PHYS/6554) - General Relativity II
-- [MATH 4530](/classes/math/MATH4530.html) - Introduction to Topology
-- [MATH 4540](/classes/math/MATH4540.html) - Introduction to Differential Geometry
+- [MATH 4530](https://cornellphysicswiki.github.io/classes/math/MATH4530.html) - Introduction to Topology
+- [MATH 4540](https://cornellphysicswiki.github.io/classes/math/MATH4540.html) - Introduction to Differential Geometry
 
 ## Other opportunities
 - [Cornell Astronomical Society & Fuertes Observatory](https://www.cornellastrosociety.org/)
