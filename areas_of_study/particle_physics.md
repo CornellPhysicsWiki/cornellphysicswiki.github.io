@@ -19,13 +19,13 @@ Below, you will find opportunities in the Physics Department.
   - [Cornell High Energy Synchrotron Source (CHESS)](https://www.chess.cornell.edu/)
 
 ## Courses
-- [PHYS 4444](/classes/phys/PHYS4444.html) - Introduction to Particle Physics
-- [PHYS 6561](/classes/phys/PHYS6561.html) - Classical Electrodynamics
-- [PHYS 6572](/classes/phys/PHYS6572.html) - Quantum Mechanics I
-- [PHYS 7651](/classes/phys/PHYS7651.html) - Relativistic Quantum Field Theory I
-- [PHYS 7652](/classes/phys/PHYS7652.html) - Relativistic Quantum Field Theory II
-- [MATH 4500](/classes/math/MATH4500.html) - Matrix Groups
-- [MATH 4530](/classes/math/MATH4530.html) - Introduction to Topology
+- [PHYS 4444](https://cornellphysicswiki.github.io/classes/phys/PHYS4444.html) - Introduction to Particle Physics
+- [PHYS 6561](https://cornellphysicswiki.github.io/classes/phys/PHYS6561.html) - Classical Electrodynamics
+- [PHYS 6572](https://cornellphysicswiki.github.io/classes/phys/PHYS6572.html) - Quantum Mechanics I
+- [PHYS 7651](https://cornellphysicswiki.github.io/classes/phys/PHYS7651.html) - Relativistic Quantum Field Theory I
+- [PHYS 7652](https://cornellphysicswiki.github.io/classes/phys/PHYS7652.html) - Relativistic Quantum Field Theory II
+- [MATH 4500](https://cornellphysicswiki.github.io/classes/math/MATH4500.html) - Matrix Groups
+- [MATH 4530](https://cornellphysicswiki.github.io/classes/math/MATH4530.html) - Introduction to Topology
 
 ## Other opportunities
 - [CLASSE and LEPP Events and Seminars](https://www.classe.cornell.edu/NewsAndEvents/)
