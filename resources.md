@@ -12,12 +12,13 @@ layout: default
 - [APS Resources for Undergraduates](https://www.aps.org/programs/education/undergrad/students/)
 - [PhysTech - Physics Teacher Education Coalition](http://phystec.physics.cornell.edu)
 
-## Course Enrollment Links
+## Useful resources for class planning and enrollment
 
-- [CUAdd - Track seats in classes!](https://cuadd.org/)
-- [Course Plan](https://courseplan.io/login)
-- [CU Reviews](https://www.cureviews.org/)
-- [Rate My Professors](https://www.ratemyprofessors.com/)
+- [Class Roster](https://classes.cornell.edu/browse/) - See course listings and create your schedule
+- [Course Plan](https://courseplan.io/login) - Plan a course schedule according to graduation requirements
+- [CU Reviews](https://www.cureviews.org/) - Course reviews
+- [Rate My Professors](https://www.ratemyprofessors.com/) - Professor reviews
+- [CUAdd](https://cuadd.org/) - Track seats in classes
 
 ## Freshman Links
 
