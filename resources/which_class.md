@@ -13,6 +13,19 @@ Here are the core requirements for the physics major:
 
 <img src="/imgs/major_reqs.png">
 
+### Mathematical Physics vs Math Courses
+
+[AEP3200](/classes/aep/AEP3200.html) and [AEP4200](/classes/aep/AEP4200.html) teach:
+  - curvilinear coordinate systems
+  - tensor calculus
+  - complex analysis
+  - complex Taylor and Laurent series, contour integrals, Fourier and Laplace transforms
+  - odes and pdes - separation of variables, method of Frobenius, Laplace transform techniques, Green's functions, wave and diffusion equations, Laplace's equation, Hermitian operators, Sturm-Liouville operators, Bessel functions, Legendre polynomials, spherical harmonics
+
+If you don’t take the math phys sequence, we highly recommend taking [complex analysis and a differential equations course](classes/mathclasses.html) 
+
+
+
 ### Concentration Requirements
 
 In addition to the core requirements, every physics major must complete a concentration. You can choose to do either an inner concentration within the physics department, or you can choose to do a concentration in any other field of your choosing. Below is more information on concentration requirements.
