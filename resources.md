@@ -1,18 +1,20 @@
 ---
-title: Resources and FAQ
+title: Resources
 layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
-# Resources and FAQ
+# Resources
 
 ## General Links
 
 - [Department Resources](https://physics.cornell.edu/general-resources)
 - [APS Resources for Undergraduates](https://www.aps.org/programs/education/undergrad/students/)
-- [Contributing Guide](/contributing_guide.html) and [Contributors](/contributors.html)
 - [PhysTech - Physics Teacher Education Coalition](http://phystec.physics.cornell.edu)
-- [CUAdd - Enroll in Fulled Classes](https://cuadd.org/)
+
+## Course Enrollment Links
+
+- [CUAdd - Track seats in classes!](https://cuadd.org/)
 - [Course Plan](https://courseplan.io/login)
 - [CU Reviews](https://www.cureviews.org/)
 - [Rate My Professors](https://www.ratemyprofessors.com/)
