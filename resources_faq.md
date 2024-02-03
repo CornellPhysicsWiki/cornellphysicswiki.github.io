@@ -12,6 +12,10 @@ layout: default
 - [APS Resources for Undergraduates](https://www.aps.org/programs/education/undergrad/students/)
 - [Contributing Guide](/contributing_guide.html) and [Contributors](/contributors.html)
 - [PhysTech - Physics Teacher Education Coalition](http://phystec.physics.cornell.edu)
+- [CUAdd - Enroll in Fulled Classes](https://cuadd.org/)
+- [Course Plan](https://courseplan.io/login)
+- [CU Reviews](https://www.cureviews.org/)
+- [Rate My Professors](https://www.ratemyprofessors.com/)
 
 ## Freshman Links
 
