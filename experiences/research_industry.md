@@ -53,17 +53,22 @@ An off-campus opportunity could be useful if you want to try out an area of phys
 - [MIT Lincoln Labs Summer Research Program *](https://www.ll.mit.edu/careers/student-opportunities/summer-research-program)
 - [Santa Fe Institute Undergraduate Complexity Research *](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
 - [NSA Director's Summer Program](https://www.intelligencecareers.gov/nsa/nsastudents.html)
-- [The Leadership Alliance ummer Research Program](https://theleadershipalliance.org/summer-research-early-identification-program)
+- [The Leadership Alliance Summer Research Program](https://theleadershipalliance.org/summer-research-early-identification-program)
 
 ### Programs Outside the US
+- [UMich CERN REU](https://cern-reu.physics.lsa.umich.edu/)
+- [Summer Student Programme at CERN *](https://home.web.cern.ch/summer-student-programme)
 - [Perimeter Institute START Program *](https://perimeterinstitute.ca/psi-start-program)
 - [RISE Germany *](https://www.daad.de/rise/en/rise-germany/)
 - [Kupcinet-Getz International Summer School *](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
 
   
 ### Other Resources
-- [Research Program Search Tool](https://www.pathwaystoscience.org/programs.aspx)
+- Search for research programs:
+  - [Pathways to Science](https://www.pathwaystoscience.org/programs.aspx)
+  - [REU Finder](https://reufinder.com/)
+    - Includes opportunities for freshmen, sophomores, juniors & seniors, international students, community college students, undocumented students 
 - Opportunities listed by other universities:
   - [Harvard](https://www.physics.harvard.edu/undergrad/summer)
-  - [MIT](https://sps.scripts.mit.edu:444/resources/intern.php) 
+  - [MIT](https://sps.scripts.mit.edu:444/resources/intern.php)
 
