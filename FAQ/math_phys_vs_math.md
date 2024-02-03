@@ -1,10 +1,8 @@
 ---
-title: Engineering vs Honors Physics Introductory Sequence
+title: Mathematical Physics vs Math Courses
 layout: post
 ---
 <link rel="stylesheet" href="/main.css">
-
-### Mathematical Physics vs Math Courses
 
 The math phys sequence follows *Mathematical Physics* by Kusse and Westwig closely. AEP 3200 covers chapters 1-8, and AEP 4200 covers chapters 9-11 (plus either 12 or 13, depending on the professor).
 
