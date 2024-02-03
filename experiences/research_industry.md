@@ -29,6 +29,8 @@ An off-campus opportunity could be useful if you want to try out an area of phys
   - Includes programs such as SURF, WAVE, and programs with LIGO and NASA/JPL
 - [Harvard SEAS REU](https://www.seas.harvard.edu/office-education-outreach-community-programs/research-experience-undergraduates-reu)
 - [Johns Hopkins Applied Physics Lab College Summer Intern Program](https://www.jhuapl.edu/careers/internships)
+- [Columbia University Engineering and Applied Science REU](https://mrsec.columbia.edu/content/research-experiences-undergraduates-reu)
+- [Columbia University Nevis Laboratories Particle Physics REU](https://mrsec.columbia.edu/content/research-experiences-undergraduates-reu)
 
 #### National Labs
 - [Science Undergraduate Laboratory Internships (SULI)](https://science.osti.gov/wdts/suli)
@@ -48,6 +50,7 @@ An off-campus opportunity could be useful if you want to try out an area of phys
 - [MIT Lincoln Labs Summer Research Program *](https://www.ll.mit.edu/careers/student-opportunities/summer-research-program)
 - [Santa Fe Institute Undergraduate Complexity Research *](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
 - [NSA Director's Summer Program](https://www.intelligencecareers.gov/nsa/nsastudents.html)
+- [Princeton University Plasma Physics Laboratory REU](https://www.pppl.gov/plasma-and-fusion-undergraduate-research-opportunities-pfuro)
 
 ### Programs Outside the US
 - [Perimeter Institute START Program *](https://perimeterinstitute.ca/psi-start-program)
