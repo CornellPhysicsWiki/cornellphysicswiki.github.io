@@ -1,6 +1,6 @@
 ---
 title: FAQ
-layout: post
+layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
