@@ -10,7 +10,7 @@
       "tags"     : "{{ page.tags | join: ', ' }}",
       "date"     : "{{ page.date }}",
       "description" : "{{ page.description | strip_html | strip_newlines | escape }}",
-      "content" : "{{ page.content | strip_html | strip_newlines | escape }}"
+      "content" : "{{ page.excerpt | strip_html | escape }}"
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
