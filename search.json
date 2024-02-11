@@ -9,7 +9,7 @@
       "category" : "{{page.categories | join: ', '}}",
       "tags"     : "{{ page.tags | join: ', ' }}",
       "description" : "{{ page.description | strip_html | strip_newlines | escape }}",
-      "content" : "{{ page.content | strip_html | strip_newlines | truncatewords: 50 | escape }}"
+      "content" : "{{ page.content | strip_html | strip_newlines | truncatewords: 20 | escape }}"
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
