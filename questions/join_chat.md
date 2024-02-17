@@ -4,7 +4,7 @@ layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
-# Join Discord/Slack
+# Join Discord and Slack
 
 Below are some chat spaces for physics and AEP students at Cornell. These are great places to meet new people and ask any questions you may have.
 
@@ -16,7 +16,7 @@ To access the other channels within the server, you must first join the Cornell 
 
 ## Cornell SPS Slack
 
-The **Cornell SPS Slack** is one of Cornell SPS's communication platforms. It is used in conjunction with the SPS email listserv (this is the most reliable place to get information about SPS--please join [here](https://forms.gle/TPY8feDT6bxYrjhW6) if you have not already) to send out updates about SPS events, and members can also use the Slack to chat with others. Please click [this link](https://join.slack.com/t/cornellsps/shared_invite/zt-2cxb1x9kl-2wJFSBr38CRdgXczt98SuA) to join.
+The **Cornell SPS Slack** is one of Cornell SPS's communication platforms. It is used in conjunction with the SPS email listserv (this is the most reliable place to get information about SPS---please join [here](https://forms.gle/TPY8feDT6bxYrjhW6) if you have not already) to send out updates about SPS events, and members can also use the Slack to chat with others. Please click [this link](https://join.slack.com/t/cornellsps/shared_invite/zt-2cxb1x9kl-2wJFSBr38CRdgXczt98SuA) to join.
 
 ## Cornell SPS Discord
 
