@@ -11,7 +11,7 @@ Departments such as Mechanical/Aerospace Engineering, Electrical Engineering, Ch
 ## Research
 - Aerospace/Engineering
   - [Space Systems Design Studio]( https://www.spacecraftresearch.com/)
-  - [space Science and Engineering](https://www.engineering.cornell.edu/space-and-planetary-sciences)
+  - [Space Science and Engineering](https://www.engineering.cornell.edu/space-and-planetary-sciences)
 - ECE
   - [High Energy Density Plasma](https://www.engineering.cornell.edu/faculty-directory/david-hammer)
   - [Robotic Electronics](https://www.engineering.cornell.edu/faculty-directory/elizabeth-farrell-helbling)
