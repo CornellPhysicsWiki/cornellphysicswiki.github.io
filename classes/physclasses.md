@@ -54,13 +54,12 @@ All the information in the below course pages is provided from students. Please 
 - [PHYS 4480](/classes/phys/PHYS4480.html) - Computational Physics
 - [PHYS 4481/AEP 4812/CS 4812](/classes/phys/PHYS4481.html) - Quantum Information Processing
 - [PHYS 4484](/classes/phys/PHYS4484.html) - Teaching and Learning Physics
-- [PHYS 4488](/classes/phys/PHYS4488.html) - Statistical Mechanics
+- [PHYS 4488/PHYS 6562](/classes/phys/PHYS4488.html) - Statistical Mechanics
 
 ### 6000
 - [PHYS 6553](/classes/phys/PHYS6553.html) - General Relativity I
 - [PHYS 6554](/classes/phys/PHYS6554.html) - General Relativity II
 - [PHYS 6561](/classes/phys/PHYS6561.html) - Classical Electrodynamics
-- [PHYS 6562](/classes/phys/PHYS6562.html) - Statistical Physics I
 - [PHYS 6572](/classes/phys/PHYS6572.html) - Quantum Mechanics I
 - [PHYS 6574](/classes/phys/PHYS6574.html) - Applications of Quantum Mechanics II
 

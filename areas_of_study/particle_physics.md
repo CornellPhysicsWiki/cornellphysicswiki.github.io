@@ -24,6 +24,7 @@ Below, you will find opportunities in the Physics Department.
 - [PHYS 6572](classes/phys/PHYS6572.html) - Quantum Mechanics I
 - [PHYS 7651](classes/phys/PHYS7651.html) - Relativistic Quantum Field Theory I
 - [PHYS 7652](classes/phys/PHYS7652.html) - Relativistic Quantum Field Theory II
+- [MATH 4180](classes/math/MATH4180.html) - Complex Analysis
 - [MATH 4500](classes/math/MATH4500.html) - Matrix Groups
 - [MATH 4530](classes/math/MATH4530.html) - Introduction to Topology
 
