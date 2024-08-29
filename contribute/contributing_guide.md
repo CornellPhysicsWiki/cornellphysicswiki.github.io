@@ -21,7 +21,7 @@ This site was started by students just like you, and we need your help in keepin
 this website, you can either: 
 - Edit the code directly, either on GitHub Desktop or with git
 - Submit an issue ticket
-- Fill out this [information form](https://docs.google.com/forms/d/e/1FAIpQLSdVJW974eg64R3mRVyuIaXaxqwjfqlDbGz9ZBlcsLmT27sKBw/viewform?usp=sf_link) and a website admin will update the website content.
+- Fill out this [information form](https://docs.google.com/forms/d/e/1FAIpQLSf3lDCHOlxUgBfDui19e5D3Wnydb42g-odYAOpfL27e9NFp4w/viewform?usp=sf_link) and a website admin will update the website content.
 
 ## Create an Issue Ticket
 
@@ -110,14 +110,7 @@ Click `Propose Changes`. After that, you should be redirected to a new page like
 <img src="/imgs/pull_request_3.png">
 
 Enter some comments about your changes so that the website 
-administrators/reviewer knows what changes you made. On the right, you will need to add at least one reviewer. This reviewer must be a website administrator and can be any of the people below:
-
-- Fatima Yousuf (fatimayousuf)
-- Colin Murphy (colincmurphy)
-- Ved Sriraman (sriramanved)
-- Ariel Marxena (arixena24)
-- Stella Dang (stelladang)
-- Devisree Tallapaneni (devisreet)
+administrators/reviewer knows what changes you made. On the right, you will need to add at least one reviewer. This reviewer must be a website administrator and can be any of the people in the [CornellPhysicsWiki](https://github.com/orgs/CornellPhysicsWiki/people) page.
 
 Click "Create Pull Request". You're reviewer might suggest some edits to your changes. Once your changes are approved, the website will be updated. Most of the time, as soon as we get around to reviewing your changes, we’ll just accept them.
 

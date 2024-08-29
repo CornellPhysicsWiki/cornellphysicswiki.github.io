@@ -4,14 +4,18 @@ layout: post
 ---
 <link rel="stylesheet" href="/main.css">
 
+## Spring 2024 - Fall 2024
+
+- Ayman Abou-Alfa
+- Sophia Yang
+- Livia Kong
+
 ## Spring 2023 - Fall 2023
 
 - Daria Kuzovkova
 - Haonan Gong
 - Harry Akins
 - Livia Kong
-- Abigail Bohl
-- Abra Geiger
 
 ## Spring 2022
 
