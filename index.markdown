@@ -4,7 +4,7 @@ layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
-# Welcome to the Unofficial Cornell Physics Wiki!
+# Welcome to the Cornell Physics Wiki!
 {:.no_toc}
 
 This is a resource for courses, research, graduate school, outreach, awards and scholarships, and other opportunities to be involved with physics at Cornell!
