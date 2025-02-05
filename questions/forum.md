@@ -35,7 +35,7 @@ Some parting thoughts: it’s great that you are thinking ahead about how to bes
 
 "If you have a specific research interest in HEP-th, my recommendation would be to try to optimize your schedule to take prerequisites as early as possible while maintaining good grades and a solid understanding of the foundational ideas. At the same time, prereqs are not enforced, so if you can study the material on your own before taking a higher level class, that should work as long as you learn what’s necessary. In terms of research, getting to a level of comfort with the physics to actually do anything interesting will likely happen towards the end of your undergraduate career, if at all, so it’s a very good idea to get involved in different research before then. The main relevant thing here is that you find something you are interested in, but is still accessible, so you should email professors to find out what they are looking for in a student."
 
-##
+## Course conflicts with PHYS 4410
 ### Question
 I'm planning my path through the Physics curriculum and have some questions about PHYS 4410.
 
