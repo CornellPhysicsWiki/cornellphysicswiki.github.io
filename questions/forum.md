@@ -8,7 +8,7 @@ layout: default
 
 If you have any questions about courses, research, grad school, etc., feel free to ask us in [this form](https://docs.google.com/forms/d/e/1FAIpQLSd6bn5MNtVsbdFpGqtQT8dXEhIvStyfb3S5Vak8E3XqOu7z9Q/viewform?usp=sf_link). We will post your questions with very minimal (if any) editing and try to get back to you within 1-2 weeks during the semester.
 
-_Page last updated 12/9/2024._
+_Page last updated 2/5/2025._
 
 ## Advice for undergrads interested in doing theory in grad school
 ### Question
@@ -34,3 +34,16 @@ Some parting thoughts: it’s great that you are thinking ahead about how to bes
 ---
 
 "If you have a specific research interest in HEP-th, my recommendation would be to try to optimize your schedule to take prerequisites as early as possible while maintaining good grades and a solid understanding of the foundational ideas. At the same time, prereqs are not enforced, so if you can study the material on your own before taking a higher level class, that should work as long as you learn what’s necessary. In terms of research, getting to a level of comfort with the physics to actually do anything interesting will likely happen towards the end of your undergraduate career, if at all, so it’s a very good idea to get involved in different research before then. The main relevant thing here is that you find something you are interested in, but is still accessible, so you should email professors to find out what they are looking for in a student."
+
+##
+### Question
+I'm planning my path through the Physics curriculum and have some questions about PHYS 4410.
+
+During Fall Semester, PHYS 4410 lecture (2:30-3:20) overlaps with AEP 3560 discussion (1:25-2:40). All AEP seniors are required to take both PHYS 4410 and AEP 3560. Does this constrain AEP seniors to taking PHYS 4410 in the spring semester? If not, how is this contention resolved?
+
+The Cornell Class Roster lists the PHYS 4410 lab portion as meeting from 1:25 to 4:25 on both Tuesdays and Wednesdays. Many other interesting Cornell courses meet either MWF or TR. Blocking off the whole afternoon on two consecutive days needlessly eliminates a slew of interesting courses in other departments. Is my reading of the Roster correct? (I'm hoping the answer is no, you pick one of the two days.)
+
+The Physics department promises to send out a packet explaining PHYS 4410 at the end of spring semester junior year. That's kind of late for planners like me. Can this forum post packets from prior years? I don't see any reason to keep them secret, and it would help with planning.
+
+### Answer
+We're working on it!
