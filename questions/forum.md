@@ -4,6 +4,9 @@ layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
+* TOC
+{:toc}
+
 # Forum
 
 If you have any questions about courses, research, grad school, etc., feel free to ask us in [this form](https://docs.google.com/forms/d/e/1FAIpQLSd6bn5MNtVsbdFpGqtQT8dXEhIvStyfb3S5Vak8E3XqOu7z9Q/viewform?usp=sf_link). We will post your questions with very minimal (if any) editing and try to get back to you within 1-2 weeks during the semester.
@@ -46,4 +49,13 @@ The Cornell Class Roster lists the PHYS 4410 lab portion as meeting from 1:25 to
 The Physics department promises to send out a packet explaining PHYS 4410 at the end of spring semester junior year. That's kind of late for planners like me. Can this forum post packets from prior years? I don't see any reason to keep them secret, and it would help with planning.
 
 ### Answer
-We're working on it!
+No; many AEP seniors take PHYS 4410 concurrently with AEP 3560. Historically (i.e. in Fall 2024 and presumably in previous years as well), the AEP department has approved this exact conflict, so there is no need to worry about it. I do find it strange that the AEP department _creates_ this conflict in the first place, but that's another story.
+
+The current policy is that you are allowed to have a partial conflict with one of the two lab days, but not both. It is possible to take a course not required for graduation as long as it only conflicts with one of the lab days; the petition may be tricky to get approved depending on which departments are involved, but the physics department usually has no problem with this. Conflicts with the lecture will likely be denied unless they are absolutely necessary for graduation, such as in the case of AEP 3560--and even this is only a partial conflict.
+
+I am not aware of any "information packet" explaining PHYS 4410, but here is the information we have received regarding course enrollment:
+- During your junior spring (we received it in early March), you will receive an email from the physics course enrollment staff to indicate whether you will be taking PHYS 4410 in the fall or spring, or whether you will not be taking it at all. This form is first-come, first-served, so monitor your inbox and make sure to remind your friends too.
+- The physics department will automatically enroll you in PHYS 4410 before pre-enroll. This includes the lecture and both the Tuesday and Wednesday lab sections. There have been talks about giving students the option to select only one of the lab days on Student Center, but this has not yet been implemented.
+- If you plan to take a course that conflicts with one of the lab days, and you expect this course to fill up, you should drop PHYS 4410 and enroll in the other course during pre-enroll. Make sure to email the physics enrollment staff to inform them that you have dropped PHYS 4410 but will re-enroll via petition. Then, during add/drop, you must submit a petition to your college's registrar to re-enroll in PHYS 4410. Note that time conflict forms are only processed during add/drop.
+
+In terms of the course itself, you will be required to attend lectures and weekly pod meetings. Pod meetings are just brief group meetings with one of the course instructors to give progress updates on your lab. Your weekly pod meetings will occur at the beginnning of the lab session on either Tuesdays or Wednesdays (if you have a conflict on e.g. Tuesdays, you will have your pod meetings on Wednesdays). Students are allowed to go into the lab to do work weekdays 8 am - 5 pm, so you will have a lot of flexibility in terms of when you actually do your lab work; the times listed on Student Center are more so suggestions for when you should attend lab, as these are the hours when the course instructors (as well as your peers) will be available to help you.
