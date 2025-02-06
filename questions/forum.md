@@ -4,14 +4,16 @@ layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
-* TOC
-{:toc}
-
 # Forum
 
 If you have any questions about courses, research, grad school, etc., feel free to ask us in [this form](https://docs.google.com/forms/d/e/1FAIpQLSd6bn5MNtVsbdFpGqtQT8dXEhIvStyfb3S5Vak8E3XqOu7z9Q/viewform?usp=sf_link). We will post your questions with very minimal (if any) editing and try to get back to you within 1-2 weeks during the semester.
 
 _Page last updated 2/5/2025._
+
+---
+* TOC
+{:toc}
+---
 
 ## Advice for undergrads interested in doing theory in grad school
 ### Question
