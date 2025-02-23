@@ -20,6 +20,8 @@ Areas of research at Cornell that are of interest to physics students are listed
 
 Here is a useful undergraduate research page provided by A&S: [Undergraduate Research](https://as.cornell.edu/research/undergraduate-research)
 
+Here is the undergraduate research page provided by A&S: [Undergraduate Research](https://as.cornell.edu/research/undergraduate-research)
+
 ## Off-Campus Opportunities
 
 An off-campus opportunity could be useful if you want to try out an area of physics that is not offered at Cornell. These opportunities are also usually more competitive and can positively contribute to your research experience. Most people participate in reasearch REUs as sophomores and juniors, as they are pretty hard to get accepted to as a freshman.
