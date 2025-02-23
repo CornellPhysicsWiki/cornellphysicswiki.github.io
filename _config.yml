@@ -1,9 +1,11 @@
 title: Cornell Physics Wiki
 email: cornellphysicssociety@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Student-run wiki for students interested in physics at Cornell University
+  A student-run wiki for students interested in physics at Cornell University. This organization is a registered student organization of Cornell University.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://cornellphysicswiki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+google_analytics: G-0SYKCM266F
 
 # Build settings
 theme: minima

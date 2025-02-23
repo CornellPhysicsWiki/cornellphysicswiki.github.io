@@ -7,7 +7,7 @@ layout: post
 
 ## General Information
 
- 
+
 
 ## Prerequisites
 
