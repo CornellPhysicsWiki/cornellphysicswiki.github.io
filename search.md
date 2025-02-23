@@ -18,6 +18,7 @@ layout: default
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
+  searchResultTemplate: '<div><a href="{url}"><h2>{title}</h2></a><span>{excerpt}</span></div>',
   json: '/search.json'
 })
 </script>
