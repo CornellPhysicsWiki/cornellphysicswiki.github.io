@@ -25,8 +25,8 @@ layout: default
 - [Freshman Brochure](https://cornell.app.box.com/s/aylnzufiev2x9vn2g22vs276lokm9sqi)
 - [Prospective Freshmen Panel](https://drive.google.com/file/d/1H8pdaKa5sEt5G8hvo-V2zcQc2HdVRFnf/view?usp=sharing)
 - [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
-- [Engineering vs. Honors Physics Sequence](/resources/engineering_vs_honors.html)
-- [Which Classes Should I Take?](/resources/which_class.html)
+- [Engineering vs. Honors Physics Sequence](/questions/FAQ/engineering_vs_honors.html)
+- [Which Classes Should I Take?](/questions/FAQ/which_class.html)
 
 ## Senior Links
 

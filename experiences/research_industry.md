@@ -8,15 +8,17 @@ layout: default
 
 For those who plan to continue Physics research into graduate school, research as an undergrad is essential, as colleges are looking that you already have experience in the field. There are many ways to get into research. We have many links below to programs that provide opportunities for research. Another way of getting research is to directly email professors whose research you find interesting. Having experiences from industry and summer programs is also very helpful.
 
+## Getting Involved in Research
+
+Here is an SPS presentation providing a general overview of getting into research, including a template for emailing professors: [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
+
+The Cornell Undergraduate Research Board (CURB) provides help to those looking for research opportunities through the [Peer Mentorship Program](https://www.cornellcurb.com/pmp).
+
 ## Cornell Opportunities
 
-Areas of research at Cornell that are of interest to physics students are listed by category in the **[Areas of Study](/areas_of_study.html) page**.
+Areas of research at Cornell that are of interest to physics students are listed by category in the [Areas of Study](/areas_of_study.html) page. On the [Scholarships, Funding, and Awards](/experiences/scholarships_funding.html) page, we have provided resources for finding research funding.
 
-Here is a presentation providing a general overview of getting into research, including a template for emailing professors: [Getting Involved in Research](https://docs.google.com/presentation/d/1T_JWGTbslsuo953fDwLijQ_krZxoutNPhexjozLt3G8/edit?usp=sharing)
-
-The Cornell Undergraduate Research Board (CURB) provides help to those looking for research opportunities: [Peer Mentorship Program](https://www.cornellcurb.com/pmp)
-
-Here is the undergraduate research page provided by A&S: [Undergraduate Research](https://as.cornell.edu/research/undergraduate-research)
+Here is a useful undergraduate research page provided by A&S: [Undergraduate Research](https://as.cornell.edu/research/undergraduate-research)
 
 ## Off-Campus Opportunities
 
