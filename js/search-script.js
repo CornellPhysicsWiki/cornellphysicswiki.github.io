@@ -308,7 +308,7 @@ var _$src_8 = {};
       return 0
     },
     noResultsText: 'No results found',
-    limit: 10,
+    limit: 1000,
     fuzzy: false,
     debounceTime: null,
     exclude: []

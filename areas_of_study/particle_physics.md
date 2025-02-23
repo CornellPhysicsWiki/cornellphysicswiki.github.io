@@ -19,13 +19,14 @@ Below, you will find opportunities in the Physics Department.
   - [Cornell High Energy Synchrotron Source (CHESS)](https://www.chess.cornell.edu/)
 
 ## Courses
-- [PHYS 4444](https://classes.cornell.edu/browse/roster/SP23/class/PHYS/4444) - Introduction to Particle Physics
-- [PHYS 6561](https://classes.cornell.edu/browse/roster/FA23/class/PHYS/6561) - Classical Electrodynamics
-- [PHYS 6572](https://classes.cornell.edu/browse/roster/FA22/class/PHYS/6572) - Quantum Mechanics I
-- [PHYS 7651](https://classes.cornell.edu/browse/roster/FA23/class/PHYS/7651) - Relativistic Quantum Field Theory I
-- [PHYS 7652](https://classes.cornell.edu/browse/roster/SP23/class/PHYS/7652) - Relativistic Quantum Field Theory II
-- [MATH 4500](https://classes.cornell.edu/browse/roster/SP23/class/MATH/4500) - Matrix Groups
-- [MATH 4530](https://classes.cornell.edu/browse/roster/FA23/class/MATH/4530) - Introduction to Topology
+- [PHYS 4444](/classes/phys/PHYS4444.html) - Introduction to Particle Physics
+- [PHYS 6561](/classes/phys/PHYS6561.html) - Classical Electrodynamics
+- [PHYS 6572](/classes/phys/PHYS6572.html) - Quantum Mechanics I
+- [PHYS 7651](/classes/phys/PHYS7651.html) - Relativistic Quantum Field Theory I
+- [PHYS 7652](/classes/phys/PHYS7652.html) - Relativistic Quantum Field Theory II
+- [MATH 4180](/classes/math/MATH4180.html) - Complex Analysis
+- [MATH 4500](/classes/math/MATH4500.html) - Matrix Groups
+- [MATH 4530](/classes/math/MATH4530.html) - Introduction to Topology
 
 ## Other opportunities
 - [CLASSE and LEPP Events and Seminars](https://www.classe.cornell.edu/NewsAndEvents/)

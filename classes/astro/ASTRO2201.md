@@ -31,3 +31,8 @@ No scientific background is assumed
 
 
 ## Past Offerings
+
+{:.past-offerings}
+| Semester | Professor | Median Grade | Course Page |
+| --- | --- | --- | --- |
+| Spring 2022 | Martha Haynes |  | <a href="/syllabi/ASTRO2201_SP22.pdf">ASTRO2201_SP22.pdf</a> |
