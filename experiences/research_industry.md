@@ -38,15 +38,18 @@ An off-campus opportunity could be useful if you want to try out an area of phys
 - [Harvard SEAS REU](https://www.seas.harvard.edu/office-education-outreach-community-programs/research-experience-undergraduates-reu)
 - [MIT Haystack REU](https://www.haystack.mit.edu/haystack-public-outreach/reu/)
 - [Johns Hopkins Applied Physics Lab College Summer Intern Program](https://www.jhuapl.edu/careers/internships)
+- [Columbia University Engineering and Applied Science REU](https://mrsec.columbia.edu/content/research-experiences-undergraduates-reu)
+- [Columbia University Nevis Laboratories Particle Physics REU](https://mrsec.columbia.edu/content/research-experiences-undergraduates-reu)
 
 #### National Labs
 - [Science Undergraduate Laboratory Internships (SULI)](https://science.osti.gov/wdts/suli)
   - Internships at all 17 of the US Department of Energy national laboratories
 - [Undergraduate Summer Programs at Fermilab *](https://internships.fnal.gov/undergraduate-programs/)
-  - Includes programs such as SULI, SIST, the Lee Teng Internship in Accelerator Physics, and the Superconducting Quantum Materials and Systems Internship
+  - Includes programs such as SULI, SIST, the Lee Teng Internship in Accelerator Physics, and the Superconducting Quantum Materials and Systems Internship (offerings may vary--please check the Fermilab website for the updated list)
 - [Los Alamos Undergraduate Student Internship Program](https://www.lanl.gov/careers/career-options/student-internships/undergraduate/index.php)
 - [Los Alamos National Laboratory Computational Physics Workshop](https://www.lanl.gov/org/padwp/adx/computational-physics/summer-workshop/index.php)
 - [Sandia Labs Internships *](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/)
+- [Princeton University Plasma Physics Laboratory REU](https://www.pppl.gov/plasma-and-fusion-undergraduate-research-opportunities-pfuro)
 
 ### Government and Industry Labs
 - [NASA Programs for Undergraduates](https://science.nasa.gov/learners/learner-opportunities#undergrad)
