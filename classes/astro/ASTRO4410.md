@@ -7,10 +7,7 @@ layout: post
 
 ## General Information
 
-The course covers methods in optical and radio astronomy and selected topics in astrophysics. 
-Major experiments use techniques chosen from charge-coupled device (CCD) imaging, optical photometry, 
-optical spectroscopy, radiometry and radio spectroscopy. Observations use the Hartung-Boothroyd Observatory's 
-24-inch telescope and a 3.8-meter radio telescope on the roof of the Space Sciences Building. Course page can be found [here](https://topics.sirtf.com/Astro4410/CourseHandouts).
+The course covers methods in optical and radio astronomy and selected topics in astrophysics.
 
 ## Prerequisites
 
@@ -20,6 +17,7 @@ Recommended prerequisite: ASTRO 3310 or ASTRO 3334
 
 ## Topics Covered
 
+The course covers methods in optical and radio astronomy and selected topics in astrophysics. 
   - Astronomical instrumentation and data analysis applied to the following:
       - Asteroids
       - Main-sequence stars
@@ -39,7 +37,8 @@ Recommended prerequisite: ASTRO 3310 or ASTRO 3334
   - Fundamentals of astronomical instrumentation and data analysis applied to a wide range of celestial phenomena:
     asteroids, main-sequence stars, supernova remnants, globular clusters, planetary nebulae, the interstellar medium, OH masers, and galaxies
   - Methods: statistical data analysis, artifact, and interference excision, Fourier transforms, heterodyned receivers, and software-defined radio
-  
+Observations use the Hartung-Boothroyd Observatory's 24-inch telescope and a 3.8-meter radio telescope on the roof of the Space Sciences Building.
+
 ## Workload
 
 
@@ -47,6 +46,10 @@ Recommended prerequisite: ASTRO 3310 or ASTRO 3334
 
   
 ## Testimonials
+
+
+## Resources
+- [Course page](https://topics.sirtf.com/Astro4410/CourseHandouts)
 
 
 ## Past Offerings
