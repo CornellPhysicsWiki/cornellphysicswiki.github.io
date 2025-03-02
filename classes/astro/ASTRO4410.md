@@ -11,22 +11,45 @@ The course covers methods in optical and radio astronomy and selected topics in 
 
 ## Prerequisites
 
-PHYS 2214 and PHYS 2218 or PHYS 3310 or PHYS 3360, PHYS 3327
-Recommended: ASTRO 3310 or ASTRO 3334
+Priority given to Astro majors or Physics majors with Astro minors
+PHYS 2214 or PHYS 2218, PHYS 3310 or PHYS 3360, PHYS 3327, or permission from instructor
+Recommended prerequisite: ASTRO 3310 or ASTRO 3334
 
 ## Topics Covered
+
+The course covers methods in optical and radio astronomy and selected topics in astrophysics. 
+  - Astronomical instrumentation and data analysis applied to the following:
+      - Asteroids
+      - Main-sequence stars
+      - Supernova remnants
+      - Globular clusters
+      - Planetary nebulae
+      - Interstellar medium
+      - OH masers
+      - Galaxies
+  - Statistical data analysis
+  - Artifact and interference excision
+  - Fourier transfrms
+  - Heterodyned receivers
+  - Software-defined radio
 
   - Techniques: charge-coupled device (CCD) imaging, optical photometry, optical spectroscopy, radiometry and radio spectroscopy
   - Fundamentals of astronomical instrumentation and data analysis applied to a wide range of celestial phenomena:
     asteroids, main-sequence stars, supernova remnants, globular clusters, planetary nebulae, the interstellar medium, OH masers, and galaxies
   - Methods: statistical data analysis, artifact, and interference excision, Fourier transforms, heterodyned receivers, and software-defined radio
-  
+Observations use the Hartung-Boothroyd Observatory's 24-inch telescope and a 3.8-meter radio telescope on the roof of the Space Sciences Building.
+
 ## Workload
+
 
 ## General Advice
 
   
 ## Testimonials
+
+
+## Resources
+- [Course page](https://topics.sirtf.com/Astro4410/CourseHandouts)
 
 
 ## Past Offerings

@@ -16,6 +16,7 @@ The benefits of physics outreach are unbound. Outreach enriches the physics comm
 - [Cornell Learning Strategies Center (LSC) Tutoring](https://lsc.cornell.edu)
   - Free tutoring for the introduction physics sequence!
 - [PhysTech - Physics Teacher Education Coalition](http://phystec.physics.cornell.edu)
+- [The Ithaca Physics Bus](https://freescienceworkshop.org/physicsbus/) – The physics bus aims to awaken science and physics curiosity in young schoolchildren. SPS members are free to volunteer in local initiatives, but also to travel further away in country-wide trips!
 
 ## Physics Community Pages
 
@@ -23,3 +24,4 @@ The benefits of physics outreach are unbound. Outreach enriches the physics comm
   - Wonderful student run organization with an extremely charismatic president. 
 - [WiP+](https://physics.cornell.edu/women-in-physics) — Women in Physics
 - [GWIS](https://gwiscornell.wordpress.com) — Graduate Women in Science
+

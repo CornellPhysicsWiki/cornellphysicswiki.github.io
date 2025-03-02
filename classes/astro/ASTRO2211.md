@@ -1,5 +1,5 @@
 ---
-title: ASTRO 2211 - Astronomy: Stars, Galaxies, and Cosmology
+title: "ASTRO 2211 - Astronomy: Stars, Galaxies, and Cosmology"
 layout: post
 ---
 
