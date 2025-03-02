@@ -36,15 +36,15 @@ For more guidance on selecting math courses, you can consult the math department
 
 - MATH 3110 - Introduction to Analysis
 - MATH 3230 - Introduction to Differential Equations
-- [MATH 3210](/classes/math/MATH3210.html) - Manifolds and Differential Forms
-- [MATH 3270](/classes/math/MATH3270.html) - Introduction to Ordinary Differential Equations
+- MATH 3210 - Manifolds and Differential Forms
+- MATH 3270 - Introduction to Ordinary Differential Equations
 - MATH 4130 - Honors Introduction to Analysis I
 - MATH 4140 - Honors Introduction to Analysis II
-- [MATH 4180](/classes/math/MATH4180.html) - Complex Analysis
+- MATH 4180 - Complex Analysis
 - MATH 4220 - Applied Complex Analysis
-- [MATH 4200](/classes/math/MATH4200.html) - Differential Equations and Dynamical Systems
-- [MATH 4210](/classes/math/MATH4210.html) - Nonlinear Dynamics and Chaos
-- [MATH 4250](/classes/math/MATH4250.html) - Numerical Analysis and Differential Equations
+- MATH 4200- Differential Equations and Dynamical Systems
+- MATH 4210 - Nonlinear Dynamics and Chaos
+- MATH 4250 - Numerical Analysis and Differential Equations
 - MATH 4260 - Numerical Analysis: Linear and Nonlinear Problems
 - [MATH 4280](/classes/math/MATH4280.html) - Introduction to Partial Differential Equations
 
@@ -55,17 +55,17 @@ For more guidance on selecting math courses, you can consult the math department
 - MATH 3360 - Applicable Algebra
 - MATH 4330 - Honors Linear Algebra
 - MATH 4340 - Honors Introduction to Algebra
-- [MATH 4370](/classes/math/MATH4370.html) - Computational Algebra
+- MATH 4370 - Computational Algebra
 
 ### Geometry and Topology
 
-- [MATH 3610](/classes/math/MATH3610.html) - Mathematical Modeling
-- [MATH 4500](/classes/math/MATH4500.html) - Matrix Groups
-- [MATH 4530](/classes/math/MATH4530.html) - Introduction to Topology
-- [MATH 4540](/classes/math/MATH4540.html) - Introduction to Differential Geometry
+- MATH 3610 - Mathematical Modeling
+- MATH 4500 - Matrix Groups
+- MATH 4530 - Introduction to Topology
+- MATH 4540 - Introduction to Differential Geometry
 
 ### Probability and Statistics
 
 - MATH 4710 - Basic Probability
 - MATH 4720 - Statistics
-- [MATH 4740](/classes/math/MATH4740.html) - Stochastic Processes
+- MATH 4740 - Stochastic Processes
