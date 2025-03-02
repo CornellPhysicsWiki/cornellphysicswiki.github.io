@@ -17,3 +17,5 @@ Computer Science is an essential skill for any Physics research. Many of the und
 - [CS 4210](/classes/cs/MATH4250.html) - Numerical Analysis and Differential Equations
 - [CS 4780](/classes/cs/CS4780.html) - Introduction to Machine Learning
 - [CS 4820](/classes/cs/CS4820.html) - Introduction to Analysis of Algorithms
+
+There is also the [Cornell CS Wiki](https://cornellcswiki.gitlab.io/), which has more information on courses.
