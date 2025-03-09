@@ -19,6 +19,8 @@ All the information in the below course pages is provided from students. Please 
 ### 1000
 
 - [PHYS 1110](/classes/phys/PHYS1110.html) - Introduction to Experimental Physics <span class="tag">Intro</span> <span class="tag">Lab</span>
+- [PHYS 1101](/classes/phys/PHYS1101.html) - General Physics 1 
+- [PHYS 1102](/classes/phys/PHYS1102.html) - General Physics 2
 - [PHYS 1112](/classes/phys/PHYS1112.html) - Mechanics and Heat <span class="tag">Intro</span>
 - [PHYS 1116](/classes/phys/PHYS1116.html) - Mechanics and Special Relativity <span class="tag">Intro+</span>
 
@@ -62,6 +64,7 @@ All the information in the below course pages is provided from students. Please 
 - [PHYS 6561](/classes/phys/PHYS6561.html) - Classical Electrodynamics
 - [PHYS 6572](/classes/phys/PHYS6572.html) - Quantum Mechanics I
 - [PHYS 6574](/classes/phys/PHYS6574.html) - Applications of Quantum Mechanics II
+- [PHYS 6599](/classes/phys/PHYS6599.html) - Cosmology
 
 ### 7000
 - [PHYS 7601](/classes/phys/PHYS7601.html) - Foundations of Fluid Mechanics
