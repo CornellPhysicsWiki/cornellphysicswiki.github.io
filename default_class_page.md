@@ -27,6 +27,8 @@ layout: post
 
 ## Testimonials
 
+## Resources
+<!--- <a href="insert link">insert page name</a> --->
 
 
 ## Past Offerings
