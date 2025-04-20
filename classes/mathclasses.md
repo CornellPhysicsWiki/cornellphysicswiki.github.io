@@ -60,7 +60,7 @@ For more guidance on selecting math courses, you can consult the math department
 ### Geometry and Topology
 
 - MATH 3610 - Mathematical Modeling
-- MATH 4500 - Matrix Groups
+- [MATH 4500](/classes/math/MATH4500.html) - Matrix Groups
 - MATH 4530 - Introduction to Topology
 - MATH 4540 - Introduction to Differential Geometry
 
