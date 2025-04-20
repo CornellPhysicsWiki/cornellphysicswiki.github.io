@@ -34,4 +34,8 @@ Note that many upper level astronomy courses are cross listed with physics cours
 - [ASTRO 4433](/classes/phys/PHYS4433.html) - Introduction to Cosmology
 - [ASTRO 4445](/classes/phys/PHYS4445.html) - Introduction to General Relativity
 
+### 6000
+- [ASTRO 6511](/classes/phys/PHYS6525.html) - High Energy Astrophysics
 
+### 7000
+- [ASTRO 7690](/classes/phys/PHYS4480.html) - Computational Physics
