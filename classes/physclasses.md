@@ -75,3 +75,4 @@ All the information in the below course pages is provided from students. Please 
 - [PHYS 7651](/classes/phys/PHYS7651.html) - Relativistic Quantum Field Theory I
 - [PHYS 7652](/classes/phys/PHYS7652.html) - Relativistic Quantum Field Theory II
 - [PHYS 7680](/classes/phys/PHYS4480.html) - Computational Physics
+- [PHYS 7687](/classes/phys/PHYS7687.html) - Special Topics in Physics

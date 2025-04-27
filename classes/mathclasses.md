@@ -43,9 +43,9 @@ For more guidance on selecting math courses, you can consult the math department
 - MATH 4180 - Complex Analysis
 - MATH 4220 - Applied Complex Analysis
 - MATH 4200- Differential Equations and Dynamical Systems
-- MATH 4210 - Nonlinear Dynamics and Chaos
-- MATH 4250 - Numerical Analysis and Differential Equations
-- MATH 4260 - Numerical Analysis: Linear and Nonlinear Problems
+- [MATH 4210](/classes/math/MATH4210.html) - Nonlinear Dynamics and Chaos
+- [MATH 4250](/classes/math/MATH4250.html) - Numerical Analysis and Differential Equations
+- [MATH 4260](/classes/math/MATH4260.html) - Numerical Analysis: Linear and Nonlinear Problems
 - [MATH 4280](/classes/math/MATH4280.html) - Introduction to Partial Differential Equations
 
 ### Algebra
@@ -53,7 +53,7 @@ For more guidance on selecting math courses, you can consult the math department
 - MATH 3320 - Introduction to Number Theory
 - MATH 3340 - Abstract Algebra
 - MATH 3360 - Applicable Algebra
-- MATH 4330 - Honors Linear Algebra
+- [MATH 4330](/classes/math/MATH4330.html) - Honors Linear Algebra
 - MATH 4340 - Honors Introduction to Algebra
 - MATH 4370 - Computational Algebra
 
@@ -62,7 +62,7 @@ For more guidance on selecting math courses, you can consult the math department
 - MATH 3610 - Mathematical Modeling
 - MATH 4500 - Matrix Groups
 - MATH 4530 - Introduction to Topology
-- MATH 4540 - Introduction to Differential Geometry
+- [MATH 4540](/classes/math/MATH4540.html) - Introduction to Differential Geometry
 
 ### Probability and Statistics
 
