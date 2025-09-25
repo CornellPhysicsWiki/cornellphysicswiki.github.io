@@ -4,6 +4,20 @@ layout: post
 ---
 <link rel="stylesheet" href="/main.css">
 
+## Fall 2025 
+
+- Yehyun Choi
+- Adam Zachry
+- Alp Vargelci
+- Sophia Yang
+
+## Spring 2025
+
+- Yehyun Choi
+- Aitzaz Shaikh
+- Sophia Yang
+- Livia Kong
+
 ## Spring 2024 - Fall 2024
 
 - Ayman Abou-Alfa
