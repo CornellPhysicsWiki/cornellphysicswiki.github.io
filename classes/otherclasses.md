@@ -12,10 +12,14 @@ This page is currently under construction — if you have any suggested courses,
 ### Chemistry
 
 ### Material Science
-
+- MSE 5720-Computational Materials Science
+  
 ### Electrical Engineering
-
 - ECE 2100-Introduction to Circuits for Electrical and Computer Engineers
 - ECE/ENGRD 2300-Digital Logic and Computer Organization
+- ECE 4130-Introduction to Nuclear Science and Engineering
+- ECE ECE 4300-Lasers and Optoelectronics
+- ECE 5330-Semiconductor Optoelectronics
+- ECE 5310-Quantum Optics for Photonics 
 
 
