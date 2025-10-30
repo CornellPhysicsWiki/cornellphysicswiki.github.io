@@ -19,7 +19,7 @@ Note that many upper level astronomy courses are cross listed with physics cours
 - [ASTRO 2201](/classes/astro/ASTRO2201.html) - The History of the Universe
 - [ASTRO 2202](/classes/astro/ASTRO2202.html) - A Spacecraft Tour of the Solar System: Science, Policy and Exploration
 - [ASTRO 2211](/classes/astro/ASTRO2211.html) - Astronomy: Stars, Galaxies, and Cosmology
-- [ASTRO 2212](/classes/astro/ASTRO2212.html) - The Solar System: Planets, Small Bodies and New Worlds
+- [ASTRO 2212](/classes/astro/ASTRO2212.md) - The Solar System: Planets, Small Bodies and New Worlds
 - [ASTRO 2299](/classes/astro/ASTRO2299.html) - Search for Life in the Universe
 
 ### 3000
