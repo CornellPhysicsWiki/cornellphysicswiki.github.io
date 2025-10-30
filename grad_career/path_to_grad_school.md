@@ -92,7 +92,7 @@ There are still successful applicants with a GPA in the mid-3’s. There are eve
 
 Many reputable physics graduate programs have stopped requiring students to submit physics GRE scores with their applications. Other schools will take into account how many times you took the physics GRE, and they’ll add extra points on if you only took it once, to account for the significant average increase in score for students who take it a second time. However, you should not assume that all the places you’re applying will be so nice. Many places even have minimum required GRE scores. Here’s what you need to know:
 
-- The  general GRE is a lot like the SAT, so treat it as you would have (or should have) in high school. Take a practice exam, see how you do, and evaluate whether/how you need further preparation. You can take the exam up to five times in any twelve-month period.
+- The general GRE is a lot like the SAT, so treat it as you would have (or should have) in high school. Take a practice exam, see how you do, and evaluate whether/how you need further preparation. You can take the exam up to five times in any twelve-month period.
 - Aim for a high physics GRE (PGRE) score. Don’t blow off the test – it’s not a measure of intelligence or creativity; it measures if you’ve memorized a lot of facts and formulas. Regardless of what you think of the PGRE, some professors still think highly of the exam and will factor your score into their evaluation of your application.
 - You should plan to spend a full semester getting ready for the physics GRE, and you should work through a full prep book (Conquering the Physics GRE seems to be the book people find most helpful) Take every single practice exam you can find online, and work through problems you get wrong. The PGRE likes to reuse questions and question styles.
 
@@ -117,8 +117,12 @@ Involvement in teaching and outreach activities shows that you’re interested i
 Furthermore, most major national fellowships will flat-out reject your application if you did not participate in any leadership, teaching, or service activities during college. For example, most government-funded fellowships evaluate you on two criteria: intellectual merit and broader impacts. The broader impacts part of your evaluation does in some sense evaluate whether the research you want to do has any application. However, the NSF committee usually construes the broader impacts section of your fellowships essay to also include your influence on the scientific community. Generally, you need teaching or outreach opportunities to satisfy that requirement.
 
 ## References + More Helpful Links
-- [https://physics.cornell.edu/applying-grad-school](https://physics.cornell.edu/applying-grad-school)
-- [http://sps.wustl.edu/advice/applications/best-schools/](http://sps.wustl.edu/advice/applications/best-schools/)
-- [https://physics.duke.edu/advice-applying-graduate-school](https://physics.duke.edu/advice-applying-graduate-school)
-- [https://physics.uoregon.edu/grad_studies/faq/](https://physics.uoregon.edu/grad_studies/faq/)
-- [https://sps.berkeley.edu/wiki/index.php?title=Graduate_School](https://sps.berkeley.edu/wiki/index.php?title=Graduate_School)
+
+
+- ["Tips for Applying to Grad School"](https://physics.cornell.edu/tips-applying-grad-school)
+- ["Advice for Applying to Graduate School"](https://physics.duke.edu/advice-applying-graduate-school)
+- ["Applying to STEM Ph.D. Programs"](https://github.com/gwisk/gradguide?tab=readme-ov-file)
+- ["Pontifications about Graduate School Applications"]("https://docs.google.com/presentation/d/1EgEkR7quethyYUrgxwNq5gUvlb8ypb1ax1nv4SSojyA/edit?usp=sharing")
+- ["A somewhat not-gentle guide to getting into grad school when you have subpar grades"]("https://www.reddit.com/r/gradadmissions/comments/25gmig/a_somewhat_notgentle_guide_to_getting_into_grad/")
+- ["Being Competitive for Grad School"]("https://www.reddit.com/r/Physics/comments/1vd7g0/being_competitive_for_grad_school/")
+- ["Structure is Magic (A Guide to the Graduate SOP)"]("https://writeivy.com/structure-is-magic-a-guide-to-the-graduate-sop/")

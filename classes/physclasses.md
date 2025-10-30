@@ -57,6 +57,8 @@ All the information in the below course pages is provided from students. Please 
 - [PHYS 4481/AEP 4812/CS 4812](/classes/phys/PHYS4481.html) - Quantum Information Processing
 - [PHYS 4484](/classes/phys/PHYS4484.html) - Teaching and Learning Physics
 - [PHYS 4488/PHYS 6562](/classes/phys/PHYS4488.html) - Statistical Mechanics
+- [PHYS 4498](/classes/phys/PHYS4498.html) - Senior Thesis I
+- [PHYS 4499](/classes/phys/PHYS4499.html) - Senior Thesis II
 
 ### 6000
 - [PHYS 6525](/classes/phys/PHYS6525.html) - High Energy Astrophysics
@@ -72,6 +74,7 @@ All the information in the below course pages is provided from students. Please 
 - [PHYS 7601](/classes/phys/PHYS7601.html) - Foundations of Fluid Mechanics
 - [PHYS 7635](/classes/phys/PHYS7635.html) - Solid-State Physics I
 - [PHYS 7636](/classes/phys/PHYS7636.html) - Solid-State Physics II
+- [PHYS 7645](/classes/phys/PHYS7645.html) - An Introduction to the Standard Model of Particle Physics
 - [PHYS 7651](/classes/phys/PHYS7651.html) - Relativistic Quantum Field Theory I
 - [PHYS 7652](/classes/phys/PHYS7652.html) - Relativistic Quantum Field Theory II
 - [PHYS 7680](/classes/phys/PHYS4480.html) - Computational Physics
