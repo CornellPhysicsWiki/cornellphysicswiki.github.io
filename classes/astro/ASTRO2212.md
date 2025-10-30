@@ -24,12 +24,19 @@ Calculus II credit (AP Calculus BC, MATH 1910, MATH 1120, or equivalent).
   
 ## Workload
 
-The final grades in the course will depend on homework sets and on a final team project and in-class presentation, supported by a joint term paper. It is more in-depth and quantitative than ASTRO 1102/ASTRO 1104.
+- The final grades in the course will depend on homework sets and on a final team project and in-class presentation, supported by a joint term paper. It is more in-depth and quantitative than ASTRO 1102/ASTRO 1104.
+  
+- 1 Pset a week, takes about 3 hours
 
 ## General Advice
-
+- Make sure that you take notes during class and reach out for help when you need it. [SP25] [5/5]
   
 ## Testimonials
 
 
 ## Past Offerings
+{:.past-offerings}
+
+| Semester | Professor | Median Grade | Syllabus |
+| --- | --- | --- | --- |
+| SP25 | Nikole Lewis | A- | <a href="/syllabi/ASTRO2212_SP25.pdf">ASTRO2212_SP25.pdf</a> |
