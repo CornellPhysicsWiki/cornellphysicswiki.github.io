@@ -67,7 +67,6 @@ All the information in the below course pages is provided from students. Please 
 - [PHYS 6561](/classes/phys/PHYS6561.html) - Classical Electrodynamics
 - [PHYS 6562](/classes/phys/PHYS4488.html) - Statistical Physics I
 - [PHYS 6572](/classes/phys/PHYS6572.html) - Quantum Mechanics I
-- [PHYS 6574](/classes/phys/PHYS6574.html) - Applications of Quantum Mechanics II
 - [PHYS 6599](/classes/phys/PHYS6599.html) - Cosmology
 
 ### 7000
