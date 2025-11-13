@@ -1,34 +1,51 @@
 ---
-title: Particle physics, accelerator physics
+title: High-energy physics
 layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
-# Particle physics, accelerator physics
+# High-energy physics
+Particle physics or high-energy physics is the study of fundamental particles and forces that constitute matter and radiation. The field also studies combinations of elementary particles up to the scale of protons and neutrons, while the study of combinations of protons and neutrons is called nuclear physics.
 
-Particle and accelerator physics represent the frontiers of our quest to understand the fundamental building blocks of the universe. Researchers in this dynamic field explore the tiniest constituents of matter and the fundamental forces that govern them. By utilizing cutting-edge particle accelerators, scientists accelerate particles to nearly the speed of light, recreating conditions similar to those at the birth of the cosmos. This research has led to groundbreaking discoveries, such as the Higgs boson, and continues to unravel mysteries about the nature of dark matter, antimatter, and the fundamental forces of the universe. Particle and accelerator physics not only expand our knowledge of the universe but also have practical applications in fields like medical imaging and advanced materials science, making it a cornerstone of modern science and technology.
+All high-energy physics is divided into two parts, one of which is concerned with the observation of physical phenomena and experiments, and the other with mathematical models and abstractions of physical phenomena. These sub-categories are examined below.
 
-Below, you will find opportunities in the Physics Department.
+## Experimental high-energy physics
+Cornell’s particle physicists are involved with the Large Hadron Collider (LHC) at CERN, the International Linear Collider (ILC) and the Cornell Electron Storage Ring (CESR). More resources can be found below:
+- [Experimental Elementary Particle Physics](https://physics.cornell.edu/research/experimental-elementary-particle-physics)
+- [Cornell Laboratory for Accelerator-based ScienceS and Education (CLASSE)](https://www.classe.cornell.edu/)
+- [Cornell High Energy Synchrotron Source (CHESS)](https://www.chess.cornell.edu/)
+- [CLASSE Tours](https://tours.classe.cornell.edu/)
+- [CLASSE Journal Club](https://www.classe.cornell.edu/NewsAndEvents/)
 
-## Research
-- Physics:
-  - [Experimental Particle Physics](https://physics.cornell.edu/research/experimental-elementary-particle-physics)
-  - [Theoretical Particle Physics](https://physics.cornell.edu/research/theoretical-elementary-particle-physics)
-  - [Accelerator Physics](https://physics.cornell.edu/research/accelerator-physics)
-  - [Cornell Laboratory for Accelerator-based ScienceS and Education (CLASSE)](https://www.classe.cornell.edu/)
-  - [Cornell High Energy Synchrotron Source (CHESS)](https://www.chess.cornell.edu/)
+The following courses are relevant to research in experimental high-energy physics:
+- [PHYS 3360](/classes/phys/PHYS3360.md) Electronic Circuits
+- [PHYS 4444](/classes/phys/PHYS4444.md) Introduction to Particle Physics 
+- [PHYS 6599](/classes/phys/PHYS6599.md) Cosmology
+- [PHYS 7645](/classes/phys/PHYS7645.md) An Introduction to the Standard Model of Particle Physics
+- [PHYS 7651](/classes/phys/PHYS7651.md) Relativistic Quantum Field Theory I
 
-## Courses
-- [PHYS 4444](/classes/phys/PHYS4444.html) - Introduction to Particle Physics
-- [PHYS 6561](/classes/phys/PHYS6561.html) - Classical Electrodynamics
-- [PHYS 6572](/classes/phys/PHYS6572.html) - Quantum Mechanics I
-- [PHYS 7651](/classes/phys/PHYS7651.html) - Relativistic Quantum Field Theory I
-- [PHYS 7652](/classes/phys/PHYS7652.html) - Relativistic Quantum Field Theory II
-- [MATH 4180](/classes/math/MATH4180.html) - Complex Analysis
-- [MATH 4500](/classes/math/MATH4500.html) - Matrix Groups
-- [MATH 4530](/classes/math/MATH4530.html) - Introduction to Topology
+## Theoretical high-energy physics
+Theoretical high-energy physics is again divided into phenomenology and formal theory. The former is the application of theoretical physics to experimental data by making quantitative predictions based upon known theories, often working on interpreting the LHC data, while the latter doesn't. While the work done and central themes in respective disciplines are different, theory students learn the same theory through graduate classes, before receiving specialized education, supervised by their professor. More resources for an advanced undergraduate student can be found below:
+- [Theoretical Particle Physics](https://physics.cornell.edu/research/theoretical-elementary-particle-physics)
+- [Particle Theory Seminars](https://www.classe.cornell.edu/news-events/events/particle-theory-seminars)
+- [David Tong: Lectures on Theoretical Physics](https://www.damtp.cam.ac.uk/user/tong/teaching.html)
+- [Previous TASI Lectures](https://www.colorado.edu/physics/events/summer-intensive-programs/theoretical-advanced-study-institute-elementary-particle-physics)
+
+Per the physics yellow book, the following courses are strongly recommended for research in theoretical high-energy physics:
+- [PHYS 6553](/classes/phys/PHYS6553.md) + [PHYS 6554](/classes/phys/PHYS6554.md) - General Relativity I + II
+- [PHYS 7651](/classes/phys/PHYS7651.md) + [PHYS 7652](/classes/phys/PHYS7652.md) - Relativistic Quantum Field Theory I + II
+- [PHYS 6599](/classes/phys/PHYS6599.md) - Cosmology
+- [PHYS 7645](/classes/phys/PHYS7645.md) - An Introduction to the Standard Model of Particle Physics
+
+The following courses are relevant to research in theoretical high-energy physics:
+- MATH 6510 - Algebraic Topology
+- MATH 6520 - Differentiable Manifolds
+
+Seminar class on theoretical high-energy physics are sometimes offered, based on student interest. Some previously-offered topics are:
+- The AdS/CFT Correspondence (FA25)
+- String Theory (FA24, FA17)
+- Relativistic Quantum Field Theory III (SP24, FA17)
+- Black holes and Quantum Information (FA21)
 
 ## Other opportunities
-- [CLASSE and LEPP Events and Seminars](https://www.classe.cornell.edu/NewsAndEvents/)
-- [CLASSE Tours](https://tours.classe.cornell.edu/)
   - Note that SPS offers tours at Wilson Synchrotron Laboratory on a semesterly to yearly basis, so be on the lookout for these emails if you are interested
