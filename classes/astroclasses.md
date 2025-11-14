@@ -11,7 +11,7 @@ Physics and Astrophysics majors are very closely related, as they share many of 
 Note that many upper level astronomy courses are cross listed with physics courses, such as Introduction to General Relativity 
 
 ### 1000
-- [ASTRO 1101](/classes/astro/ASTRO1101.md) - From New Worlds to Black Holes
+- [ASTRO 1101](/classes/astro/ASTRO1101.html) - From New Worlds to Black Holes
 <!-- - [ASTRO 1102](/classes/astro/ASTRO1102.md) - Our Solar System -->
 - [ASTRO 1195](/classes/astro/ASTRO1195.md) - Observational Astronomy
 
