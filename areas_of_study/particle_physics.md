@@ -27,12 +27,20 @@ The following courses may be relevant to research in experimental high-energy ph
 - [PHYS 7651](https://cornellphysicswiki.github.io/classes/phys/PHYS7651.html) Relativistic Quantum Field Theory I
 
 ## Theoretical high-energy physics
-Theoretical high-energy physics is again divided into phenomenology and formal theory. The former is the application of theoretical physics to experimental data by making quantitative predictions based upon known theories, often working on interpreting the LHC data, while the latter doesn't. While the work done and central themes in respective disciplines are different, theory students learn the same theory through graduate classes, before receiving specialized education, supervised by their professor. More resources for an advanced undergraduate student can be found below:
+Theoretical high-energy physics is again divided into phenomenology and formal theory. The former is the application of theoretical physics to experimental data by making quantitative predictions based upon known theories, often working on interpreting the LHC data, while the latter doesn't. While the work done and central themes in respective disciplines are different, theory students learn the same theory through graduate classes, before receiving specialized education, supervised by their professor. Some theoretical high-energy physics-specific resources at Cornell can be found below:
 - [Theoretical Particle Physics](https://physics.cornell.edu/research/theoretical-elementary-particle-physics)
-- [Particle Theory Seminars](https://www.classe.cornell.edu/news-events/events/particle-theory-seminars)
-- [David Tong, Lectures on Theoretical Physics](https://www.damtp.cam.ac.uk/user/tong/teaching.html)
-- [Previous TASI Lectures](https://www.colorado.edu/physics/events/summer-intensive-programs/theoretical-advanced-study-institute-elementary-particle-physics)
-- [Gerard 't Hooft, How to become a good theoretical physicist](https://www.goodtheorist.science/)
+- [Particle Theory Seminars](https://www.classe.cornell.edu/news-events/events/particle-theory-seminars) - weekly theory seminars at Cornell
+
+Some supplementary sources for topics in high-energy physics are found below:
+- [David Tong, Lectures on Theoretical Physics](https://www.damtp.cam.ac.uk/user/tong/teaching.html) - accessible introduction to many topics
+- [Previous TASI Lectures](https://www.colorado.edu/physics/events/summer-intensive-programs/theoretical-advanced-study-institute-elementary-particle-physics) - introductory lecture notes on modern research topics
+- [Gerard 't Hooft, How to become a good theoretical physicist](https://www.goodtheorist.science/) - topics and textbooks recommended by 't Hooft, a Nobel laureate
+- [HEP-Th resources](https://hassaansaleem.com/graduate-level-theoretical-physics-resources-in-progress/) - standard resources for topics, primarily in string theory
+
+Some advices for breaking into theory research as an undergraduate:
+- [Reid, Plain Talk on Undergraduate Research](https://home.uchicago.edu/~dreid/UndergradResearch.html) - general advice for undergraduates seeking undergraduate research, with a section on specifically theoretical research
+- ["Advice for undergrads interested in doing theory in graduate school"](https://cornellphysicswiki.github.io/questions/forum.html#advice-for-undergrads-interested-in-doing-theory-in-grad-school) - forum post on the Cornell SPS website on this exact topic
+- [Tao, Career Advice](https://terrytao.wordpress.com/career-advice/) - Terry's career advice for mathematicians; relevant to theoretical physicists as well
 
 Per the physics yellow book, the following courses are strongly recommended for research in theoretical high-energy physics:
 - [PHYS 6553](https://cornellphysicswiki.github.io/classes/phys/PHYS6553.html) + [PHYS 6554](https://cornellphysicswiki.github.io/classes/phys/PHYS6554.html) - General Relativity I + II
