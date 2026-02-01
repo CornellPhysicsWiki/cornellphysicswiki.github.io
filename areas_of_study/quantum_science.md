@@ -1,12 +1,12 @@
 ---
-title: Quantum information science, quantum materials, optics, lasers
+title: Quantum information science and Quantum Computing
 layout: default
 ---
 <link rel="stylesheet" href="/main.css">
 
 # Quantum information science, quantum materials, optics, lasers
 
-Quantum information science is a field that leverages the use of quantum mechanics in the manipulation and processing of information. By exploiting the unique nature of quantum systems, such as superposition and entanglement, tasks are able to be performed far more efficiently than would be possible with classical computing. Alongside this, quantum mechanics is used to study the unique properties of materials that don't abide by the laws of classical physics, such as superconductors, in which the study of electrons helps show their unexpected behaviors. Finally, quantum optics studies how individual photons of light interact with atomic structures. At Cornell, research into quantum phenomena is undertaken in a variety of different fields.
+Quantum information science is a field that leverages the use of quantum mechanics in the manipulation and processing of information. By exploiting the unique nature of quantum systems, such as superposition and entanglement, tasks are able to be performed far more efficiently than would be possible with classical computing. 
 
 Below, you will find opportunities in departments such as Physics and Applied & Engineering Physics.
 
