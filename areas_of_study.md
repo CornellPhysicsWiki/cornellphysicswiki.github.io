@@ -16,10 +16,9 @@ Physics research areas:
 - [Condensed Matter Physics](/areas_of_study/condensed_matter.html)
 - [Elementary Particle/Accelerator Physics](/areas_of_study/particle_physics.md)
 - [Physics Education Research](/areas_of_study/physics_education.html)
-
-AEP research areas:
 - [Fusion and Plasma Physics](/areas_of_study/plasma_physics.md)
-- [Quantum Information Science](/areas_of_study/quantum_science.md)
+- [Quantum Information and Quantum Computing](/areas_of_study/quantum_info.md)
+- [Atomic, Molecular, and Optical Physics](/areas_of_study/amo.md)
 
 Other research areas:
 - [Other research areas](/areas_of_study/other_departments.md)
