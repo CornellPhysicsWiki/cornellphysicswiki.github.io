@@ -11,13 +11,14 @@ layout: default
 
 ## Research funding
 **On-campus research funding sources:**
- | Link                                                                                                                                                       | Description                                                                        |
+| Link                                                                                                                                                       | Description                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [Summer Experience Grant](https://experience.cornell.edu/opportunities/summer-experience-grant)                                                            | Open to all undergraduates                                                         |
 | [Nexus](https://as.cornell.edu/research/nexus-scholars)                                                                                                    | Arts and Sciences only                                                             |
 | [Engineering Student Grants Program](https://www.duffield.cornell.edu/undergraduate-research/funding-your-research/)                                       | Engineering only; also allows funding for semester research                        |
-| [Rawlings Cornell Presidential Research Scholars](https://scl.cornell.edu/get-involved/cornell-commitment/rawlings-cornell-presidential-research-scholars) | Undergraduate research scholars program, apply during sophomore year        |
+| [Rawlings Cornell Presidential Research Scholars](https://scl.cornell.edu/get-involved/cornell-commitment/rawlings-cornell-presidential-research-scholars) | Undergraduate research scholars program; apply during sophomore year               |
 | [McNair Scholar](https://oadi.cornell.edu/signature-programs/ronald-e-mcnair-post-baccalaureate-achievement-program)                                       | First-gen, low-income, or traditionally underrepresented groups in graduate school |
+
 
 
 **Off-campus research funding sources:**
