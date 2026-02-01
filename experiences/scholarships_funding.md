@@ -10,13 +10,17 @@ layout: default
 - [Goldwater Scholarship](https://goldwaterscholarship.gov)
 
 ## Research funding
-On-campus research funding sources:
+**On-campus research funding sources:**
   - [Summer Experience Grant](https://experience.cornell.edu/opportunities/summer-experience-grant) - Open to all undergraduates
   - [Nexus](https://as.cornell.edu/research/nexus-scholars) - Arts and Sciences only
-  - [Engineering Learning Initiatives](https://www.engineering.cornell.edu/ugresearch/student-grant-program) - Engineering only, also allows funding for semester research
+  - [Engineering Student Grants Program]([https://www.engineering.cornell.edu/ugresearch/student-grant-program](https://www.duffield.cornell.edu/undergraduate-research/funding-your-research/)) - Engineering only, also allows funding for semester research
   - [Rawlings Cornell Presidential Research Scholars](https://scl.cornell.edu/get-involved/cornell-commitment/rawlings-cornell-presidential-research-scholars)
   - [McNair Scholar](https://oadi.cornell.edu/signature-programs/ronald-e-mcnair-post-baccalaureate-achievement-program) - First-gen, low-income or traditionally underrepresented groups in graduate school
 
+**Off-campus research funding sources:**
+  - [Optica Women Scholars](https://www.optica.org/foundation/opportunities/scholarships/optica_women_scholars/) - Women undergraduates who work in the field of photonics
+  - [SPS Award for Outstanding Undergraduate Research](https://students.aip.org/sps-award-for-outstanding-undergraduate-research) - SPS members only 
+    
 Other useful Cornell links:
   - [Undergraduate Research](https://as.cornell.edu/research/undergraduate-research) by the College of Arts and Sciences
   - [Research Funding](https://undergraduateresearch.cornell.edu/getting-started/research-funding/) by the Office of Undergraduate Research
