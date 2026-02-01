@@ -53,6 +53,7 @@ For more guidance on selecting math courses, you can consult the math department
 - MATH 3320 - Introduction to Number Theory
 - MATH 3340 - Abstract Algebra
 - MATH 3360 - Applicable Algebra
+- [MATH 4310](classes/math/MATH4310.html) - Linear Algebra
 - [MATH 4330](/classes/math/MATH4330.html) - Honors Linear Algebra
 - MATH 4340 - Honors Introduction to Algebra
 - MATH 4370 - Computational Algebra
