@@ -9,9 +9,15 @@ Atomic, Molecular, and Optical (AMO) Physics is the study of matter-matter and l
 It focuses on understanding the structure of atoms, molecules, and their interactions with electromagnetic fields. 
 
 
+## Resources
+- [Optical Physics Faculty in AEP](https://www.duffield.cornell.edu/aep/optical-physics/)
+- [AMO physics research page](https://www.lassp.cornell.edu/research/atomic-molecular-and-optical-physics)
+
 ## Courses
 - [PHYS 4454](https://cornellphysicswiki.github.io/classes/phys/PHYS4454.html) - Introductory Solid State Physics
 - [AEP 4400](https://cornellphysicswiki.github.io/classes/aep/AEP4400.html) - Nonlinear and Quantum Optics
 - [AEP 4450](https://cornellphysicswiki.github.io/classes/aep/AEP4450.html) - Electromagnetic and Optical Metamaterials
 - [PHYS 4230](https://cornellphysicswiki.github.io/classes/phys/PHYS4230.html) - Statistical Thermodynamics
 - ECE 4300 - Lasers and Optoelectronics
+
+
