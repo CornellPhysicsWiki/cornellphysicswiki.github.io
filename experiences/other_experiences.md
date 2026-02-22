@@ -8,8 +8,13 @@ layout: default
 
 Physics and Math competitions are a good challenge and can also stem new interests!
 
+- [Putnam](https://pi.math.cornell.edu/~zakh/putnam/)
 - [Cornell Mathematical Contest in Modelling](https://e.math.cornell.edu/sites/mcm/)
 - [iQuHACK](https://www.iquise.mit.edu/iQuHACK/2022-01-28)
+
+Many Physics majors also consider going into finance. There are a lot of opportunities, but to get you started do check out:
+- Spring Weeks
+- Trading Competitions
 
 BU: Geneva Physics Program: A study abroad program for physics and AEP students.
 - Partnered with Boston University
