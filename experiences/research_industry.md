@@ -31,45 +31,47 @@ An off-campus opportunity could be useful if you want to try out an area of phys
 ### Domestic Programs
 #### Universities
 - [NSF Research Experience for Undergradates Programs (REUs)](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=69)
+    - [Harvard SEAS REU](https://www.seas.harvard.edu/office-education-outreach-community-programs/research-experience-undergraduates-reu)
+    - [MIT Haystack REU](https://www.haystack.mit.edu/haystack-public-outreach/reu/): 
+    - [Columbia University Engineering and Applied Science REU](https://mrsec.columbia.edu/content/research-experiences-undergraduates-reu)
+    - [Columbia University Nevis Laboratories Particle Physics REU](https://mrsec.columbia.edu/content/research-experiences-undergraduates-reu)
+    - [UMich CERN REU](https://cern-reu.physics.lsa.umich.edu/)
+    - [Princeton University Plasma Physics Laboratory REU](https://www.pppl.gov/plasma-and-fusion-undergraduate-research-opportunities-pfuro)
 - [Undergraduate Research Programs at Caltech](https://sfp.caltech.edu/undergraduate-research/programs)
     - [WAVE](https://sfp.caltech.edu/undergraduate-research/programs/wavefellows)
     - [SURF](https://sfp.caltech.edu/undergraduate-research/programs/surf)
-    - programs with LIGO and NASA/JPL
-- [Harvard SEAS REU](https://www.seas.harvard.edu/office-education-outreach-community-programs/research-experience-undergraduates-reu)
-- [MIT Haystack REU](https://www.haystack.mit.edu/haystack-public-outreach/reu/)
 - [Johns Hopkins Applied Physics Lab College Summer Intern Program](https://www.jhuapl.edu/careers/internships)
-- [Columbia University Engineering and Applied Science REU](https://mrsec.columbia.edu/content/research-experiences-undergraduates-reu)
-- [Columbia University Nevis Laboratories Particle Physics REU](https://mrsec.columbia.edu/content/research-experiences-undergraduates-reu)
+- [IRIS-HEP at Princeton](https://iris-hep.org/): Software in high-energy physics.
+- [AAPM Summer Undergraduate Fellowship Program](https://aapm.secure-platform.com/gaf/page/SFP): Medical physics.
+- [Santa Fe Institute Undergraduate Complexity Research *](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
 
 #### National Labs
 - [Science Undergraduate Laboratory Internships (SULI)](https://science.osti.gov/wdts/suli)
   - Internships at all 17 of the US Department of Energy national laboratories
-- [Undergraduate Summer Programs at Fermilab *](https://internships.fnal.gov/undergraduate-programs/)
-  - Includes programs such as SULI, SIST, the Lee Teng Internship in Accelerator Physics, and the Superconducting Quantum Materials and Systems Internship (offerings may vary--please check the Fermilab website for the updated list)
-- [Los Alamos Undergraduate Student Internship Program](https://www.lanl.gov/careers/career-options/student-internships/undergraduate/index.php)
-- [Los Alamos National Laboratory Computational Physics Workshop](https://www.lanl.gov/org/padwp/adx/computational-physics/summer-workshop/index.php)
-- [Sandia Labs Internships *](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/)
-- [Princeton University Plasma Physics Laboratory REU](https://www.pppl.gov/plasma-and-fusion-undergraduate-research-opportunities-pfuro)
+- [Fermilab *](https://internships.fnal.gov/undergraduate-programs/)
+  - Includes programs such as SULI, SIST, the Lee Teng Internship in Accelerator Physics, and the ASC program.
+- [Los Alamos/LANL](https://www.lanl.gov/careers/career-options/student-internships/undergraduate/index.php)
+- [Sandia Labs*](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/)
 
 ### Government and Industry Labs
 - [NASA Programs for Undergraduates](https://science.nasa.gov/learners/learner-opportunities#undergrad)
   - Includes JPL internships
+- [NIST SURF](https://www.nist.gov/surf)
 - [NASA Academy](https://www.academyapp.com)
 - [Air Force Research Lab Internship](https://www.griffissinstitute.org/who-we-work-with/afrl/summer-internship)
 - [Lockheed Martin Student Internship](https://www.lockheedmartinjobs.com/college-students)
 - [MIT Lincoln Labs Summer Research Program *](https://www.ll.mit.edu/careers/student-opportunities/summer-research-program)
-- [Santa Fe Institute Undergraduate Complexity Research *](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
 - [NSA Director's Summer Program](https://www.intelligencecareers.gov/nsa/nsastudents.html)
 - [The Leadership Alliance Summer Research Program](https://theleadershipalliance.org/summer-research-early-identification-program)
 
 ### Programs Outside the US
-- [UMich CERN REU](https://cern-reu.physics.lsa.umich.edu/)
 - [Summer Student Programme at CERN *](https://home.web.cern.ch/summer-student-programme)
-- [Perimeter Institute START Program *](https://perimeterinstitute.ca/psi-start-program)
-- [RISE Germany *](https://www.daad.de/rise/en/rise-germany/)
-- [Kupcinet-Getz International Summer School *](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0)
+- [Perimeter Institute START Program *](https://perimeterinstitute.ca/psi-start-program): Theoretical physics.
+- [IFJ PAN Particle Physics Programme*](https://ppss.ifj.edu.pl/): Theoretical physics.
+- [DAAD RISE Germany *](https://www.daad.de/rise/en/rise-germany/)
+- [Kupcinet-Getz International Summer School *](https://info.weizmann.ac.il/en/kupcinet-getz-international-summer-program/)
+- [DESY Summer Student Programme *](https://summerstudents.desy.de/)
 
-  
 ### Other Resources
 - Search for research programs:
   - [Pathways to Science](https://www.pathwaystoscience.org/programs.aspx)
@@ -78,4 +80,3 @@ An off-campus opportunity could be useful if you want to try out an area of phys
 - Opportunities listed by other universities:
   - [Harvard](https://www.physics.harvard.edu/undergrad/summer)
   - [MIT](https://sps.scripts.mit.edu:444/resources/intern.php)
-
