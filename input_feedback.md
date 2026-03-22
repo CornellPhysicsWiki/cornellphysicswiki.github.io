@@ -6,6 +6,7 @@ layout: default
 
 # Input and Feedback
 
-If there is anything that you would like to see on the Wiki, please let us know! You can email us or fill out a form in the [Input and Feedback Forms](/input_feedback/feedback_forms.html) page.
+Please let us know if there is anything that you would like to see on the Wiki.
+If you are a current Cornell student, please help us out by filling this [General Information Form](https://forms.gle/NTkXz9zBahLqaYJHA) !
 
 You can also directly contribute to the Wiki! Please visit the [Contributing Guide](/input_feedback/contributing_guide.html) for more information.
