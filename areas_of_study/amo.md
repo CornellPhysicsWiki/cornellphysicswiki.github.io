@@ -19,5 +19,6 @@ It focuses on understanding the structure of atoms, molecules, and their interac
 - [AEP 4450](https://cornellphysicswiki.github.io/classes/aep/AEP4450.html) - Electromagnetic and Optical Metamaterials
 - [PHYS 4230](https://cornellphysicswiki.github.io/classes/phys/PHYS4230.html) - Statistical Thermodynamics
 - ECE 4300 - Lasers and Optoelectronics
+- ECE 4370 - Lasers and Photonics
 
 
