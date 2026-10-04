@@ -16,7 +16,7 @@ layout: default
 
 All the information in the below course pages is provided from students. Please check the course roster for official, up-to-date information. The Wiki is meant to supplement official sources with student insights, not replace them.
 
-For additional information: [CU Reviews | Physics](https://www.cureviews.org/results/keyword/physics)
+For additional information: [CU Review; Physics](https://www.cureviews.org/results/keyword/physics)
 
 ### 1000
 
