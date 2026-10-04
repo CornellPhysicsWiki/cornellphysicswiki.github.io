@@ -16,6 +16,8 @@ layout: default
 
 All the information in the below course pages is provided from students. Please check the course roster for official, up-to-date information. The Wiki is meant to supplement official sources with student insights, not replace them.
 
+For additional information: (CU Reviews | Physics)[https://www.cureviews.org/results/keyword/physics]
+
 ### 1000
 
 - [PHYS 1110](/classes/phys/PHYS1110.html) - Introduction to Experimental Physics <span class="tag">Intro</span> <span class="tag">Lab</span>
