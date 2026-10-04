@@ -10,6 +10,8 @@ All physics students are required to take an introductory sequence of math cours
 
 For students debating between the AEP mathematical physics sequence (AEP 3200 - AEP 4200) and MATH department courses, please refer to the [Mathematical Physics vs. Math Courses](/questions/FAQ/math_phys_vs_math.html) page.
 
+For additional information: [CU Reviews | Math](https://www.cureviews.org/results/major/MATH)
+
 ## Intro sequence
 
 The below math sequence is required for physics majors. Usually, many physics students have high school credit for MATH 1910, and these students begin their first semester with MATH 1920. It is extremely important to start this sequence in the first semester because all of the intro physics courses have one or more of these courses as a prerequisite. 
