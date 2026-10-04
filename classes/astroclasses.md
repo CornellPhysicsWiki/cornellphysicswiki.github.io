@@ -10,7 +10,7 @@ Physics and Astrophysics majors are very closely related, as they share many of 
 
 Note that many upper level astronomy courses are cross listed with physics courses, such as Introduction to General Relativity 
 
-Additional Information:
+Additional Information:\
 [CU Reviews - Astronomy](https://www.cureviews.org/results/major/ASTRO)
 
 ### 1000
