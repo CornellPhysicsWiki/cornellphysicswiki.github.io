@@ -15,6 +15,9 @@ layout: default
 
 AEP is a major offered in the College of Engineering, which is separate from the Physics major offered in the College of Arts and Sciences. The majors are still very connected, and as such many Physics majors will take AEP classes. 
 
+Additional Information:\
+[CU Reviews - AEP](https://www.cureviews.org/results/major/AEP)
+
 ### 1000
 - [AEP 1100](/classes/aep/AEP1100.html) -  Lasers and Photonics <span class="tag">Intro</span>
 - [AEP 1200](/classes/aep/AEP1200.html) -  Introduction to Nanoscience and Nanoengineering <span class="tag">Intro</span>
