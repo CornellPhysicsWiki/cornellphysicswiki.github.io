@@ -8,6 +8,11 @@ layout: default
 
 Computer Science is an essential skill for any Physics research. Many of the undergraduate intro research projects heavily or solely involve coding. As such, many Physics major will take some of the intro CS courses to learn foundational skills for their research.
 
+Additional Information:\
+[CU Reviews - Astronomy](https://www.cureviews.org/results/major/ASTRO)
+[Cornell CS Wiki](https://cornellcswiki.gitlab.io/)
+
+
 - [CS 1110](/classes/cs/CS1110.html) - Introduction to Computing Using Python
 - [CS 1112](/classes/cs/CS1112.html) - Introduction to Computing: An Engineering and Science Perspective (Python)
 - [CS 1132](/classes/cs/CS1132.html) - Short Course in MATLAB
@@ -19,4 +24,4 @@ Computer Science is an essential skill for any Physics research. Many of the und
 - [CS 4780](/classes/cs/CS4780.html) - Introduction to Machine Learning
 - [CS 4820](/classes/cs/CS4820.html) - Introduction to Analysis of Algorithms
 
-There is also the [Cornell CS Wiki](https://cornellcswiki.gitlab.io/), which has more information on courses.
+
