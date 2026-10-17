@@ -14,25 +14,29 @@ For further information: [Physics | Minor](https://catalog.cornell.edu/programs/
 {:.Curriculum}
 
 ### Required Courses
+
 | Class Code | Class Title | Pre-requisites | Co-requisites |
 | --- | --- | --- | --- |
 | PHYS 1110 | Introduction to Experimental Physics || PHYS 1112/PHYS 1116/PHYS 2213/ PHYS 2217 |
 | PHYS 3316 | Basics of Quantum Mechanics  | PHYS 2214/PHYS 2218 and PHYS 1116/PHYS 2216 |  |
 
 ### Intro Mechanics: (One of the following)
+
 | Class Code | Class Title | Pre-requisites | Co-requisites |
 | --- | --- | --- | --- |
 | PHYS 1112 | Mechanics and Heat | Calculus II | PHYS 1110 |
 | PHYS 1116 | Mechanics and Special Relativity | Calculus II | PHYS 1110 |
 | PHYS 2207 | Fundamentals of Physics |  |  |
 
-### Special relativity: (One of the following) 
+### Special relativity: (One of the following)
+
 | Class Code | Class Title | Pre-requisites | Co-requisites |
 | --- | --- | --- | --- |
 | PHYS 1116 | Mechanics and Special Relativity | Calculus II |  |
 | PHYS 2216 | Introduction to Special Relativity | PHYS 1112/PHYS 1116 |
 
 ### Intro E&M: (One of the following)
+
 | Class Code | Class Title | Pre-requisites | Co-requisites |
 | --- | --- | --- | --- |
 | PHYS 2208 | Fundamentals of Physics II | PHYS 2207/PHYS 1112 |  |
@@ -40,12 +44,14 @@ For further information: [Physics | Minor](https://catalog.cornell.edu/programs/
 | PHYS 2217 | Electricity and Magnetism | Calculus III, PHYS 1112/PHYS 1116 |  |
 
 ### Waves: (One of the following)
+
 | Class Code | Class Title | Pre-requisites | Co-requisites |
 | --- | --- | --- | --- |
 | PHYS 2214 | Oscillations, Waves, and Quantum Physics | PHYS 2213, MATH 1920/MATH 2220/MATH 2240  |  |
 | PHYS 2218 | Waves and Thermal Physics  | | PHYS 2210 |
 
 ### Intermediate Physics Lab: (One of the following)
+
 | Class Code | Class Title | Pre-requisites | Co-requisites |
 | --- | --- | --- | --- |
 | PHYS 3310 | Intermediate Experimental Physics | PHYS 2208/PHYS 2214/PHYS 2218 |  |
