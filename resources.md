@@ -13,6 +13,9 @@ layout: default
 - [PhysTech - Physics Teacher Education Coalition](http://phystec.physics.cornell.edu)
 - [Guide To Graduate Studies in Physics](https://cornell.app.box.com/s/28e1bahi0pfjma1qwjd5kz6n1djetk89)
 
+## Minoring in Physics 
+- [Physics Minor Information](/resources/minor.html)
+
 ## Peer Mentorship
 
 - [Undergraduate Peer Mentee Signup](https://docs.google.com/forms/d/e/1FAIpQLSf5EwfA12AivL7SCUbITONtDVjWqvTqjYtNnlnsf8f-Nc4c5Q/viewform?usp=dialog)
