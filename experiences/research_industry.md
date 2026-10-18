@@ -44,6 +44,7 @@ An off-campus opportunity could be useful if you want to try out an area of phys
 - [IRIS-HEP at Princeton](https://iris-hep.org/): Software in high-energy physics.
 - [AAPM Summer Undergraduate Fellowship Program](https://aapm.secure-platform.com/gaf/page/SFP): Medical physics.
 - [Santa Fe Institute Undergraduate Complexity Research *](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
+- [Yale SURF](https://gsas.yale.edu/programs-of-study/summer-undergraduate-research-fellowship-program)
 
 #### National Labs
 - [Science Undergraduate Laboratory Internships (SULI)](https://science.osti.gov/wdts/suli)
@@ -76,6 +77,8 @@ An off-campus opportunity could be useful if you want to try out an area of phys
 - [Kupcinet-Getz International Summer School *](https://info.weizmann.ac.il/en/kupcinet-getz-international-summer-program/)
 - [DESY Summer Student Programme *](https://summerstudents.desy.de/)
 - [PRISMA++ Internship Programme *](https://prisma.uni-mainz.de/en/prisma-internship-programm/#internship%20candidates)
+- [Max Planck Matter to Life*](https://mattertolife.maxplanckschools.org/uro-research-internship)
+- [UWaterloo IQC-Mitacs Internship](https://uwaterloo.ca/institute-for-quantum-computing/info-for/iqc-mitacs-internship-program)
 
 ### Other Resources
 - Search for research programs:
