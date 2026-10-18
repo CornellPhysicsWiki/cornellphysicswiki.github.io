@@ -16,12 +16,22 @@ You do not need to understand every detail of a group's research before reaching
 
 ## Cornell Resources
 
-Areas of research at Cornell that are of interest to physics students are listed by category on the [Areas of Study](/areas_of_study.html) page.
+### Finding Groups and Professors
+
+Areas of research at Cornell that are of interest to physics students are listed by category on the [Areas of Study](/areas_of_study.html) page. Research opportunities also extend beyond the Physics Department, including Applied and Engineering Physics, Astronomy, and other engineering departments.
+
+- [Physics Research Opportunities](https://physics.cornell.edu/student-research-department): Project descriptions and faculty contacts for advertised undergraduate positions. Many positions are not advertised, so you can also contact professors directly.
+- [Quantum Science and Engineering Researchers](https://quantum.cornell.edu/researchers/): A directory of researchers across departments. Use it to find faculty working on quantum topics and explore their group websites.
+- [Engineering Research Areas](https://www.duffield.cornell.edu/core-areas-of-excellence-and-priority-research-directions/): Explore research themes across engineering to identify related fields and departments.
+
+### Guidance and Mentorship
 
 - [A&S Undergraduate Research](https://as.cornell.edu/research/undergraduate-research): An overview of undergraduate research in the College of Arts & Sciences.
 - [Cornell Undergraduate Research: First Steps](https://undergraduateresearch.cornell.edu/getting-started/first-steps/): University guidance on getting started in research.
 - [CURB Peer Mentorship Program](https://www.cornellcurb.com/pmp): Help finding and navigating research opportunities from an undergraduate mentor.
 - [CURB Connect](https://www.cornellcurb.com/curb-connect): Opportunities to meet professors and learn about their research.
+- [Engineering Rising Researchers Program](https://www.duffield.cornell.edu/undergraduate-research/research-opportunities/rising-researchers-program/): A structured research and mentorship program for first- and second-year Engineering students. See the program page for eligibility and participation requirements.
+- [Physics Research Resources](https://physics.cornell.edu/research-resources): Additional links to research support, funding agencies, scientific literature, and tools.
 
 ## Choosing a Research Opportunity
 
