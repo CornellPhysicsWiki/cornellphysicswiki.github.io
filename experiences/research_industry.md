@@ -46,7 +46,7 @@ An off-campus opportunity could be useful if you want to try out an area of phys
 - [Santa Fe Institute Undergraduate Complexity Research *](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research)
 - [Yale SURF](https://gsas.yale.edu/programs-of-study/summer-undergraduate-research-fellowship-program)
 
-#### National Labs
+### National Labs
 - [Science Undergraduate Laboratory Internships (SULI)](https://science.osti.gov/wdts/suli)
   - Internships at all 17 of the US Department of Energy national laboratories
 - [Fermilab *](https://internships.fnal.gov/undergraduate-programs/)
