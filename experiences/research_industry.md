@@ -6,7 +6,7 @@ layout: default
 
 # Research and Industry Experiences
 
-For those who plan to continue Physics research into graduate school, research as an undergrad is essential, as colleges are looking that you already have experience in the field. There are many ways to get into research. We have many links below to programs that provide opportunities for research. Another way of getting research is to directly email professors whose research you find interesting. Having experiences from industry and summer programs is also very helpful.
+For those who plan to continue Physics research into graduate school, research as an undergrad is essential, as colleges are looking that you already have experience in the field. There are many ways to get into research. We have included many links below to programs that provide opportunities for research. Another way of getting research is to directly email professors whose research you find interesting. Having experiences from industry and summer programs is also very helpful.
 
 ## Getting Involved in Research
 
@@ -26,7 +26,7 @@ An off-campus opportunity could be useful if you want to try out an area of phys
 
 **Note for international students:** NSF grants and DoE grants are only for American citizens/permanent residents. However, there are various opportunities still available for international students. The website reufinder.com is a good resources to start looking for REUs that international students are eligible for. Programs that international students are eligible for are tagged with an asterisk (*).
   
-### Domestic Programs
+### Domestic Summer Programs
 #### Universities
 - [NSF Research Experience for Undergradates Programs (REUs)](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=69)
     - [Harvard SEAS REU](https://www.seas.harvard.edu/office-education-outreach-community-programs/research-experience-undergraduates-reu)
@@ -35,9 +35,11 @@ An off-campus opportunity could be useful if you want to try out an area of phys
     - [Columbia University Nevis Laboratories Particle Physics REU](https://mrsec.columbia.edu/content/research-experiences-undergraduates-reu)
     - [UMich CERN REU](https://cern-reu.physics.lsa.umich.edu/)
     - [Princeton University Plasma Physics Laboratory REU](https://www.pppl.gov/plasma-and-fusion-undergraduate-research-opportunities-pfuro)
-- [Undergraduate Research Programs at Caltech](https://sfp.caltech.edu/undergraduate-research/programs)
-    - [WAVE](https://sfp.caltech.edu/undergraduate-research/programs/wavefellows)
-    - [SURF](https://sfp.caltech.edu/undergraduate-research/programs/surf)
+    - [UIUC Physics REU*](https://physics.illinois.edu/research/reu)
+    - [URochester REU](https://www.pas.rochester.edu/undergraduate/reu/index.html)
+    - [UCSB Physics REU](https://reu.physics.ucsb.edu/research)
+- [Caltech WAVE](https://sfp.caltech.edu/undergraduate-research/programs/wavefellows)
+- [Caltech SURF](https://sfp.caltech.edu/undergraduate-research/programs/surf)
 - [Johns Hopkins Applied Physics Lab College Summer Intern Program](https://www.jhuapl.edu/careers/internships)
 - [IRIS-HEP at Princeton](https://iris-hep.org/): Software in high-energy physics.
 - [AAPM Summer Undergraduate Fellowship Program](https://aapm.secure-platform.com/gaf/page/SFP): Medical physics.
@@ -47,9 +49,11 @@ An off-campus opportunity could be useful if you want to try out an area of phys
 - [Science Undergraduate Laboratory Internships (SULI)](https://science.osti.gov/wdts/suli)
   - Internships at all 17 of the US Department of Energy national laboratories
 - [Fermilab *](https://internships.fnal.gov/undergraduate-programs/)
-  - Includes programs such as SULI, SIST, the Lee Teng Internship in Accelerator Physics, and the ASC program.
+  - Includes programs such as SULI, Helen Edwards Summer Internship, and the ASC program.
 - [Los Alamos/LANL](https://www.lanl.gov/careers/career-options/student-internships/undergraduate/index.php)
 - [Sandia Labs*](https://www.sandia.gov/careers/career-possibilities/students-and-postdocs/internships-co-ops/)
+- [Argonne Lee Teng Fellowship](https://www.anl.gov/education/lee-teng-fellowship)
+- [Pacific Northwest National Laboratory](https://www.pnnl.gov/internships)
 
 ### Government and Industry Labs
 - [NASA Programs for Undergraduates](https://science.nasa.gov/learners/learner-opportunities#undergrad)
@@ -61,6 +65,8 @@ An off-campus opportunity could be useful if you want to try out an area of phys
 - [MIT Lincoln Labs Summer Research Program *](https://www.ll.mit.edu/careers/student-opportunities/summer-research-program)
 - [NSA Director's Summer Program](https://www.intelligencecareers.gov/nsa/nsastudents.html)
 - [The Leadership Alliance Summer Research Program](https://theleadershipalliance.org/summer-research-early-identification-program)
+- [U.S. Naval Research Laboratory](https://www.nrl.navy.mil/careers/students/)
+- [Mickey Leland Energy Fellowship](https://orise.orau.gov/mlef/index.html)
 
 ### Programs Outside the US
 - [Summer Student Programme at CERN *](https://home.web.cern.ch/summer-student-programme)
@@ -69,6 +75,7 @@ An off-campus opportunity could be useful if you want to try out an area of phys
 - [DAAD RISE Germany *](https://www.daad.de/rise/en/rise-germany/)
 - [Kupcinet-Getz International Summer School *](https://info.weizmann.ac.il/en/kupcinet-getz-international-summer-program/)
 - [DESY Summer Student Programme *](https://summerstudents.desy.de/)
+- [PRISMA++ Internship Programme *](https://prisma.uni-mainz.de/en/prisma-internship-programm/#internship%20candidates)
 
 ### Other Resources
 - Search for research programs:
