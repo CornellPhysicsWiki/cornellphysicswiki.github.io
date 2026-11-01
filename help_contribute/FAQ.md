@@ -8,9 +8,9 @@ layout: default
 
 ## Classes
 
-- [Which classes should I take?](/questions/FAQ/which_class.html)
-- [Intro physics sequence](/questions/FAQ/engineering_vs_honors.html): the engineering sequence (PHYS 1112 - PHYS 2213 - PHYS 2214) vs. the honors sequence (PHYS 1116 - PHYS 2217 - PHYS 2218)
-- [Math classes](/questions/FAQ/math_phys_vs_math.html): mathematical physics (AEP 3200 - AEP 4200) vs. courses from the MATH department
+- [Which classes should I take?](/help_contribute/FAQ/which_class.html)
+- [Intro physics sequence](/help_contribute/FAQ/engineering_vs_honors.html): the engineering sequence (PHYS 1112 - PHYS 2213 - PHYS 2214) vs. the honors sequence (PHYS 1116 - PHYS 2217 - PHYS 2218)
+- [Math classes](/help_contribute/FAQ/math_phys_vs_math.html): mathematical physics (AEP 3200 - AEP 4200) vs. courses from the MATH department
 
 ## Post-undergrad plans
 
