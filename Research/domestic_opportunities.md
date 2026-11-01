@@ -16,6 +16,7 @@ Here is a useful undergraduate research page provided by A&S: [Undergraduate Res
 
 #### Universities
 
+
 | Program | Location | Length | Paid/fee | Research Areas | Notes |
 |---|---|---|---|---|---|
 | [Harvard SEAS REU](https://www.seas.harvard.edu/office-education-outreach-community-programs/research-experience-undergraduates-reu) | Cambridge, MA | 10 weeks | $6500 | Material Science |  | 
@@ -33,11 +34,13 @@ Here is a useful undergraduate research page provided by A&S: [Undergraduate Res
 | [Santa Fe Institute Undergraduate Complexity Research](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research) | Santa Fe, NM | 10 weeks | $7000 | Varies | Intl. students eligible | 
 | [Yale SURF](https://gsas.yale.edu/programs-of-study/summer-undergraduate-research-fellowship-program) | New Haven, CT | 8 weeks | $4000 | Varies |  | 
 
+
 See more REU programs here: [NSF Research Experience for Undergraduates Programs (REUs)](https://www.nsf.gov/crssprgm/reu/list_result.jsp?unitid=69)
 
 
 
 ## National Labs
+
 | Program | Location | Length | Paid/fee | Research Areas | Notes |
 |---|---|---|---|---|---|
 | [Science Undergraduate Laboratory Internships (SULI)](https://science.osti.gov/wdts/suli) | Varies | Varies | Varies | Varies | Internships at all 17 of the US Department of Energy national laboratories | 
@@ -48,7 +51,9 @@ See more REU programs here: [NSF Research Experience for Undergraduates Programs
 | [Pacific Northwest National Laboratory](https://www.pnnl.gov/internships) | Varies | Varies | Varies | Varies |  | 
 
 
+
 ## Government and Industry Labs
+
 | Program | Location | Length | Paid/fee | Research Areas | Notes |
 |---|---|---|---|---|---|
 | [NASA Programs for Undergraduates](https://science.nasa.gov/learners/learner-opportunities#undergrad) | Varies | Varies | Varies | Varies | Includes JPL internships | 
@@ -61,3 +66,4 @@ See more REU programs here: [NSF Research Experience for Undergraduates Programs
 | [The Leadership Alliance Summer Research Program](https://theleadershipalliance.org/summer-research-early-identification-program) | Varies | 8 to 10 weeks | Varies | Varies |  |
 | [U.S. Naval Research Laboratory](https://www.nrl.navy.mil/careers/students/) | Varies | Varies | Varies | Varies |  |
 | [Mickey Leland Energy Fellowship](https://orise.orau.gov/mlef/index.html) | Varies | 10 weeks | $7500 | Renewable Energy and other focuses |  |
+
