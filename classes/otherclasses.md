@@ -21,7 +21,7 @@ This page is currently under construction — if you have any suggested courses,
 - ECE 4130-Introduction to Nuclear Science and Engineering
 - ECE 4360 / MSE 5410 — Nanofabrication and Characterization of Electronics
 - ECE 4300-Lasers and Optoelectronics
-- [ECE 4370](/classes/math/ECE4370.html) - Photonics: Fundamentals and Devices
+- [ECE 4370](/classes/others/ECE4370.html) - Photonics: Fundamentals and Devices
 - ECE 5330-Semiconductor Optoelectronics
 - ECE 5310-Quantum Optics for Photonics
   
