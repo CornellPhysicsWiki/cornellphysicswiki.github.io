@@ -10,16 +10,19 @@ This page is currently under construction — if you have any suggested courses,
 
 
 ### Chemistry
+- CHEM 6090 Nanomaterials: Chemistry and Physics
 
 ### Material Science
-- MSE 5720-Computational Materials Science
+- MSE 3050 — Electronic, Magnetic, and Dielectric Properties of Materials
   
 ### Electrical Engineering
 - ECE 2100-Introduction to Circuits for Electrical and Computer Engineers
 - ECE/ENGRD 2300-Digital Logic and Computer Organization
 - ECE 4130-Introduction to Nuclear Science and Engineering
-- ECE ECE 4300-Lasers and Optoelectronics
+- ECE 4360 / MSE 5410 — Nanofabrication and Characterization of Electronics
+- ECE 4300-Lasers and Optoelectronics
 - ECE 5330-Semiconductor Optoelectronics
-- ECE 5310-Quantum Optics for Photonics 
+- ECE 5310-Quantum Optics for Photonics
+  
 
 
