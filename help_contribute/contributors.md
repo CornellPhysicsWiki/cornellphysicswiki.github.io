@@ -4,6 +4,13 @@ layout: post
 ---
 <link rel="stylesheet" href="/main.css">
 
+
+## Spring 2026 
+
+- Yehyun Choi
+- Adam Zachry
+- Sophia Yang
+
 ## Fall 2025 
 
 - Yehyun Choi
