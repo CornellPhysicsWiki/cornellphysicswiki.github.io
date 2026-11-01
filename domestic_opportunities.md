@@ -1,5 +1,5 @@
 ---
-title: Research and Industry Experiences
+title: Domestic Research Opportunities
 layout: default
 ---
 <link rel="stylesheet" href="/main.css">
